@@ -81,12 +81,12 @@ int main(uint32_t magic, struct multiboot_info* mb_info_addr) {
     // copyZeroTerminatedCharArrayToEvenPositionsInCharArray((char*)&a, vga_text);
 
     struct VgaTextModeInterface screen = NewVgaTextModeInterface();
-    // screen.Print(&screen, "Hello World!!", VgaColor(vga_red, vga_black));
+    screen.Print(&screen, "Hello World!!", VgaColor(vga_cyan, vga_black));
+
+    // Test how the os handels overflow:
+    // while(1){screen.Print(&screen, "aaaaaaaaaaaaaaaaaaaaaa", VgaColor(vga_white, vga_black));}
     
     //Dont let the OS insta-reboot
-
-    while(1){screen.Print(&screen, "aaaaaaaaaaaaaaaaaaaaaa", VgaColor(vga_white, vga_black));}
-
     while(1){}
     return 0;
 }
