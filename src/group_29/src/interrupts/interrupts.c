@@ -103,11 +103,111 @@ void keyboard_interrupt_handler(struct interrupt_frame* frame) {
     keyboard_callback();
 }
 
-// This code is too HEAVY to be inside the keyboard_interupt_handler()
-void keyboard_callback(){
-    uint8_t scan = inb(0x60);
+typedef enum {
+    READ_SCANCODE,
+    READ_E0,
+    READ_E1_1,
+    READ_E1_2,
+    READ_E1_3,
+    READ_E1_4,
+    READ_F0,
+    READ_F0_E0
+} keyboard_state_t;
+
+typedef struct {
+    keyboard_state_t state;
+    uint8_t flags;
+    uint8_t has_extended;
+} keyboard_context_t;
+
+static keyboard_context_t kbd_ctx = {0};
+
+static void keyboard_reset_context() {
+    kbd_ctx.state = READ_SCANCODE;
+    kbd_ctx.flags = 0;
+    kbd_ctx.has_extended = 0;
+}
+
+static void keyboard_handle_scancode(uint8_t code, uint8_t flags, uint8_t extended) {
     struct VgaTextModeInterface screen = NewVgaTextModeInterface();
-    char s[2] = {scan, 0};
-    screen.Print(&screen, s, VgaColor(vga_white, vga_black));
-    outb(0x20, 0x20); // Send EOI
+    char hex_str[9];
+    uint8_t i = 0;
+    
+    if (extended) {
+        hex_str[i++] = 'E';
+        hex_str[i++] = '0';
+        hex_str[i++] = ' ';
+    }
+    if (flags & 0x01) {
+        hex_str[i++] = 'R';
+        hex_str[i++] = ' ';
+    }
+    
+    uint8_t hi = (code >> 4) & 0x0F;
+    uint8_t lo = code & 0x0F;
+    hex_str[i++] = (hi < 10) ? ('0' + hi) : ('A' + hi - 10);
+    hex_str[i++] = (lo < 10) ? ('0' + lo) : ('A' + lo - 10);
+    hex_str[i++] = ' ';
+    hex_str[i] = '\0';
+    
+    screen.Print(&screen, hex_str, VgaColor(vga_white, vga_black));
+}
+
+void keyboard_callback() {
+    uint8_t scan = inb(0x60);
+    
+    switch (kbd_ctx.state) {
+        case READ_SCANCODE:
+            if (scan == 0xE0) {
+                kbd_ctx.state = READ_E0;
+            } else if (scan == 0xE1) {
+                kbd_ctx.state = READ_E1_1;
+            } else if (scan == 0xF0) {
+                kbd_ctx.state = READ_F0;
+            } else {
+                keyboard_handle_scancode(scan, kbd_ctx.flags, kbd_ctx.has_extended);
+                keyboard_reset_context();
+            }
+            break;
+
+        case READ_E0:
+            keyboard_handle_scancode(scan, kbd_ctx.flags, 1);
+            keyboard_reset_context();
+            break;
+
+        case READ_E1_1:
+            kbd_ctx.state = READ_E1_2;
+            break;
+
+        case READ_E1_2:
+            kbd_ctx.state = READ_E1_3;
+            break;
+
+        case READ_E1_3:
+            kbd_ctx.state = READ_E1_4;
+            break;
+
+        case READ_E1_4:
+            kbd_ctx.flags |= 0x01;
+            keyboard_handle_scancode(0xE1, kbd_ctx.flags, 0);
+            keyboard_reset_context();
+            break;
+
+        case READ_F0:
+            kbd_ctx.flags |= 0x01;
+            if (scan == 0xE0) {
+                kbd_ctx.state = READ_F0_E0;
+            } else {
+                keyboard_handle_scancode(scan, kbd_ctx.flags, kbd_ctx.has_extended);
+                keyboard_reset_context();
+            }
+            break;
+
+        case READ_F0_E0:
+            keyboard_handle_scancode(scan, kbd_ctx.flags, 1);
+            keyboard_reset_context();
+            break;
+    }
+
+    outb(0x20, 0x20);
 }
