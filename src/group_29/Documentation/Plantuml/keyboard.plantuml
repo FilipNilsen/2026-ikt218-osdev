@@ -1,0 +1,30 @@
+@startuml
+actor Program
+actor OS
+actor User
+
+activate Program
+activate User
+activate OS
+==Get a scancode==
+Program -> OS++: await_scancode()
+User -> OS: Press key
+OS --> Program--:scancode:uint8_t
+Program -> OS++: await_scancode()
+User -> OS: Release key
+OS --> Program--:scancode:uint8_t
+==Get scancodes from buffer==
+User -> OS: Uses keyboard
+Program -> OS++: get_scancodes()
+OS --> Program--: scancodes:uint8_t[*]
+==Get single key as ASCII==
+Program -> OS++: await_keyboard_ascii()
+User -> OS: Press key
+User -> OS: Release key
+OS --> Program--: char:uint8_t
+==Get input buffer as ascii==
+User -> OS: Uses keyboard
+Program -> OS++: get_ascii()
+OS --> Program--: ascii:uint8_t[*]
+
+@enduml
