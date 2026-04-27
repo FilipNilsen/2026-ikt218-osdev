@@ -1,0 +1,3 @@
+<map id="gdt_pointer" name="gdt_pointer">
+<area shape="rect" id="Node000001" title="Pointer structure used by the lgdt instruction." alt="" coords="5,5,124,92"/>
+</map>
