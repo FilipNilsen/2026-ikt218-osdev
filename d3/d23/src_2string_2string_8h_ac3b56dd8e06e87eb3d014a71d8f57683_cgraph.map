@@ -1,0 +1,5 @@
+<map id="string_copy" name="string_copy">
+<area shape="rect" id="Node000001" title="Copies a null&#45;terminated string into a fixed&#45;size buffer." alt="" coords="5,5,93,31"/>
+<area shape="rect" id="Node000002" href="$d1/db0/string_8c.html#a12bee89ccd121c793b3e81305a60c211" title="Finds the length of a string." alt="" coords="141,5,194,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,16,125,16,125,21,93,21"/>
+</map>

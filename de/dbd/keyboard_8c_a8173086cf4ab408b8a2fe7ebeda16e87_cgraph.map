@@ -1,0 +1,25 @@
+<map id="keyboard_handle_scancode" name="keyboard_handle_scancode">
+<area shape="rect" id="Node000001" title="Processes one raw scancode from the keyboard controller." alt="" coords="5,104,187,130"/>
+<area shape="rect" id="Node000002" href="$de/dbd/keyboard_8c.html#a544a17b7b4e1f6c5611c072bfd630215" title="Pops the oldest key event from the keycode buffer." alt="" coords="256,5,392,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,101,169,71,234,40,250,34,252,39,236,45,171,76,119,106"/>
+<area shape="rect" id="Node000003" href="$de/dbd/keyboard_8c.html#a7ff08651d75c90ea2f496f88d94aae0d" title="Pushes one translated ASCII character into the ASCII buffer." alt="" coords="263,55,385,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,101,247,81,248,87,159,106"/>
+<area shape="rect" id="Node000004" href="$de/dbd/keyboard_8c.html#ab01bbe608bc37fbe6e8657cd45796920" title="Pushes a raw keyboard scancode into the scancode buffer." alt="" coords="248,104,400,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,114,232,114,232,120,187,120"/>
+<area shape="rect" id="Node000005" href="$de/dbd/keyboard_8c.html#a3577fb410a56f4acd48d76dbd00ecf9b" title="Converts one buffered scancode into a keycode event." alt="" coords="258,153,390,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="159,128,247,147,246,152,158,133"/>
+<area shape="rect" id="Node000009" href="$de/dbd/keyboard_8c.html#af93dc00ed7d7f17b65f711fd64b365bf" title="Translates one key event into an ASCII character." alt="" coords="235,227,413,252"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="123,128,286,217,283,221,121,133"/>
+<area shape="rect" id="Node000006" href="$de/dbd/keyboard_8c.html#a66deccb084d3d42040cca136f6aa8b76" title="Creates a keycode struct describing one key press or release event." alt="" coords="483,67,583,92"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="386,150,412,140,435,121,460,101,469,96,471,101,462,106,439,125,414,144,388,155"/>
+<area shape="rect" id="Node000007" href="$de/dbd/keyboard_8c.html#a65c0f927a3495e589d9199520ca98d81" title="Pops the oldest raw scancode from the scancode buffer." alt="" coords="461,116,605,142"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="390,152,445,142,446,147,391,157"/>
+<area shape="rect" id="Node000008" href="$de/dbd/keyboard_8c.html#aee5c577634abbfd2859abae4730cc1d4" title="Pushes a decoded key event into the keycode buffer." alt="" coords="462,165,605,191"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="391,167,446,171,446,176,390,173"/>
+<area shape="rect" id="Node000010" href="$de/dbd/keyboard_8c.html#a70695868156acb029ed4f8c6f00be092" title="Checks whether a translated ASCII character is a lowercase letter." alt="" coords="500,215,567,240"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="413,232,484,228,484,233,414,237"/>
+<area shape="rect" id="Node000011" href="$de/dbd/keyboard_8c.html#a3b4cb6090452d84cb5ae725ba07eb8e6" title="Checks whether either Shift key is currently pressed." alt="" coords="489,264,577,290"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="400,250,475,264,474,269,399,256"/>
+<area shape="rect" id="Node000012" href="$de/dbd/keyboard_8c.html#a4489a4225a52fa524574a00c7e8b1d38" title="Converts one lowercase ASCII letter to uppercase." alt="" coords="492,313,574,339"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="353,250,462,300,479,306,477,311,460,305,351,255"/>
+</map>

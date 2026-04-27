@@ -1,0 +1,18 @@
+<map id="shell_begin_prompt" name="shell_begin_prompt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,139,106"/>
+<area shape="rect" id="Node000002" href="$d6/dd1/stdio_8h.html#aaed07ef5e23dd5193105592f06e5bef9" title=" " alt="" coords="231,5,278,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,77,186,40,215,28,217,33,188,45,103,82"/>
+<area shape="rect" id="Node000003" href="$d2/d4a/printing_8c.html#a6f34b320d469f8ea4009e4e1f02356af" title="Prints a char array (string) to &quot;screen&quot; by writing it to VGA buffer." alt="" coords="214,55,295,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,81,198,73,199,78,140,86"/>
+<area shape="rect" id="Node000007" href="$d3/d8d/user_8c.html#a9becccc1c11c8b560cc289c85fa77a25" title=" " alt="" coords="187,104,322,130"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="140,99,172,103,171,109,139,104"/>
+<area shape="rect" id="Node000008" href="$d4/d78/vga__text__mode__interface_8c.html#aa54caf9a43b2057b73d7fd442fbaa3f6" title="Puts together two values from standard_vga_text_color into a single uint8_t." alt="" coords="217,153,292,179"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="104,104,188,140,204,146,202,151,186,145,101,109"/>
+<area shape="rect" id="Node000004" href="$d2/d4a/printing_8c.html#a84aa5d70fb7071886a0c2fc4d5380535" title=" " alt="" coords="370,29,468,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="295,59,355,49,355,55,296,64"/>
+<area shape="rect" id="Node000005" href="$d4/d78/vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="516,55,741,80"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="295,65,501,65,501,70,295,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="469,45,503,50,502,55,469,51"/>
+<area shape="rect" id="Node000006" href="$d4/d78/vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="789,55,835,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="741,65,774,65,774,70,741,70"/>
+</map>

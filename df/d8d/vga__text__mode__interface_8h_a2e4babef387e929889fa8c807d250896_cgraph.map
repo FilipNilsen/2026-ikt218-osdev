@@ -1,0 +1,7 @@
+<map id="NewVgaTextModeInterface" name="NewVgaTextModeInterface">
+<area shape="rect" id="Node000001" title="Initialises a VgaTextModeInterface and returns it." alt="" coords="5,31,185,56"/>
+<area shape="rect" id="Node000002" href="$d4/d78/vga__text__mode__interface_8c.html#ada57d230c5c8be658542cd7efef0ed5c" title="See VgaTextModeCursor.CalculateRowColFromMemoryPosition()" alt="" coords="233,5,594,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,34,229,30,229,36,185,39"/>
+<area shape="rect" id="Node000003" href="$d4/d78/vga__text__mode__interface_8c.html#aac1bfcc86775cd04dda468ba83f3f5ff" title="See VgaTextModeInterface.Print()" alt="" coords="324,55,503,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,48,309,57,308,62,185,53"/>
+</map>

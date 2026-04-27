@@ -1,0 +1,14 @@
+<map id="shell_print_failure_message" name="shell_print_failure_message">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,188,82"/>
+<area shape="rect" id="Node000002" href="$d2/d4a/printing_8c.html#a6f34b320d469f8ea4009e4e1f02356af" title="Prints a char array (string) to &quot;screen&quot; by writing it to VGA buffer." alt="" coords="236,31,317,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,53,220,49,221,54,188,59"/>
+<area shape="rect" id="Node000006" href="$d4/d78/vga__text__mode__interface_8c.html#aa54caf9a43b2057b73d7fd442fbaa3f6" title="Puts together two values from standard_vga_text_color into a single uint8_t." alt="" coords="239,80,314,106"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="188,78,224,83,223,89,188,84"/>
+<area shape="rect" id="Node000003" href="$d2/d4a/printing_8c.html#a84aa5d70fb7071886a0c2fc4d5380535" title=" " alt="" coords="365,5,463,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,33,349,27,350,33,318,39"/>
+<area shape="rect" id="Node000004" href="$d4/d78/vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="511,31,736,56"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="318,41,496,41,496,46,318,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="464,21,498,26,497,31,464,27"/>
+<area shape="rect" id="Node000005" href="$d4/d78/vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="784,31,830,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="736,41,769,41,769,46,736,46"/>
+</map>

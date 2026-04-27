@@ -1,9 +1,5 @@
 var searchData=
 [
-  ['kernel_5fmain_5fc_0',['kernel_main_c',['../d9/d26/kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e',1,'kernel.c']]],
-  ['keyboard_5fcallback_1',['keyboard_callback',['../d8/d22/interrupts_8c.html#abbd5f86bc3e3c52fad79391febcb28bc',1,'keyboard_callback():&#160;interrupts.c'],['../d6/ded/interrupts_8h.html#abbd5f86bc3e3c52fad79391febcb28bc',1,'keyboard_callback():&#160;interrupts.c']]],
-  ['keyboard_5fhandle_5fscancode_2',['keyboard_handle_scancode',['../de/dbd/keyboard_8c.html#a8173086cf4ab408b8a2fe7ebeda16e87',1,'keyboard_handle_scancode(uint8_t scancode):&#160;keyboard.c'],['../d6/da0/keyboard_8h.html#a8173086cf4ab408b8a2fe7ebeda16e87',1,'keyboard_handle_scancode(uint8_t scancode):&#160;keyboard.c']]],
-  ['keyboard_5fhas_5fchar_3',['keyboard_has_char',['../de/dbd/keyboard_8c.html#a55d7a4e5249f45aef7a15bec69075535',1,'keyboard_has_char(void):&#160;keyboard.c'],['../d6/da0/keyboard_8h.html#a55d7a4e5249f45aef7a15bec69075535',1,'keyboard_has_char(void):&#160;keyboard.c']]],
-  ['keyboard_5finterrupt_5fhandler_4',['keyboard_interrupt_handler',['../d6/ded/interrupts_8h.html#aaa875dce2b321ea15bd0397a1339999b',1,'interrupts.h']]],
-  ['keyboard_5fpop_5fchar_5',['keyboard_pop_char',['../de/dbd/keyboard_8c.html#a983917dc68d0945aab1b21ca7471b22f',1,'keyboard_pop_char(void):&#160;keyboard.c'],['../d6/da0/keyboard_8h.html#a983917dc68d0945aab1b21ca7471b22f',1,'keyboard_pop_char(void):&#160;keyboard.c']]]
+  ['handle_5fcommand_0',['handle_command',['../d5/d2e/command_8c.html#a5b83f2a7adb63823be746312c4851941',1,'handle_command(int argument_count, char *arguments[]):&#160;command.c'],['../d0/d09/command_8h.html#a5b83f2a7adb63823be746312c4851941',1,'handle_command(int argument_count, char *arguments[]):&#160;command.c']]],
+  ['handle_5fgeneric_5firq_1',['handle_generic_irq',['../d8/d22/interrupts_8c.html#acacd5d3983faec5c7bd614e36d2f1dc5',1,'interrupts.c']]]
 ];

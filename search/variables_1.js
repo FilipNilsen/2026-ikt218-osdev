@@ -6,7 +6,8 @@ var searchData=
   ['address_3',['address',['../de/da7/structgdt__pointer.html#af2f078477bd24129ed63f03997f14e22',1,'gdt_pointer::address'],['../d5/d4a/gdt_8h.html#ac0d31ca829f934cccd89f8054e02773e',1,'address:&#160;gdt.h']]],
   ['align_4',['align',['../d4/daf/structmultiboot__header__tag__relocatable.html#a7b9c2a0e45cfaa3f21a5494f64a75104',1,'multiboot_header_tag_relocatable']]],
   ['architecture_5',['architecture',['../dc/dfa/structmultiboot__header.html#a116c9b57307b74f86920e14c9ec89575',1,'multiboot_header']]],
-  ['attributes_6',['attributes',['../d4/d96/structidt__gate.html#ab0f1dda9667bc53647cd4dee2e3f18bc',1,'idt_gate::attributes'],['../d6/ded/interrupts_8h.html#a983149395439fbc9ca8497076b75fd6b',1,'attributes:&#160;interrupts.h']]],
-  ['avg_5ffree_5fblock_5fsize_7',['avg_free_block_size',['../d4/d30/structHeapInformation.html#a1c60ecad5c5b639e660ced54a8b45959',1,'HeapInformation']]],
-  ['avg_5fused_5fblock_5fsize_8',['avg_used_block_size',['../d4/d30/structHeapInformation.html#aca8614c2e1c534191ca6a86ae7a4448b',1,'HeapInformation']]]
+  ['ascii_5fbuffer_6',['ascii_buffer',['../de/dbd/keyboard_8c.html#a92475e11bd76aba5082df0266e67e197',1,'keyboard.c']]],
+  ['attributes_7',['attributes',['../d4/d96/structidt__gate.html#ab0f1dda9667bc53647cd4dee2e3f18bc',1,'idt_gate::attributes'],['../d6/ded/interrupts_8h.html#a983149395439fbc9ca8497076b75fd6b',1,'attributes:&#160;interrupts.h']]],
+  ['avg_5ffree_5fblock_5fsize_8',['avg_free_block_size',['../d4/d30/structHeapInformation.html#a1c60ecad5c5b639e660ced54a8b45959',1,'HeapInformation']]],
+  ['avg_5fused_5fblock_5fsize_9',['avg_used_block_size',['../d4/d30/structHeapInformation.html#aca8614c2e1c534191ca6a86ae7a4448b',1,'HeapInformation']]]
 ];

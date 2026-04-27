@@ -97,7 +97,8 @@ $(function(){initNavTree('d5/d2e/command_8c.html','../../'); initResizable(true)
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">command.c File Reference</div></div>
 </div><!--header-->
 <div class="contents">
@@ -112,6 +113,18 @@ Include dependency graph for command.c:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
+<tr class="memitem:a45ccf9a5c4d9b4b3a8eb8a46436c5392" id="r_a45ccf9a5c4d9b4b3a8eb8a46436c5392"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d3/deb/structCommandColors.html">CommandColors</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a45ccf9a5c4d9b4b3a8eb8a46436c5392">get_command_colors</a> ()</td></tr>
+<tr class="separator:a45ccf9a5c4d9b4b3a8eb8a46436c5392"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae813413ada6ec1c7212637a3f6f16ac6" id="r_ae813413ada6ec1c7212637a3f6f16ac6"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae813413ada6ec1c7212637a3f6f16ac6">display_help_header</a> ()</td></tr>
+<tr class="separator:ae813413ada6ec1c7212637a3f6f16ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e70cc34fa40e3a78091a723b195ea77" id="r_a3e70cc34fa40e3a78091a723b195ea77"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3e70cc34fa40e3a78091a723b195ea77">display_command_info</a> (const char name[], const char options[], const char description[])</td></tr>
+<tr class="separator:a3e70cc34fa40e3a78091a723b195ea77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c36856f25ef0ec4115e0a3cd9922576" id="r_a3c36856f25ef0ec4115e0a3cd9922576"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3c36856f25ef0ec4115e0a3cd9922576">display_song_help</a> ()</td></tr>
+<tr class="separator:a3c36856f25ef0ec4115e0a3cd9922576"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23af1e2506f2059ed9beccc0c7b06e12" id="r_a23af1e2506f2059ed9beccc0c7b06e12"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/dd8/stdint_8h.html#aef44329758059c91c76d334e8fc09700">int8_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a23af1e2506f2059ed9beccc0c7b06e12">check_argument_count</a> (<a class="el" href="../../df/dd8/stdint_8h.html#aba7bc1797add20fe3efdf37ced1182c5">uint8_t</a> actual_count, <a class="el" href="../../df/dd8/stdint_8h.html#aba7bc1797add20fe3efdf37ced1182c5">uint8_t</a> required_count)</td></tr>
+<tr class="separator:a23af1e2506f2059ed9beccc0c7b06e12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab75f27674de8fd501f9e1e52ecbf5a75" id="r_ab75f27674de8fd501f9e1e52ecbf5a75"><td class="memItemLeft" align="right" valign="top">static char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ab75f27674de8fd501f9e1e52ecbf5a75">join_arguments</a> (int argument_count, char *arguments[], int start_index)</td></tr>
+<tr class="separator:ab75f27674de8fd501f9e1e52ecbf5a75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a914fc042948ecb40e1d8e29e033f50d4" id="r_a914fc042948ecb40e1d8e29e033f50d4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd8/stdint_8h.html#aef44329758059c91c76d334e8fc09700">int8_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a914fc042948ecb40e1d8e29e033f50d4">command_help</a> (int argument_count, char *arguments[])</td></tr>
 <tr class="memdesc:a914fc042948ecb40e1d8e29e033f50d4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Displays all commands.  <br /></td></tr>
 <tr class="separator:a914fc042948ecb40e1d8e29e033f50d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -149,8 +162,55 @@ Functions</h2></td></tr>
 <tr class="memitem:a293123cae1546d5162b72e81825401a5" id="r_a293123cae1546d5162b72e81825401a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dd8/stdint_8h.html#aef44329758059c91c76d334e8fc09700">int8_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a293123cae1546d5162b72e81825401a5">parse_command_aguments</a> (char *input, char *arguments[], int max_args)</td></tr>
 <tr class="memdesc:a293123cae1546d5162b72e81825401a5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Parses input into arguments (argument_count/argument_count style)  <br /></td></tr>
 <tr class="separator:a293123cae1546d5162b72e81825401a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a38b3c25ddd58335401386043634f2ac4" id="r_a38b3c25ddd58335401386043634f2ac4"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d8/d3a/structCommandEntry.html">CommandEntry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a38b3c25ddd58335401386043634f2ac4">commands</a> []</td></tr>
+<tr class="separator:a38b3c25ddd58335401386043634f2ac4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1c33156cd8ba787230ab9f86ffeb150" id="r_af1c33156cd8ba787230ab9f86ffeb150"><td class="memItemLeft" align="right" valign="top">static const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af1c33156cd8ba787230ab9f86ffeb150">song_names</a> [] = {&quot;song 1&quot;, &quot;starwars theme&quot;, &quot;battlefield 1942&quot;, &quot;song 2&quot;, &quot;song 3&quot;, &quot;song 4&quot;, &quot;song 5&quot;, &quot;song 6&quot;}</td></tr>
+<tr class="separator:af1c33156cd8ba787230ab9f86ffeb150"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af07e12ff1d1fad5928e88c492ccb9e1a" id="r_af07e12ff1d1fad5928e88c492ccb9e1a"><td class="memItemLeft" align="right" valign="top">static const <a class="el" href="../../df/dd8/stdint_8h.html#aba7bc1797add20fe3efdf37ced1182c5">uint8_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#af07e12ff1d1fad5928e88c492ccb9e1a">song_count</a> = 8</td></tr>
+<tr class="separator:af07e12ff1d1fad5928e88c492ccb9e1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae355d17863013da46bf20600ce23fd2f" id="r_ae355d17863013da46bf20600ce23fd2f"><td class="memItemLeft" align="right" valign="top">static const int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae355d17863013da46bf20600ce23fd2f">command_count</a> = sizeof(<a class="el" href="#a38b3c25ddd58335401386043634f2ac4">commands</a>) / sizeof(<a class="el" href="#a38b3c25ddd58335401386043634f2ac4">commands</a>[0])</td></tr>
+<tr class="separator:ae355d17863013da46bf20600ce23fd2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a id="a23af1e2506f2059ed9beccc0c7b06e12" name="a23af1e2506f2059ed9beccc0c7b06e12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23af1e2506f2059ed9beccc0c7b06e12">&#9670;&#160;</a></span>check_argument_count()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../df/dd8/stdint_8h.html#aef44329758059c91c76d334e8fc09700">int8_t</a> check_argument_count </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/dd8/stdint_8h.html#aba7bc1797add20fe3efdf37ced1182c5">uint8_t</a></td>          <td class="paramname"><span class="paramname"><em>actual_count</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../df/dd8/stdint_8h.html#aba7bc1797add20fe3efdf37ced1182c5">uint8_t</a></td>          <td class="paramname"><span class="paramname"><em>required_count</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00080">80</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a23af1e2506f2059ed9beccc0c7b06e12_icgraph.svg" width="383" height="135"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
+</div>
+</div>
 <a id="a48bd81771f1d749da03d8d4594541a2e" name="a48bd81771f1d749da03d8d4594541a2e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a48bd81771f1d749da03d8d4594541a2e">&#9670;&#160;</a></span>command_cat()</h2>
 
@@ -171,6 +231,11 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00489">489</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a48bd81771f1d749da03d8d4594541a2e_cgraph.svg" width="100%" height="579"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -196,6 +261,11 @@ Functions</h2></td></tr>
 <p>Clears the shell. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00196">196</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_ad3f4f170b9aafb1eaa79e88f67103a94_cgraph.svg" width="100%" height="364"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -219,6 +289,11 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00388">388</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a476f1dbae03962cd0dadc2ec41bddf17_cgraph.svg" width="100%" height="534"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -244,6 +319,11 @@ Functions</h2></td></tr>
 <p>Print user input to screen. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00177">177</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_ac1a1d2f441522d4dcc6115f9d6284cac_cgraph.svg" width="219" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 
 </div>
 </div>
@@ -267,6 +347,11 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00432">432</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a13ed2d8b61f516d5c211b05685a310c2_cgraph.svg" width="100%" height="478"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -292,6 +377,11 @@ Functions</h2></td></tr>
 <p>Displays memory info. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00223">223</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_af2fe2eafdf47889f4dd3fdda65a6f558_cgraph.svg" width="100%" height="587"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -317,6 +407,11 @@ Functions</h2></td></tr>
 <p>Displays all commands. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00127">127</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a914fc042948ecb40e1d8e29e033f50d4_cgraph.svg" width="100%" height="496"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -340,6 +435,11 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00449">449</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a0d2b819a56eb5e1d230f2b3319911612_cgraph.svg" width="100%" height="557"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -365,6 +465,11 @@ Functions</h2></td></tr>
 <p>Plays a song. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00357">357</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_afe7791ec19d420e0465fbc533ebb382e_cgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -390,6 +495,11 @@ Functions</h2></td></tr>
 <p>Sets the username of user. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00206">206</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a27bd41460dd4f32c95c9066c180606cc_cgraph.svg" width="619" height="86"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 
 </div>
 </div>
@@ -413,6 +523,168 @@ Functions</h2></td></tr>
 </div><div class="memdoc">
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00465">465</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_adbcf4ce21e295dea9b7805e697adec68_cgraph.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
+
+</div>
+</div>
+<a id="a3e70cc34fa40e3a78091a723b195ea77" name="a3e70cc34fa40e3a78091a723b195ea77"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e70cc34fa40e3a78091a723b195ea77">&#9670;&#160;</a></span>display_command_info()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void display_command_info </td>
+          <td>(</td>
+          <td class="paramtype">const char</td>          <td class="paramname"><span class="paramname"><em>name</em></span>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char</td>          <td class="paramname"><span class="paramname"><em>options</em></span>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const char</td>          <td class="paramname"><span class="paramname"><em>description</em></span>[]&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00048">48</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a3e70cc34fa40e3a78091a723b195ea77_cgraph.svg" width="100%" height="440"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a3e70cc34fa40e3a78091a723b195ea77_icgraph.svg" width="322" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
+</div>
+</div>
+<a id="ae813413ada6ec1c7212637a3f6f16ac6" name="ae813413ada6ec1c7212637a3f6f16ac6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae813413ada6ec1c7212637a3f6f16ac6">&#9670;&#160;</a></span>display_help_header()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void display_help_header </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00037">37</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_ae813413ada6ec1c7212637a3f6f16ac6_cgraph.svg" width="100%" height="383"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_ae813413ada6ec1c7212637a3f6f16ac6_icgraph.svg" width="307" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
+</div>
+</div>
+<a id="a3c36856f25ef0ec4115e0a3cd9922576" name="a3c36856f25ef0ec4115e0a3cd9922576"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c36856f25ef0ec4115e0a3cd9922576">&#9670;&#160;</a></span>display_song_help()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static void display_song_help </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00060">60</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a3c36856f25ef0ec4115e0a3cd9922576_cgraph.svg" width="100%" height="549"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a3c36856f25ef0ec4115e0a3cd9922576_icgraph.svg" width="323" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
+</div>
+</div>
+<a id="a45ccf9a5c4d9b4b3a8eb8a46436c5392" name="a45ccf9a5c4d9b4b3a8eb8a46436c5392"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a45ccf9a5c4d9b4b3a8eb8a46436c5392">&#9670;&#160;</a></span>get_command_colors()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="../../d3/deb/structCommandColors.html">CommandColors</a> get_command_colors </td>
+          <td>(</td>
+          <td class="paramname"><span class="paramname"><em></em></span></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00028">28</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a45ccf9a5c4d9b4b3a8eb8a46436c5392_cgraph.svg" width="279" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a45ccf9a5c4d9b4b3a8eb8a46436c5392_icgraph.svg" width="542" height="135"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 
 </div>
 </div>
@@ -438,6 +710,62 @@ Functions</h2></td></tr>
 <p>Dispatches command to the correct handler. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00530">530</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a5b83f2a7adb63823be746312c4851941_cgraph.svg" width="244" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a5b83f2a7adb63823be746312c4851941_icgraph.svg" width="100%" height="300"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
+
+</div>
+</div>
+<a id="ab75f27674de8fd501f9e1e52ecbf5a75" name="ab75f27674de8fd501f9e1e52ecbf5a75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab75f27674de8fd501f9e1e52ecbf5a75">&#9670;&#160;</a></span>join_arguments()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static char * join_arguments </td>
+          <td>(</td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>argument_count</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *</td>          <td class="paramname"><span class="paramname"><em>arguments</em></span>[], </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int</td>          <td class="paramname"><span class="paramname"><em>start_index</em></span>&#160;)</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00092">92</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_ab75f27674de8fd501f9e1e52ecbf5a75_cgraph.svg" width="359" height="110"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_ab75f27674de8fd501f9e1e52ecbf5a75_icgraph.svg" width="304" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 
 </div>
 </div>
@@ -468,6 +796,11 @@ Functions</h2></td></tr>
 <p>Parses input into arguments (argument_count/argument_count style) </p>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00544">544</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a293123cae1546d5162b72e81825401a5_icgraph.svg" width="100%" height="300"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
 
 </div>
 </div>
@@ -496,6 +829,137 @@ Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>Result of the command, or negative on failure </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00513">513</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a7a9997820f8c324cee6561dd49b8dd71_cgraph.svg" width="454" height="86"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="../../d5/d2e/command_8c_a7a9997820f8c324cee6561dd49b8dd71_icgraph.svg" width="100%" height="300"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+</div>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ae355d17863013da46bf20600ce23fd2f" name="ae355d17863013da46bf20600ce23fd2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae355d17863013da46bf20600ce23fd2f">&#9670;&#160;</a></span>command_count</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const int command_count = sizeof(<a class="el" href="#a38b3c25ddd58335401386043634f2ac4">commands</a>) / sizeof(<a class="el" href="#a38b3c25ddd58335401386043634f2ac4">commands</a>[0])</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00024">24</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+
+</div>
+</div>
+<a id="a38b3c25ddd58335401386043634f2ac4" name="a38b3c25ddd58335401386043634f2ac4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a38b3c25ddd58335401386043634f2ac4">&#9670;&#160;</a></span>commands</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d3a/structCommandEntry.html">CommandEntry</a> commands[]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
+<div class="line">    { <span class="stringliteral">&quot;help&quot;</span>, <span class="stringliteral">&quot;[command]&quot;</span>, <span class="stringliteral">&quot;Display this screen&quot;</span>, <a class="code hl_function" href="#a914fc042948ecb40e1d8e29e033f50d4">command_help</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;echo&quot;</span>, <span class="stringliteral">&quot;&lt;content&gt;&quot;</span>, <span class="stringliteral">&quot;Prints arguments to screen&quot;</span>, <a class="code hl_function" href="#ac1a1d2f441522d4dcc6115f9d6284cac">command_echo</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;clear&quot;</span>, <span class="stringliteral">&quot;[none]&quot;</span>, <span class="stringliteral">&quot;Clears the shell content&quot;</span>, <a class="code hl_function" href="#ad3f4f170b9aafb1eaa79e88f67103a94">command_clear</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;setusername&quot;</span>, <span class="stringliteral">&quot;&lt;new-username&gt;&quot;</span>, <span class="stringliteral">&quot;Changes the shell user display name&quot;</span>, <a class="code hl_function" href="#a27bd41460dd4f32c95c9066c180606cc">command_set_username</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;heapinfo&quot;</span>, <span class="stringliteral">&quot;[none]&quot;</span>, <span class="stringliteral">&quot;Displays information about the heap of memory&quot;</span>, <a class="code hl_function" href="#af2fe2eafdf47889f4dd3fdda65a6f558">command_heapinfo</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;playsong&quot;</span>, <span class="stringliteral">&quot;&lt;1-8 | help&gt;&quot;</span>, <span class="stringliteral">&quot;Plays a song as defined in &#39;playsong help&#39;&quot;</span>, <a class="code hl_function" href="#afe7791ec19d420e0465fbc533ebb382e">command_playsong</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;disktest&quot;</span>, <span class="stringliteral">&quot;[read|write]&quot;</span>, <span class="stringliteral">&quot;Reads or writes one raw disk sector&quot;</span>, <a class="code hl_function" href="#a476f1dbae03962cd0dadc2ec41bddf17">command_disktest</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;format&quot;</span>, <span class="stringliteral">&quot;[none]&quot;</span>, <span class="stringliteral">&quot;Formats the tiny persistent filesystem&quot;</span>, <a class="code hl_function" href="#a13ed2d8b61f516d5c211b05685a310c2">command_format</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;ls&quot;</span>, <span class="stringliteral">&quot;[none]&quot;</span>, <span class="stringliteral">&quot;Lists files in the tiny filesystem&quot;</span>, <a class="code hl_function" href="#a0d2b819a56eb5e1d230f2b3319911612">command_ls</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;write&quot;</span>, <span class="stringliteral">&quot;&lt;file&gt; &lt;text&gt;&quot;</span>, <span class="stringliteral">&quot;Creates or overwrites a file&quot;</span>, <a class="code hl_function" href="#adbcf4ce21e295dea9b7805e697adec68">command_write_file</a> },</div>
+<div class="line">    { <span class="stringliteral">&quot;cat&quot;</span>, <span class="stringliteral">&quot;&lt;file&gt;&quot;</span>, <span class="stringliteral">&quot;Prints a file from the tiny filesystem&quot;</span>, <a class="code hl_function" href="#a48bd81771f1d749da03d8d4594541a2e">command_cat</a> }</div>
+<div class="line">}</div>
+<div class="ttc" id="acommand_8c_html_a0d2b819a56eb5e1d230f2b3319911612"><div class="ttname"><a href="#a0d2b819a56eb5e1d230f2b3319911612">command_ls</a></div><div class="ttdeci">int8_t command_ls(int argument_count, char *arguments[])</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00449">command.c:449</a></div></div>
+<div class="ttc" id="acommand_8c_html_a13ed2d8b61f516d5c211b05685a310c2"><div class="ttname"><a href="#a13ed2d8b61f516d5c211b05685a310c2">command_format</a></div><div class="ttdeci">int8_t command_format(int argument_count, char *arguments[])</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00432">command.c:432</a></div></div>
+<div class="ttc" id="acommand_8c_html_a27bd41460dd4f32c95c9066c180606cc"><div class="ttname"><a href="#a27bd41460dd4f32c95c9066c180606cc">command_set_username</a></div><div class="ttdeci">int8_t command_set_username(int argument_count, char *arguments[])</div><div class="ttdoc">Sets the username of user.</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00206">command.c:206</a></div></div>
+<div class="ttc" id="acommand_8c_html_a476f1dbae03962cd0dadc2ec41bddf17"><div class="ttname"><a href="#a476f1dbae03962cd0dadc2ec41bddf17">command_disktest</a></div><div class="ttdeci">int8_t command_disktest(int argument_count, char *arguments[])</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00388">command.c:388</a></div></div>
+<div class="ttc" id="acommand_8c_html_a48bd81771f1d749da03d8d4594541a2e"><div class="ttname"><a href="#a48bd81771f1d749da03d8d4594541a2e">command_cat</a></div><div class="ttdeci">int8_t command_cat(int argument_count, char *arguments[])</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00489">command.c:489</a></div></div>
+<div class="ttc" id="acommand_8c_html_a914fc042948ecb40e1d8e29e033f50d4"><div class="ttname"><a href="#a914fc042948ecb40e1d8e29e033f50d4">command_help</a></div><div class="ttdeci">int8_t command_help(int argument_count, char *arguments[])</div><div class="ttdoc">Displays all commands.</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00127">command.c:127</a></div></div>
+<div class="ttc" id="acommand_8c_html_ac1a1d2f441522d4dcc6115f9d6284cac"><div class="ttname"><a href="#ac1a1d2f441522d4dcc6115f9d6284cac">command_echo</a></div><div class="ttdeci">int8_t command_echo(int argument_count, char *arguments[])</div><div class="ttdoc">Print user input to screen.</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00177">command.c:177</a></div></div>
+<div class="ttc" id="acommand_8c_html_ad3f4f170b9aafb1eaa79e88f67103a94"><div class="ttname"><a href="#ad3f4f170b9aafb1eaa79e88f67103a94">command_clear</a></div><div class="ttdeci">int8_t command_clear(int argument_count, char *arguments[])</div><div class="ttdoc">Clears the shell.</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00196">command.c:196</a></div></div>
+<div class="ttc" id="acommand_8c_html_adbcf4ce21e295dea9b7805e697adec68"><div class="ttname"><a href="#adbcf4ce21e295dea9b7805e697adec68">command_write_file</a></div><div class="ttdeci">int8_t command_write_file(int argument_count, char *arguments[])</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00465">command.c:465</a></div></div>
+<div class="ttc" id="acommand_8c_html_af2fe2eafdf47889f4dd3fdda65a6f558"><div class="ttname"><a href="#af2fe2eafdf47889f4dd3fdda65a6f558">command_heapinfo</a></div><div class="ttdeci">int8_t command_heapinfo(int argument_count, char *arguments[])</div><div class="ttdoc">Displays memory info.</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00223">command.c:223</a></div></div>
+<div class="ttc" id="acommand_8c_html_afe7791ec19d420e0465fbc533ebb382e"><div class="ttname"><a href="#afe7791ec19d420e0465fbc533ebb382e">command_playsong</a></div><div class="ttdeci">int8_t command_playsong(int argument_count, char *arguments[])</div><div class="ttdoc">Plays a song.</div><div class="ttdef"><b>Definition</b> <a href="../../d5/d2e/command_8c_source.html#l00357">command.c:357</a></div></div>
+</div><!-- fragment -->
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00003">3</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+
+</div>
+</div>
+<a id="af07e12ff1d1fad5928e88c492ccb9e1a" name="af07e12ff1d1fad5928e88c492ccb9e1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af07e12ff1d1fad5928e88c492ccb9e1a">&#9670;&#160;</a></span>song_count</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const <a class="el" href="../../df/dd8/stdint_8h.html#aba7bc1797add20fe3efdf37ced1182c5">uint8_t</a> song_count = 8</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00022">22</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
+
+</div>
+</div>
+<a id="af1c33156cd8ba787230ab9f86ffeb150" name="af1c33156cd8ba787230ab9f86ffeb150"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1c33156cd8ba787230ab9f86ffeb150">&#9670;&#160;</a></span>song_names</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">const char* song_names[] = {&quot;song 1&quot;, &quot;starwars theme&quot;, &quot;battlefield 1942&quot;, &quot;song 2&quot;, &quot;song 3&quot;, &quot;song 4&quot;, &quot;song 5&quot;, &quot;song 6&quot;}</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../d5/d2e/command_8c_source.html#l00021">21</a> of file <a class="el" href="../../d5/d2e/command_8c_source.html">command.c</a>.</p>
 
 </div>
 </div>
@@ -505,7 +969,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_0cf440425f772069e3b1ee2ca693fc5d.html">group_29</a></li><li class="navelem"><a class="el" href="../../dir_1b5a23810809b89a4b56cb1b94e4d0c0.html">src</a></li><li class="navelem"><a class="el" href="../../dir_885c7a29c0df38445a7b9aaab6a331b4.html">command</a></li><li class="navelem"><a class="el" href="../../d5/d2e/command_8c.html">command.c</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 13:07:15 for My Project by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 13:34:47 for My Project by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
   </ul>
 </div>
 </body>

@@ -1,0 +1,5 @@
+<map id="handle_command" name="handle_command">
+<area shape="rect" id="Node000001" title="Dispatches command to the correct handler." alt="" coords="5,5,129,31"/>
+<area shape="rect" id="Node000002" href="$d1/db0/string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="177,5,238,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,16,161,16,161,21,129,21"/>
+</map>

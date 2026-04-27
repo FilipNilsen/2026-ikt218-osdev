@@ -1,0 +1,34 @@
+<map id="strlen" name="strlen">
+<area shape="rect" id="Node000001" title="Finds the length of a string." alt="" coords="920,233,973,259"/>
+<area shape="rect" id="Node000002" href="$d1/db0/string_8c.html#a6c1819f2460f96a82d3be06a279e9bfa" title="Adds a number to a string by using &#39;d&#39; as placeholder." alt="" coords="775,157,872,183"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="910,227,844,186,847,181,913,223"/>
+<area shape="rect" id="Node000012" href="$d1/db0/string_8c.html#ac3b56dd8e06e87eb3d014a71d8f57683" title="Copies a null&#45;terminated string into a fixed&#45;size buffer." alt="" coords="780,308,867,334"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="912,270,848,310,845,305,910,265"/>
+<area shape="rect" id="Node000003" href="$d5/d2e/command_8c.html#af2fe2eafdf47889f4dd3fdda65a6f558" title="Displays memory info." alt="" coords="575,5,710,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="805,145,771,98,750,74,725,52,690,34,692,29,728,48,753,70,776,95,809,142"/>
+<area shape="rect" id="Node000004" href="$d5/d2e/command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="358,81,495,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="799,148,766,119,726,97,667,82,606,77,547,79,496,84,495,79,547,74,606,72,668,77,728,92,769,115,802,144"/>
+<area shape="rect" id="Node000005" href="$d5/d2e/command_8c.html#a3c36856f25ef0ec4115e0a3cd9922576" title=" " alt="" coords="579,107,706,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="759,155,690,135,691,130,761,150"/>
+<area shape="rect" id="Node000006" href="$d9/d26/kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,208,111,234"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="759,171,646,169,497,172,328,180,159,198,104,210,103,205,158,193,328,175,497,166,646,164,759,166"/>
+<area shape="rect" id="Node000007" href="$d6/d4f/shell_8c.html#a1dadf2da65cbd79e31c2307cf31aa495" title=" " alt="" coords="558,208,727,234"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="761,190,691,210,690,205,759,185"/>
+<area shape="rect" id="Node000010" href="$d7/dee/tinyfs_8c.html#a77b63c791d50fdd4b1662c5386553f2c" title=" " alt="" coords="604,257,681,283"/>
+<area shape="poly" id="edge11_Node000002_Node000010" title=" " alt="" coords="800,196,767,223,728,249,682,265,680,260,725,244,764,219,797,191"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="563,113,495,105,495,100,564,108"/>
+<area shape="rect" id="Node000008" href="$d6/d4f/shell_8c.html#ad1f95120378d24016c08ebb7a0499bf1" title=" " alt="" coords="364,208,489,234"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="543,224,489,224,489,218,543,218"/>
+<area shape="rect" id="Node000009" href="$d6/d4f/shell_8c.html#af32457beee540bea37889869f89c9f2a" title=" " alt="" coords="159,208,295,234"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="348,224,296,224,296,218,348,218"/>
+<area shape="poly" id="edge10_Node000009_Node000006" title=" " alt="" coords="143,224,111,224,111,218,143,218"/>
+<area shape="rect" id="Node000011" href="$d5/d2e/command_8c.html#a0d2b819a56eb5e1d230f2b3319911612" title=" " alt="" coords="379,257,474,283"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="589,273,475,273,475,268,589,268"/>
+<area shape="rect" id="Node000013" href="$d3/d8d/user_8c.html#ad4a4a87d44c5ab5f802107d10ee2f704" title=" " alt="" coords="176,283,278,308"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="764,321,278,300,278,295,764,316"/>
+<area shape="rect" id="Node000014" href="$d3/d8d/user_8c.html#a21bf555274641e347c0677cec7e7fc10" title=" " alt="" coords="575,359,710,384"/>
+<area shape="poly" id="edge16_Node000012_Node000014" title=" " alt="" coords="765,340,692,361,690,355,764,335"/>
+<area shape="poly" id="edge15_Node000013_Node000006" title=" " alt="" coords="181,278,88,237,90,232,183,273"/>
+<area shape="rect" id="Node000015" href="$d5/d2e/command_8c.html#a27bd41460dd4f32c95c9066c180606cc" title="Sets the username of user." alt="" coords="343,359,510,384"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="559,374,511,374,511,369,559,369"/>
+</map>

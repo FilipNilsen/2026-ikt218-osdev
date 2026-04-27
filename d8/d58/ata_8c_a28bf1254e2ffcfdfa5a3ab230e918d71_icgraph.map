@@ -1,0 +1,29 @@
+<map id="ata_read_sector" name="ata_read_sector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="527,80,642,106"/>
+<area shape="rect" id="Node000002" href="$d5/d2e/command_8c.html#a476f1dbae03962cd0dadc2ec41bddf17" title=" " alt="" coords="348,5,479,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="543,75,478,45,452,34,454,29,480,40,545,70"/>
+<area shape="rect" id="Node000003" href="$d7/dee/tinyfs_8c.html#a80789118d431f2d302f0d217d2a90ce7" title=" " alt="" coords="362,55,465,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="511,85,466,78,466,73,512,79"/>
+<area shape="rect" id="Node000006" href="$d7/dee/tinyfs_8c.html#ab2840479eb353b6c88b0588bc2379b78" title=" " alt="" coords="191,128,298,154"/>
+<area shape="poly" id="edge15_Node000001_Node000006" title=" " alt="" coords="550,116,517,132,480,145,432,152,384,155,299,150,299,145,384,149,432,147,479,140,515,127,548,111"/>
+<area shape="rect" id="Node000010" href="$d7/dee/tinyfs_8c.html#acac2bb89de556b56a688b0b211259c8d" title=" " alt="" coords="356,104,471,130"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="512,106,472,111,471,106,511,100"/>
+<area shape="rect" id="Node000004" href="$d7/dee/tinyfs_8c.html#a77b63c791d50fdd4b1662c5386553f2c" title=" " alt="" coords="207,79,283,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="347,80,284,89,283,83,347,74"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="361,89,349,94,301,119,278,130,276,125,299,114,347,89,359,84"/>
+<area shape="rect" id="Node000008" href="$d7/dee/tinyfs_8c.html#ae26fdd4b4ebf314bcab656ac4616bff7" title=" " alt="" coords="190,29,300,55"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="346,60,300,53,301,48,347,55"/>
+<area shape="rect" id="Node000005" href="$d5/d2e/command_8c.html#a0d2b819a56eb5e1d230f2b3319911612" title=" " alt="" coords="26,79,121,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="191,94,122,94,122,89,191,89"/>
+<area shape="rect" id="Node000007" href="$d5/d2e/command_8c.html#a48bd81771f1d749da03d8d4594541a2e" title=" " alt="" coords="22,128,125,154"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="176,144,126,144,126,138,176,138"/>
+<area shape="rect" id="Node000009" href="$d5/d2e/command_8c.html#adbcf4ce21e295dea9b7805e697adec68" title=" " alt="" coords="5,29,142,55"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="174,45,142,45,142,40,174,40"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="340,109,283,100,284,95,341,103"/>
+<area shape="poly" id="edge13_Node000010_Node000006" title=" " alt="" coords="341,130,299,136,298,131,340,125"/>
+<area shape="poly" id="edge14_Node000010_Node000008" title=" " alt="" coords="358,100,347,95,299,69,276,58,278,53,301,64,349,90,360,95"/>
+<area shape="rect" id="Node000011" href="$d7/dee/tinyfs_8c.html#ab4e061e4f0953698ef8fc38cd461d99c" title=" " alt="" coords="207,177,283,203"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="369,139,278,179,275,174,367,134"/>
+<area shape="rect" id="Node000012" href="$d9/d26/kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="21,177,126,203"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="191,193,126,193,126,188,191,188"/>
+</map>

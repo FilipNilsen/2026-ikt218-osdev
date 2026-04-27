@@ -1,0 +1,14 @@
+<map id="play_sound" name="play_sound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,92,80"/>
+<area shape="rect" id="Node000002" href="$d5/dcd/song__player_8c.html#af7c48936ad1133e8fdce6568740dc659" title=" " alt="" coords="140,55,252,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,65,124,65,124,70,92,70"/>
+<area shape="rect" id="Node000004" href="$d5/dcd/song__player_8c.html#af64c030b0231ecd6d2ca2d20c133b128" title=" " alt="" coords="300,55,399,80"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="89,78,140,90,196,95,252,90,291,82,292,88,252,95,196,100,139,95,88,84"/>
+<area shape="rect" id="Node000005" href="$d5/dcd/song__player_8c.html#a7af29ef84e346502d53907ea1057d2c4" title=" " alt="" coords="152,5,240,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="89,51,140,34,141,39,90,57"/>
+<area shape="rect" id="Node000003" href="$d5/dcd/song__player_8c.html#a31509e30bfa95cefb9b4d362a4c4ccb0" title=" " alt="" coords="304,5,395,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,51,292,34,293,39,239,57"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="253,65,284,65,284,70,253,70"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="240,16,288,16,288,21,240,21"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="239,29,293,47,292,52,238,34"/>
+</map>

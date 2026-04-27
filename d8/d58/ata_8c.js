@@ -16,6 +16,14 @@ var ata_8c =
     [ "ATA_STATUS_DF", "d8/d58/ata_8c.html#afe6d7d46470ea58f23426642659504f1", null ],
     [ "ATA_STATUS_DRQ", "d8/d58/ata_8c.html#acee064a185d03414a401dee09ec6de5d", null ],
     [ "ATA_STATUS_ERR", "d8/d58/ata_8c.html#affbfc9aaaceefe69d7c2283a030ed2e5", null ],
+    [ "ata_delay_400ns", "d8/d58/ata_8c.html#af5b607523e35a20f44c9aedb5a133b75", null ],
+    [ "ata_poll", "d8/d58/ata_8c.html#ab6cffb277a699e9e1bf5beab764376b3", null ],
+    [ "ata_program_lba", "d8/d58/ata_8c.html#aa0b56a6bb9261dabcbd3bf694a00de21", null ],
     [ "ata_read_sector", "d8/d58/ata_8c.html#a28bf1254e2ffcfdfa5a3ab230e918d71", null ],
-    [ "ata_write_sector", "d8/d58/ata_8c.html#a9269a9d234a698467e3a1a12c6cb5527", null ]
+    [ "ata_select_drive", "d8/d58/ata_8c.html#af7d1e6d066e2709190da5642f8d81a12", null ],
+    [ "ata_write_sector", "d8/d58/ata_8c.html#a9269a9d234a698467e3a1a12c6cb5527", null ],
+    [ "inb", "d8/d58/ata_8c.html#a0223c8898dfec29069879dc51076e28a", null ],
+    [ "inw", "d8/d58/ata_8c.html#ab2f39bde7b2e87793f55352c72d07ebe", null ],
+    [ "outb", "d8/d58/ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5", null ],
+    [ "outw", "d8/d58/ata_8c.html#ad081f4511cc64f96fdf52abaccf344c1", null ]
 ];

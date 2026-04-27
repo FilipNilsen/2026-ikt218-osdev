@@ -1,0 +1,7 @@
+<map id="scroll_screen" name="scroll_screen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,104,31"/>
+<area shape="rect" id="Node000002" href="$d4/d78/vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="152,5,376,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,16,136,16,136,21,104,21"/>
+<area shape="rect" id="Node000003" href="$d4/d78/vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="424,5,470,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,16,409,16,409,21,376,21"/>
+</map>

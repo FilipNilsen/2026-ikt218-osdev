@@ -1,24 +1,4 @@
 var searchData=
 [
-  ['b0_0',['B0',['../d3/d88/frequencies_8h.html#a8a03ef52aa4926d1d75cb647ac768622',1,'frequencies.h']]],
-  ['b1_1',['B1',['../d3/d88/frequencies_8h.html#a7b21d6a6a4573b4997b1f04b01cd4efb',1,'frequencies.h']]],
-  ['b2_2',['B2',['../d3/d88/frequencies_8h.html#a6945d50f798e1fde624d70c74457090e',1,'frequencies.h']]],
-  ['b3_3',['B3',['../d3/d88/frequencies_8h.html#ae6ac0edb1e2c9c7672ab9488d8b65be9',1,'frequencies.h']]],
-  ['b4_4',['B4',['../d3/d88/frequencies_8h.html#a0bf59f84e29fb57d27314583365a88d6',1,'frequencies.h']]],
-  ['b5_5',['B5',['../d3/d88/frequencies_8h.html#abaa73bfe02579d51cebce4434d15c5e1',1,'frequencies.h']]],
-  ['b6_6',['B6',['../d3/d88/frequencies_8h.html#a7cefe311831c7cc8c8a974860be1ac52',1,'frequencies.h']]],
-  ['b7_7',['B7',['../d3/d88/frequencies_8h.html#a7a0a6f630c4e4a8a254cb637651492ca',1,'frequencies.h']]],
-  ['b8_8',['B8',['../d3/d88/frequencies_8h.html#addfdae1e02dd0c5434ac4787fdc1d425',1,'frequencies.h']]],
-  ['b9_9',['B9',['../d3/d88/frequencies_8h.html#a9150afd7155c18f91795d95ccb18ce57',1,'frequencies.h']]],
-  ['badge_20svg_20alt_20ci_10',['Unity Test &lt;img src=&quot;https://github.com/ThrowTheSwitch/Unity/workflows/CI/badge.svg&quot; alt=&quot;CI&quot;/&gt;',['../d1/d88/md_src_2group__29_2include_2unity_2README.html',1,'']]],
-  ['base_5fhigh_11',['base_high',['../d8/dc9/structgdt__entry.html#a96abeddea82dd23ff9e84d09230e31a2',1,'gdt_entry::base_high'],['../d5/d4a/gdt_8h.html#a1a173457c7aa39c59c008fcc3332d2b3',1,'base_high:&#160;gdt.h']]],
-  ['base_5flow_12',['base_low',['../d8/dc9/structgdt__entry.html#ade3b4a3948e6e475221de4e226f8579c',1,'gdt_entry::base_low'],['../d5/d4a/gdt_8h.html#a71e21ea67de59991e9a27666a1752a8f',1,'base_low:&#160;gdt.h']]],
-  ['base_5fmiddle_13',['base_middle',['../d8/dc9/structgdt__entry.html#ab5c8ccda9d0651184c31089ce7bbdbae',1,'gdt_entry::base_middle'],['../d5/d4a/gdt_8h.html#a6b67e86f6de9204d76adab79069aec29',1,'base_middle:&#160;gdt.h']]],
-  ['basic_20validity_20tests_14',['Basic Validity Tests',['../d1/d88/md_src_2group__29_2include_2unity_2README.html#autotoc_md3',1,'']]],
-  ['biosdev_15',['biosdev',['../d8/da1/structmultiboot__tag__bootdev.html#a2bcf5d32579dc281148607d937ca099b',1,'multiboot_tag_bootdev']]],
-  ['bitwise_16',['Numerical Assertions: Bitwise',['../d1/d88/md_src_2group__29_2include_2unity_2README.html#autotoc_md6',1,'']]],
-  ['blue_17',['blue',['../d7/d2b/structmultiboot__color.html#a6f8d17b0f35ff4cbf9c51dcbc3ea7d01',1,'multiboot_color']]],
-  ['bool_18',['bool',['../d9/d5e/stdbool_8h.html#abb452686968e48b67397da5f97445f5b',1,'stdbool.h']]],
-  ['bss_5fend_5faddr_19',['bss_end_addr',['../d5/d23/structmultiboot__header__tag__address.html#ac3de23d94c391584665ba64757451a37',1,'multiboot_header_tag_address']]],
-  ['buffer_20',['buffer',['../de/d95/structascii__buffer__t.html#a211230fe22be64d605eb845daaade6c7',1,'ascii_buffer_t::buffer'],['../d8/d50/structscancode__buffer__t.html#a339d5f9d5c3768f6f4dbac1aa3eaa449',1,'scancode_buffer_t::buffer'],['../df/ddc/structkeycode__buffer__t.html#a6d5e4e8363e66f239693727bbda90166',1,'keycode_buffer_t::buffer']]]
+  ['3_20pc_20speaker_20playback_0',['3. PC speaker playback',['../df/d41/md_src_2group__29_2Documentation_2pc-sound.html#autotoc_md61',1,'']]]
 ];

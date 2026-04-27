@@ -97,7 +97,8 @@ $(function(){initNavTree('de/d68/gdt_8c.html','../../'); initResizable(true); })
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
   <div class="headertitle"><div class="title">gdt.c File Reference</div></div>
 </div><!--header-->
 <div class="contents">
@@ -121,6 +122,13 @@ Functions</h2></td></tr>
 <tr class="memitem:ad2acd7bce259a1a32213503c6fa18f14" id="r_ad2acd7bce259a1a32213503c6fa18f14"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad2acd7bce259a1a32213503c6fa18f14">gdt_init</a> (void)</td></tr>
 <tr class="memdesc:ad2acd7bce259a1a32213503c6fa18f14"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes and loads the kernel GDT.  <br /></td></tr>
 <tr class="separator:ad2acd7bce259a1a32213503c6fa18f14"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a65356f295a9cedef605b17559ff7f4c6" id="r_a65356f295a9cedef605b17559ff7f4c6"><td class="memItemLeft" align="right" valign="top">static struct <a class="el" href="../../d8/dc9/structgdt__entry.html">gdt_entry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a65356f295a9cedef605b17559ff7f4c6">gdt</a> [3]</td></tr>
+<tr class="separator:a65356f295a9cedef605b17559ff7f4c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3742f13c68be9127507a935261bf4560" id="r_a3742f13c68be9127507a935261bf4560"><td class="memItemLeft" align="right" valign="top">static struct <a class="el" href="../../de/da7/structgdt__pointer.html">gdt_pointer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a3742f13c68be9127507a935261bf4560">gdtp</a></td></tr>
+<tr class="separator:a3742f13c68be9127507a935261bf4560"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a7116707ed8dbba893e023a2ae0b19eb4" name="a7116707ed8dbba893e023a2ae0b19eb4"></a>
@@ -165,6 +173,11 @@ Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>A fully initialized GDT entry. </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="../../de/d68/gdt_8c_source.html#l00009">9</a> of file <a class="el" href="../../de/d68/gdt_8c_source.html">gdt.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d68/gdt_8c_a7116707ed8dbba893e023a2ae0b19eb4_icgraph.svg" width="394" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 
 </div>
 </div>
@@ -198,6 +211,11 @@ Functions</h2></td></tr>
 <dl class="section return"><dt>Returns</dt><dd>A GDT pointer suitable for loading with lgdt. </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="../../de/d68/gdt_8c_source.html#l00028">28</a> of file <a class="el" href="../../de/d68/gdt_8c_source.html">gdt.c</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d68/gdt_8c_a4e53f01f37e075985898a4b5b31359cd_icgraph.svg" width="404" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
 
 </div>
 </div>
@@ -220,6 +238,65 @@ Functions</h2></td></tr>
 <p>Creates a null descriptor, a kernel code descriptor, and a kernel data descriptor. Then loads the GDT and updates the CPU segment registers to use it. </p>
 
 <p class="definition">Definition at line <a class="el" href="../../de/d68/gdt_8c_source.html#l00040">40</a> of file <a class="el" href="../../de/d68/gdt_8c_source.html">gdt.c</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d68/gdt_8c_ad2acd7bce259a1a32213503c6fa18f14_cgraph.svg" width="251" height="86"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><iframe scrolling="no" frameborder="0" src="../../de/d68/gdt_8c_ad2acd7bce259a1a32213503c6fa18f14_icgraph.svg" width="228" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="a65356f295a9cedef605b17559ff7f4c6" name="a65356f295a9cedef605b17559ff7f4c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65356f295a9cedef605b17559ff7f4c6">&#9670;&#160;</a></span>gdt</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="../../d8/dc9/structgdt__entry.html">gdt_entry</a> gdt[3]</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../de/d68/gdt_8c_source.html#l00004">4</a> of file <a class="el" href="../../de/d68/gdt_8c_source.html">gdt.c</a>.</p>
+
+</div>
+</div>
+<a id="a3742f13c68be9127507a935261bf4560" name="a3742f13c68be9127507a935261bf4560"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3742f13c68be9127507a935261bf4560">&#9670;&#160;</a></span>gdtp</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="../../de/da7/structgdt__pointer.html">gdt_pointer</a> gdtp</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="../../de/d68/gdt_8c_source.html#l00007">7</a> of file <a class="el" href="../../de/d68/gdt_8c_source.html">gdt.c</a>.</p>
 
 </div>
 </div>
@@ -229,7 +306,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="../../dir_0cf440425f772069e3b1ee2ca693fc5d.html">group_29</a></li><li class="navelem"><a class="el" href="../../dir_1b5a23810809b89a4b56cb1b94e4d0c0.html">src</a></li><li class="navelem"><a class="el" href="../../dir_fb5ff90173cf1825d103dfb6d9a6e1ea.html">gdt</a></li><li class="navelem"><a class="el" href="../../de/d68/gdt_8c.html">gdt.c</a></li>
-    <li class="footer">Generated on Mon Apr 27 2026 13:07:15 for My Project by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
+    <li class="footer">Generated on Mon Apr 27 2026 13:34:47 for My Project by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.12.0 </li>
   </ul>
 </div>
 </body>

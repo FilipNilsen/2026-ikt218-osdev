@@ -1,0 +1,18 @@
+<map id="enable_speaker" name="enable_speaker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="975,31,1088,56"/>
+<area shape="rect" id="Node000002" href="$d5/dcd/song__player_8c.html#a60861af456ac3c67927143bd172dbc45" title=" " alt="" coords="683,31,793,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="959,46,793,46,793,41,959,41"/>
+<area shape="rect" id="Node000008" href="$d5/dcd/song__player_8c.html#affa50711febf5d0a1562d23e3902f1b3" title=" " alt="" coords="841,56,927,82"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="961,58,928,64,927,59,960,53"/>
+<area shape="rect" id="Node000003" href="$d5/dcd/song__player_8c.html#a37adde528e8957e9e5549d3ffaa7d8c5" title=" " alt="" coords="555,31,635,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="667,46,635,46,635,41,667,41"/>
+<area shape="rect" id="Node000004" href="$d5/dcd/song__player_8c.html#a0f4bc9933fb595cb57f5eb45e1a6c683" title=" " alt="" coords="374,31,507,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="540,46,508,46,508,41,540,41"/>
+<area shape="rect" id="Node000005" href="$d5/dcd/song__player_8c.html#a7359cad33e85278480ede1cbd20a6493" title=" " alt="" coords="190,31,326,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="359,46,326,46,326,41,359,41"/>
+<area shape="rect" id="Node000006" href="$d5/d2e/command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="5,5,142,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="174,35,142,30,143,25,175,29"/>
+<area shape="rect" id="Node000007" href="$d5/dcd/song__player_8c.html#a8c3c6bdb4cfac6f6bf6a89a68dec6176" title=" " alt="" coords="11,55,136,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="175,57,137,62,136,57,174,52"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="825,61,793,56,794,50,826,56"/>
+</map>
