@@ -1,0 +1,7 @@
+<map id="fill_screen" name="fill_screen">
+<area shape="rect" id="Node000001" title="Fills the entire VGA text screen with blank characters." alt="" coords="310,5,389,31"/>
+<area shape="rect" id="Node000002" href="$printing_8c.html#a4953d1edcbbfc7e420c423ded1d5621a" title="Clears the VGA text screen using the default color." alt="" coords="167,5,262,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,21,262,21,262,16,294,16"/>
+<area shape="rect" id="Node000003" href="$command_8c.html#ad3f4f170b9aafb1eaa79e88f67103a94" title="Clears the shell." alt="" coords="5,5,119,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="151,21,119,21,119,16,151,16"/>
+</map>

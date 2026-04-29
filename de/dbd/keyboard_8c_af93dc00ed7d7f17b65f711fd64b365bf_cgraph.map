@@ -1,9 +1,0 @@
-<map id="translate_keycode_to_ascii" name="translate_keycode_to_ascii">
-<area shape="rect" id="Node000001" title="Translates one key event into an ASCII character." alt="" coords="5,55,184,80"/>
-<area shape="rect" id="Node000002" href="$de/dbd/keyboard_8c.html#a70695868156acb029ed4f8c6f00be092" title="Checks whether a translated ASCII character is a lowercase letter." alt="" coords="242,5,310,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,51,226,29,228,34,145,57"/>
-<area shape="rect" id="Node000003" href="$de/dbd/keyboard_8c.html#a3b4cb6090452d84cb5ae725ba07eb8e6" title="Checks whether either Shift key is currently pressed." alt="" coords="232,55,320,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,65,216,65,216,70,184,70"/>
-<area shape="rect" id="Node000004" href="$de/dbd/keyboard_8c.html#a4489a4225a52fa524574a00c7e8b1d38" title="Converts one lowercase ASCII letter to uppercase." alt="" coords="235,104,316,130"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,78,221,99,219,104,144,84"/>
-</map>

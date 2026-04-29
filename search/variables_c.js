@@ -1,23 +1,10 @@
 var searchData=
 [
-  ['magic_0',['magic',['../dc/dfa/structmultiboot__header.html#a7fddee92e60ff58e159c6bf2c40bf29b',1,'multiboot_header::magic'],['../d3/d9c/structTinyFsSuperblock.html#adf9094ff39147ff36b8080aedb5964ae',1,'TinyFsSuperblock::magic']]],
-  ['main_5finterface_1',['main_interface',['../d2/d4a/printing_8c.html#ac539bf1d1199199c3a2a4d0c1dcc7fe8',1,'main_interface:&#160;printing.c'],['../d6/d04/printing_8h.html#ac539bf1d1199199c3a2a4d0c1dcc7fe8',1,'main_interface:&#160;printing.c']]],
-  ['main_5fuser_5fdata_2',['main_user_data',['../d3/d8d/user_8c.html#a51bfd0d7235ff2c056bd1b0e9ccbb3d7',1,'user.c']]],
-  ['major_3',['major',['../d8/db7/structmultiboot__tag__smbios.html#a1979fc6821ff6ffb79bd95c2794104a0',1,'multiboot_tag_smbios']]],
-  ['max_5faddr_4',['max_addr',['../d4/daf/structmultiboot__header__tag__relocatable.html#a9b71cbacfed4a5b1f123d6992f42bd74',1,'multiboot_header_tag_relocatable']]],
-  ['mem_5flower_5',['mem_lower',['../d2/da0/structmultiboot__tag__basic__meminfo.html#aaabdaf3c52dd3be82d1ab4fbd50f9004',1,'multiboot_tag_basic_meminfo']]],
-  ['mem_5fupper_6',['mem_upper',['../d2/da0/structmultiboot__tag__basic__meminfo.html#ae329d0036de802dbac0b6bd991495738',1,'multiboot_tag_basic_meminfo']]],
-  ['memory_5fend_7',['memory_end',['../d1/d67/structVgaTextModeCursor.html#a41802fae1c3db1c3666f9d90042a678e',1,'VgaTextModeCursor']]],
-  ['memory_5fposition_8',['memory_position',['../d1/d67/structVgaTextModeCursor.html#a5849829a6d61433244b39d7e0ebd13b8',1,'VgaTextModeCursor']]],
-  ['memory_5fstart_9',['memory_start',['../d1/d67/structVgaTextModeCursor.html#a0ac156097cca6c27d5fdd2c16b5866f6',1,'VgaTextModeCursor']]],
-  ['min_5faddr_10',['min_addr',['../d4/daf/structmultiboot__header__tag__relocatable.html#a97193a1e961755821ca483bf378d11d3',1,'multiboot_header_tag_relocatable']]],
-  ['minor_11',['minor',['../d8/db7/structmultiboot__tag__smbios.html#abe83621d3f54ab2868c75a6396b25729',1,'multiboot_tag_smbios']]],
-  ['mod_5fend_12',['mod_end',['../d0/d21/structmultiboot__tag__module.html#ae0a4f42952619e0807cbb5debbf6e5af',1,'multiboot_tag_module']]],
-  ['mod_5fstart_13',['mod_start',['../d0/d21/structmultiboot__tag__module.html#af2870ead515a1c38d4484645ab54fb03',1,'multiboot_tag_module']]],
-  ['music_5f1_14',['music_1',['../d2/da3/song_8h.html#a3738535165acf995ddbdadc88846885e',1,'song.h']]],
-  ['music_5f2_15',['music_2',['../d2/da3/song_8h.html#a71a52b9a299685eece0059de429cdce8',1,'song.h']]],
-  ['music_5f3_16',['music_3',['../d2/da3/song_8h.html#a871ea1e50ac93bcca013317685c670ec',1,'song.h']]],
-  ['music_5f4_17',['music_4',['../d2/da3/song_8h.html#ab36c7f42d3a82d32028e0089558e82cf',1,'song.h']]],
-  ['music_5f5_18',['music_5',['../d2/da3/song_8h.html#a37fb7789a156fb4072fb66264af868a1',1,'song.h']]],
-  ['music_5f6_19',['music_6',['../d2/da3/song_8h.html#a675c4921673eefda8ea6808726ca0093',1,'song.h']]]
+  ['name_0',['name',['../structCommandEntry.html#a4f1897b38353624016edd80996ae9e80',1,'CommandEntry::name'],['../structCommandColors.html#ab0961403d4e85c644e02910e10955d47',1,'CommandColors::name'],['../structTinyFsFileEntry.html#a1a4532cabac64f8a666a2d5f67686bc8',1,'TinyFsFileEntry::name']]],
+  ['next_1',['next',['../structheap__block.html#a500ce257bfb73f466fdca724b5f81bff',1,'heap_block']]],
+  ['next_5ffree_5fsector_2',['next_free_sector',['../structTinyFsSuperblock.html#a5e381e55c6f9369a7e56b43bff41890f',1,'TinyFsSuperblock']]],
+  ['next_5fprompt_5ffailed_3',['next_prompt_failed',['../structShellState.html#ab0cdae4d523d8d2e2be5cc08cb6f9872',1,'ShellState']]],
+  ['notes_4',['notes',['../structSong.html#afd5d115e70dd8675a81af9c20b7cc6d6',1,'Song']]],
+  ['num_5',['num',['../structmultiboot__tag__elf__sections.html#ad31ac6e523f0a7d800c430ba4e5c40dc',1,'multiboot_tag_elf_sections']]],
+  ['numberoftests_6',['NumberOfTests',['../structUNITY__STORAGE__T.html#a144a353d362e1c98bdbc963443b268dc',1,'UNITY_STORAGE_T']]]
 ];

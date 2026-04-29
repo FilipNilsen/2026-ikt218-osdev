@@ -1,0 +1,14 @@
+<map id="send_eoi" name="send_eoi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="668,31,741,56"/>
+<area shape="rect" id="Node000002" href="$interrupts_8c.html#acacd5d3983faec5c7bd614e36d2f1dc5" title=" " alt="" coords="490,5,620,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="652,37,619,32,620,27,652,32"/>
+<area shape="rect" id="Node000003" href="$interrupts_8c.html#abbd5f86bc3e3c52fad79391febcb28bc" title="Called by keyboard_interrupt_handler." alt="" coords="491,55,619,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="653,54,620,60,619,55,652,49"/>
+<area shape="rect" id="Node000004" href="$interrupts_8c.html#aaa875dce2b321ea15bd0397a1339999b" title=" " alt="" coords="266,55,442,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,70,443,70,443,65,475,65"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="382,42,373,36,354,33,337,35,328,40,326,45,331,53,326,56,321,46,324,36,335,30,354,28,374,31,385,37"/>
+<area shape="rect" id="Node000005" href="$interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8" title="Sets up the IDT with needed interrupt for system functionality." alt="" coords="159,55,218,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,70,219,70,219,65,250,65"/>
+<area shape="rect" id="Node000006" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,55,111,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="143,70,111,70,111,65,143,65"/>
+</map>

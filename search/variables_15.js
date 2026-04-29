@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['width_0',['width',['../d6/dbd/structmultiboot__header__tag__framebuffer.html#a01f7fd9c4cbb8d58b155a50ff0e030d0',1,'multiboot_header_tag_framebuffer']]]
+  ['zero_0',['zero',['../structmultiboot__mmap__entry.html#a1e8db52da1ca1c6f5e2e96baec2c9256',1,'multiboot_mmap_entry']]]
 ];

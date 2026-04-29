@@ -1,0 +1,26 @@
+<map id="play_song_impl" name="play_song_impl">
+<area shape="rect" id="Node000001" title="Plays each note in sequence and uses the PIT sleep routine for timing." alt="" coords="5,104,116,130"/>
+<area shape="rect" id="Node000002" href="$song__player_8c.html#a96bd077bd862f55af2075651b2249465" title=" " alt="" coords="318,5,433,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,101,163,69,234,47,302,30,304,36,236,52,165,74,90,106"/>
+<area shape="rect" id="Node000005" href="$song__player_8c.html#a47855367bfbb37643d9c567704791115" title="Bits 0 and 1 on port 0x61 must be enabled for audible output." alt="" coords="320,104,432,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="116,114,304,114,304,120,116,120"/>
+<area shape="rect" id="Node000006" href="$song__player_8c.html#a4f7e7d5c891653748fd0d0b32cb300dc" title="PIT channel 2 drives the PC speaker tone frequency." alt="" coords="174,155,260,180"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="103,128,162,147,160,152,102,133"/>
+<area shape="rect" id="Node000007" href="$song__player_8c.html#a7af29ef84e346502d53907ea1057d2c4" title=" " alt="" coords="332,55,420,80"/>
+<area shape="poly" id="edge15_Node000001_Node000007" title=" " alt="" coords="116,104,163,96,316,73,317,78,164,101,117,109"/>
+<area shape="rect" id="Node000008" href="$pit_8c.html#a81fd921fa7d97d390d1ed559e3d50dae" title="Sleep function, checks if enough time has passed at every interrupt that fires." alt="" coords="164,204,270,230"/>
+<area shape="poly" id="edge13_Node000001_Node000008" title=" " alt="" coords="79,128,117,158,165,191,172,194,169,199,162,195,114,163,76,132"/>
+<area shape="rect" id="Node000003" href="$song__player_8c.html#af2a511d0022df49de8004b1f11017e33" title="Small local helpers for port I/O used by the PC speaker." alt="" coords="485,55,577,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,29,475,47,473,52,418,34"/>
+<area shape="rect" id="Node000004" href="$song__player_8c.html#a8a78719279438542b03cd510491df3e4" title=" " alt="" coords="481,104,581,130"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="416,29,435,40,450,53,460,66,469,78,483,91,487,94,484,98,480,95,465,81,455,69,446,57,432,44,413,34"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="418,101,473,83,475,88,420,106"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="432,114,465,114,465,120,432,120"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="260,162,341,153,433,140,469,131,470,137,434,145,341,159,261,167"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="259,152,318,132,320,137,260,157"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="231,152,269,122,317,89,324,85,327,90,319,94,272,126,235,156"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="420,65,470,65,470,70,420,70"/>
+<area shape="poly" id="edge12_Node000007_Node000004" title=" " alt="" coords="420,78,475,96,473,101,418,84"/>
+<area shape="rect" id="Node000009" href="$pit_8c.html#adf1279bb067ede8b6ec89ab486cbea59" title="Get how many ticks have passed. Incremented every time the PIT fiires." alt="" coords="318,205,433,231"/>
+<area shape="poly" id="edge14_Node000008_Node000009" title=" " alt="" coords="271,215,303,215,303,220,271,220"/>
+</map>

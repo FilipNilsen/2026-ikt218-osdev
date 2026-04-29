@@ -1,0 +1,5 @@
+<map id="send_eoi" name="send_eoi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,79,31"/>
+<area shape="rect" id="Node000002" href="$interrupts_8c.html#aa37f5841c54156a4b14fc0d6f626b44f" title=" " alt="" coords="127,5,173,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,16,111,16,111,21,79,21"/>
+</map>

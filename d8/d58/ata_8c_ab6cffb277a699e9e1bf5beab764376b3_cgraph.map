@@ -1,8 +1,0 @@
-<map id="ata_poll" name="ata_poll">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,72,56"/>
-<area shape="rect" id="Node000002" href="$d8/d58/ata_8c.html#af5b607523e35a20f44c9aedb5a133b75" title=" " alt="" coords="120,5,238,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,35,104,29,105,34,73,40"/>
-<area shape="rect" id="Node000003" href="$d8/d58/ata_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="286,31,324,56"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="72,41,271,41,271,46,72,46"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,27,271,34,270,39,238,33"/>
-</map>

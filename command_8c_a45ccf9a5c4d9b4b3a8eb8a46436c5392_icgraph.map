@@ -1,0 +1,14 @@
+<map id="get_command_colors" name="get_command_colors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="391,55,536,80"/>
+<area shape="rect" id="Node000002" href="$command_8c.html#a3e70cc34fa40e3a78091a723b195ea77" title=" " alt="" coords="190,5,343,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,53,320,34,321,29,395,48"/>
+<area shape="rect" id="Node000004" href="$command_8c.html#ae813413ada6ec1c7212637a3f6f16ac6" title=" " alt="" coords="197,55,336,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="375,70,336,70,336,65,375,65"/>
+<area shape="rect" id="Node000005" href="$command_8c.html#a3c36856f25ef0ec4115e0a3cd9922576" title=" " alt="" coords="203,104,330,130"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="395,87,321,106,320,101,394,82"/>
+<area shape="rect" id="Node000003" href="$command_8c.html#a914fc042948ecb40e1d8e29e033f50d4" title="Displays all commands." alt="" coords="19,31,128,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="175,33,129,39,128,34,174,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="182,60,128,53,129,48,182,54"/>
+<area shape="rect" id="Node000006" href="$command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="5,104,142,130"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="187,120,142,120,142,114,187,114"/>
+</map>

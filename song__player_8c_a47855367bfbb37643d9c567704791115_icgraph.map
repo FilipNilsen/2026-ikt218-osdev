@@ -1,0 +1,8 @@
+<map id="enable_speaker" name="enable_speaker">
+<area shape="rect" id="Node000001" title="Bits 0 and 1 on port 0x61 must be enabled for audible output." alt="" coords="298,5,410,31"/>
+<area shape="rect" id="Node000002" href="$song__player_8c.html#a60861af456ac3c67927143bd172dbc45" title=" " alt="" coords="5,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,21,116,21,116,16,282,16"/>
+<area shape="rect" id="Node000003" href="$song__player_8c.html#a4f7e7d5c891653748fd0d0b32cb300dc" title="PIT channel 2 drives the PC speaker tone frequency." alt="" coords="164,31,250,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,33,251,39,250,33,282,28"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="148,36,116,30,117,25,149,31"/>
+</map>

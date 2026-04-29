@@ -1,0 +1,8 @@
+<map id="pit_irq_handler" name="pit_irq_handler">
+<area shape="rect" id="Node000001" title="IRQ for the PIT, increments pit_ticks." alt="" coords="266,29,371,55"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="340,16,333,10,319,8,305,10,299,14,297,20,301,28,296,30,292,21,294,11,304,5,319,3,335,5,343,12"/>
+<area shape="rect" id="Node000002" href="$interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8" title="Sets up the IDT with needed interrupt for system functionality." alt="" coords="159,29,218,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,45,218,45,218,40,250,40"/>
+<area shape="rect" id="Node000003" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,29,111,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,45,111,45,111,40,143,40"/>
+</map>

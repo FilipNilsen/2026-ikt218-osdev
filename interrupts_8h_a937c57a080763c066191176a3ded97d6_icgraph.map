@@ -1,0 +1,11 @@
+<map id="create_idt_attributes" name="create_idt_attributes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="354,31,493,56"/>
+<area shape="rect" id="Node000002" href="$interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8" title="Sets up the IDT with needed interrupt for system functionality." alt="" coords="203,5,262,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,35,262,25,263,19,339,30"/>
+<area shape="rect" id="Node000004" href="$interrupts__test_8c.html#ad84499d2cea3a500d204e3ddd6b62be4" title=" " alt="" coords="159,55,306,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,57,307,61,306,56,338,51"/>
+<area shape="rect" id="Node000003" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,5,111,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="187,21,111,21,111,16,187,16"/>
+<area shape="rect" id="Node000005" href="$interrupts__test_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="33,55,83,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="143,70,83,70,83,65,143,65"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="scancode2keycode" name="scancode2keycode">
+<area shape="rect" id="Node000001" title="Converts one buffered scancode into a keycode event." alt="" coords="5,55,138,80"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a66deccb084d3d42040cca136f6aa8b76" title="Creates a keycode struct describing one key press or release event." alt="" coords="208,5,308,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,51,192,33,193,38,124,57"/>
+<area shape="rect" id="Node000003" href="$keyboard_8c.html#a65c0f927a3495e589d9199520ca98d81" title="Pops the oldest raw scancode from the scancode buffer." alt="" coords="186,55,330,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,65,170,65,170,70,138,70"/>
+<area shape="rect" id="Node000004" href="$keyboard_8c.html#aee5c577634abbfd2859abae4730cc1d4" title="Pushes a decoded key event into the keycode buffer." alt="" coords="186,104,330,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,78,193,97,191,102,122,84"/>
+</map>

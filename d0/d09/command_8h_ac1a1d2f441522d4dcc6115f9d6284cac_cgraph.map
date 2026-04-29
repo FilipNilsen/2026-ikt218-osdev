@@ -1,5 +1,0 @@
-<map id="command_echo" name="command_echo">
-<area shape="rect" id="Node000001" title="Print user input to screen." alt="" coords="5,5,119,31"/>
-<area shape="rect" id="Node000002" href="$d6/dd1/stdio_8h.html#aaed07ef5e23dd5193105592f06e5bef9" title=" " alt="" coords="167,5,213,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,16,151,16,151,21,119,21"/>
-</map>

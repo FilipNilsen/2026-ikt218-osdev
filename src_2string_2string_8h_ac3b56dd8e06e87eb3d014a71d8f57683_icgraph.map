@@ -1,0 +1,11 @@
+<map id="string_copy" name="string_copy">
+<area shape="rect" id="Node000001" title="Copies a null&#45;terminated string into a fixed&#45;size buffer." alt="" coords="404,31,491,56"/>
+<area shape="rect" id="Node000002" href="$user_8c.html#ad4a4a87d44c5ab5f802107d10ee2f704" title=" " alt="" coords="237,5,340,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,37,339,29,340,24,389,32"/>
+<area shape="rect" id="Node000004" href="$user_8c.html#a21bf555274641e347c0677cec7e7fc10" title=" " alt="" coords="221,55,356,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="389,55,357,60,356,55,388,50"/>
+<area shape="rect" id="Node000003" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="36,5,142,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,21,142,21,142,16,222,16"/>
+<area shape="rect" id="Node000005" href="$command_8c.html#a27bd41460dd4f32c95c9066c180606cc" title="Sets the username of user." alt="" coords="5,55,173,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="205,70,173,70,173,65,205,65"/>
+</map>

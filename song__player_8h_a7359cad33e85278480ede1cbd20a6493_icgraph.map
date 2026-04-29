@@ -1,0 +1,7 @@
+<map id="play_song_by_index" name="play_song_by_index">
+<area shape="rect" id="Node000001" title="Plays one of the built&#45;in songs by index." alt="" coords="190,31,326,56"/>
+<area shape="rect" id="Node000002" href="$command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="5,5,142,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,35,142,30,143,25,175,29"/>
+<area shape="rect" id="Node000003" href="$song__player_8c.html#a8c3c6bdb4cfac6f6bf6a89a68dec6176" title="Plays the first built&#45;in song during boot." alt="" coords="11,55,136,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,57,137,62,136,57,174,52"/>
+</map>

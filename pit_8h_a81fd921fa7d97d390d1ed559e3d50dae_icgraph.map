@@ -1,0 +1,5 @@
+<map id="sleep_interrupt" name="sleep_interrupt">
+<area shape="rect" id="Node000001" title="Sleep function, checks if enough time has passed at every interrupt that fires." alt="" coords="164,5,270,31"/>
+<area shape="rect" id="Node000002" href="$song__player_8c.html#a60861af456ac3c67927143bd172dbc45" title=" " alt="" coords="5,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,21,116,21,116,16,148,16"/>
+</map>

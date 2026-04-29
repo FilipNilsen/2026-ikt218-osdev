@@ -1,0 +1,33 @@
+<map id="keyboard_callback" name="keyboard_callback">
+<area shape="rect" id="Node000001" title="Called by keyboard_interrupt_handler." alt="" coords="5,129,134,155"/>
+<area shape="rect" id="Node000002" href="$interrupts_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="253,80,292,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,126,237,98,238,104,126,131"/>
+<area shape="rect" id="Node000003" href="$keyboard_8c.html#a8173086cf4ab408b8a2fe7ebeda16e87" title="Processes one raw scancode from the keyboard controller." alt="" coords="182,129,363,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,140,166,140,166,145,134,145"/>
+<area shape="rect" id="Node000015" href="$interrupts_8c.html#af708467a65b3f7b0206d757d2089f0cc" title=" " alt="" coords="236,203,309,228"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="108,153,222,195,220,200,107,158"/>
+<area shape="rect" id="Node000004" href="$keyboard_8c.html#a544a17b7b4e1f6c5611c072bfd630215" title="Pops the oldest key event from the keycode buffer." alt="" coords="432,5,568,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="343,126,361,116,377,98,385,79,392,59,409,40,417,35,420,40,413,44,397,62,390,81,382,101,365,120,346,131"/>
+<area shape="rect" id="Node000005" href="$keyboard_8c.html#a6ba03c74af08b44f06bf31ae1a8af3f8" title="Pushes one translated ASCII character into the ASCII buffer." alt="" coords="439,55,561,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="331,126,362,116,386,103,410,89,427,83,429,88,412,94,388,107,364,121,333,131"/>
+<area shape="rect" id="Node000006" href="$keyboard_8c.html#ab01bbe608bc37fbe6e8657cd45796920" title="Pushes a raw keyboard scancode into the scancode buffer." alt="" coords="424,104,576,130"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="363,129,409,124,409,130,364,135"/>
+<area shape="rect" id="Node000007" href="$keyboard_8c.html#a3577fb410a56f4acd48d76dbd00ecf9b" title="Converts one buffered scancode into a keycode event." alt="" coords="434,153,566,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="364,149,419,155,418,160,363,154"/>
+<area shape="rect" id="Node000011" href="$keyboard_8c.html#a73e7a5c7075a91744ed88ba134b0ad71" title="Translates one key event into an ASCII character." alt="" coords="411,203,589,228"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="309,153,412,189,433,195,432,200,410,194,308,158"/>
+<area shape="rect" id="Node000008" href="$keyboard_8c.html#a66deccb084d3d42040cca136f6aa8b76" title="Creates a keycode struct describing one key press or release event." alt="" coords="659,55,760,80"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="565,150,588,140,602,128,611,116,621,102,636,89,644,85,646,89,639,94,625,106,616,119,606,132,591,144,568,155"/>
+<area shape="rect" id="Node000009" href="$keyboard_8c.html#a65c0f927a3495e589d9199520ca98d81" title="Pops the oldest raw scancode from the scancode buffer." alt="" coords="637,104,782,130"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="557,150,636,131,638,136,559,155"/>
+<area shape="rect" id="Node000010" href="$keyboard_8c.html#aee5c577634abbfd2859abae4730cc1d4" title="Pushes a decoded key event into the keycode buffer." alt="" coords="638,153,781,179"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="567,164,622,164,622,169,567,169"/>
+<area shape="rect" id="Node000012" href="$keyboard_8c.html#a5a5b04c28ffa3fbed3dd5a7fbc38661e" title="Checks whether a translated ASCII character is a lowercase letter." alt="" coords="676,203,743,228"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="590,213,660,213,660,218,590,218"/>
+<area shape="rect" id="Node000013" href="$keyboard_8c.html#a9421117f663c6ee1338725f5ee5f6a3f" title="Checks whether either Shift key is currently pressed." alt="" coords="665,252,754,278"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="559,226,651,248,649,254,557,232"/>
+<area shape="rect" id="Node000014" href="$keyboard_8c.html#a46c6af932bdd089bf2b9ec2a7040e503" title="Converts one lowercase ASCII letter to uppercase." alt="" coords="669,301,750,327"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="568,226,591,237,606,250,616,263,625,276,639,288,656,297,653,301,636,292,621,279,611,266,602,254,588,242,565,231"/>
+<area shape="rect" id="Node000016" href="$interrupts_8c.html#aa37f5841c54156a4b14fc0d6f626b44f" title=" " alt="" coords="477,252,523,278"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="310,221,463,254,462,259,309,226"/>
+</map>

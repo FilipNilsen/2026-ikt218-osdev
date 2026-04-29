@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['deprecated_20list_0',['Deprecated List',['../da/d58/deprecated.html',1,'']]]
+  ['4_20boot_20integration_0',['4. Boot integration',['../md_src_2group__29_2Documentation_2pc-sound.html#autotoc_md62',1,'']]]
 ];

@@ -1,0 +1,5 @@
+<map id="free" name="free">
+<area shape="rect" id="Node000001" title="Frees a block previously returned by malloc." alt="" coords="5,5,49,31"/>
+<area shape="rect" id="Node000002" href="$heap_8c.html#a633593169d6bae2a826e29ac687b9326" title=" " alt="" coords="97,5,244,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,16,81,16,81,21,49,21"/>
+</map>

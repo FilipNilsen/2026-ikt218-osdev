@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['img_20src_20https_3a_20github_20com_20throwtheswitch_20unity_20workflows_20ci_20badge_20svg_20alt_20ci_0',['Unity Test &lt;img src=&quot;https://github.com/ThrowTheSwitch/Unity/workflows/CI/badge.svg&quot; alt=&quot;CI&quot;/&gt;',['../d1/d88/md_src_2group__29_2include_2unity_2README.html',1,'']]]
+  ['ci_0',['Unity Test ![CI][]',['../dir_5b1defa3e218cfc3c018b9e38be651b9.html#autotoc_md63',1,'']]],
+  ['coalescing_1',['Coalescing',['../md_src_2group__29_2Documentation_2memory__explanation.html#autotoc_md48',1,'']]],
+  ['control_2',['Key “Magic Bits” (Hardware Control)',['../md_src_2group__29_2Documentation_2filesystem.html#autotoc_md9',1,'']]],
+  ['current_20design_3',['Limitations of the current design',['../md_src_2group__29_2Documentation_2memory__explanation.html#autotoc_md52',1,'']]]
 ];

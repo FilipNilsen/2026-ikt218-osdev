@@ -1,0 +1,7 @@
+<map id="play_song_impl" name="play_song_impl">
+<area shape="rect" id="Node000001" title="Plays each note in sequence and uses the PIT sleep routine for timing." alt="" coords="314,5,424,31"/>
+<area shape="rect" id="Node000002" href="$song__player_8c.html#a37adde528e8957e9e5549d3ffaa7d8c5" title=" " alt="" coords="187,5,266,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,21,267,21,267,16,298,16"/>
+<area shape="rect" id="Node000003" href="$song__player_8c.html#a0f4bc9933fb595cb57f5eb45e1a6c683" title=" " alt="" coords="5,5,139,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,21,139,21,139,16,171,16"/>
+</map>

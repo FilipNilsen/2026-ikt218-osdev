@@ -1,0 +1,52 @@
+<map id="command_cat" name="command_cat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,109,107"/>
+<area shape="rect" id="Node000002" href="$command_8c.html#a23af1e2506f2059ed9beccc0c7b06e12" title=" " alt="" coords="157,5,313,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,78,156,48,186,35,188,40,158,53,89,83"/>
+<area shape="rect" id="Node000003" href="$heap_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title="Frees a block previously returned by malloc." alt="" coords="398,43,441,68"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,86,382,57,382,62,109,91"/>
+<area shape="rect" id="Node000005" href="$stdio_8h.html#aaed07ef5e23dd5193105592f06e5bef9" title=" " alt="" coords="212,107,258,132"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="109,99,196,111,196,117,109,104"/>
+<area shape="rect" id="Node000006" href="$tinyfs_8c.html#ab2840479eb353b6c88b0588bc2379b78" title="Read a file." alt="" coords="181,169,288,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="85,105,158,142,193,160,190,164,155,147,83,110"/>
+<area shape="rect" id="Node000004" href="$heap_8c.html#a633593169d6bae2a826e29ac687b9326" title=" " alt="" coords="525,43,673,68"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="441,53,510,53,510,58,441,58"/>
+<area shape="poly" id="edge20_Node000006_Node000003" title=" " alt="" coords="270,166,311,143,326,129,335,115,344,101,359,85,383,70,386,74,363,90,348,104,339,118,330,132,315,147,273,171"/>
+<area shape="rect" id="Node000007" href="$ata_8c.html#a28bf1254e2ffcfdfa5a3ab230e918d71" title="Read a disk sector." alt="" coords="542,144,656,170"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="260,166,306,146,360,129,406,124,452,125,535,137,534,143,452,130,406,129,362,134,308,151,262,171"/>
+<area shape="rect" id="Node000015" href="$tinyfs_8c.html#a618726ade6973308324da45219328aec" title="Loop through the file table until the file with specified name is found." alt="" coords="368,243,470,268"/>
+<area shape="poly" id="edge18_Node000006_Node000015" title=" " alt="" coords="270,193,372,234,370,239,268,198"/>
+<area shape="rect" id="Node000017" href="$tinyfs_8c.html#a80789118d431f2d302f0d217d2a90ce7" title="Reads the file table into entries." alt="" coords="368,144,471,170"/>
+<area shape="poly" id="edge21_Node000006_Node000017" title=" " alt="" coords="288,172,352,163,353,169,289,177"/>
+<area shape="rect" id="Node000018" href="$tinyfs_8c.html#acac2bb89de556b56a688b0b211259c8d" title="Reads the super block and checks validity." alt="" coords="362,193,477,219"/>
+<area shape="poly" id="edge23_Node000006_Node000018" title=" " alt="" coords="289,186,346,194,346,199,288,192"/>
+<area shape="rect" id="Node000019" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="390,292,449,318"/>
+<area shape="poly" id="edge25_Node000006_Node000019" title=" " alt="" coords="252,193,299,234,362,279,377,286,374,291,360,283,296,238,248,197"/>
+<area shape="rect" id="Node000022" href="$tinyfs_8c.html#a8d231e3f6b4048e217067f21e7380f59" title="Calculate how many sectors size_bytes takes up." alt="" coords="361,341,477,367"/>
+<area shape="poly" id="edge28_Node000006_Node000022" title=" " alt="" coords="246,194,291,257,325,295,363,328,367,331,364,336,359,332,321,298,287,260,242,197"/>
+<area shape="rect" id="Node000008" href="$ata_8c.html#a3ee6591c28dcff698587364d70cef51f" title="Check if the drive is ready before disk read/write. This uses pooling so it is blocking." alt="" coords="911,19,977,44"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="629,141,720,104,895,44,897,49,722,109,631,146"/>
+<area shape="rect" id="Node000011" href="$ata_8c.html#a3cdce3e56f7424649e6c18e60f634506" title="Move HDD head to the correct position on the disk for I/O." alt="" coords="721,119,838,144"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="656,146,705,139,706,144,657,151"/>
+<area shape="rect" id="Node000013" href="$ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="1086,119,1133,144"/>
+<area shape="poly" id="edge17_Node000007_Node000013" title=" " alt="" coords="657,156,838,154,966,145,1071,133,1071,139,966,150,838,159,657,161"/>
+<area shape="rect" id="Node000014" href="$ata_8c.html#ab2f39bde7b2e87793f55352c72d07ebe" title=" " alt="" coords="759,220,800,246"/>
+<area shape="poly" id="edge16_Node000007_Node000014" title=" " alt="" coords="633,168,745,216,743,221,631,173"/>
+<area shape="rect" id="Node000009" href="$ata_8c.html#a515c6e4b51908e37fe4bff1a79412635" title="Just runs inb() against ATA disk 4 times." alt="" coords="1050,68,1169,94"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="978,39,1050,60,1048,66,977,44"/>
+<area shape="rect" id="Node000010" href="$ata_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="1217,43,1255,68"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="978,32,1201,50,1201,55,977,37"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1169,66,1201,60,1202,65,1170,72"/>
+<area shape="rect" id="Node000012" href="$ata_8c.html#abb68d74a0b5e6814b7b86f7d176e98c6" title="Select drive and/or head." alt="" coords="886,68,1002,94"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="823,116,885,96,887,101,824,121"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="838,129,1071,129,1071,134,838,134"/>
+<area shape="poly" id="edge13_Node000012_Node000009" title=" " alt="" coords="1003,78,1034,78,1034,84,1003,84"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="989,92,1072,117,1071,123,988,97"/>
+<area shape="rect" id="Node000016" href="$tinyfs_8c.html#a918290a70cd7b968eeb46f7e01db5b01" title="Compares two strings." alt="" coords="544,243,654,268"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="470,253,528,253,528,258,470,258"/>
+<area shape="poly" id="edge22_Node000017_Node000007" title=" " alt="" coords="471,154,526,154,526,160,471,160"/>
+<area shape="poly" id="edge24_Node000018_Node000007" title=" " alt="" coords="468,190,534,172,535,177,470,195"/>
+<area shape="rect" id="Node000020" href="$heap_8c.html#a401aaf24b99f6928ef5b161a6ad97c38" title=" " alt="" coords="564,292,634,318"/>
+<area shape="poly" id="edge26_Node000019_Node000020" title=" " alt="" coords="449,302,549,302,549,308,449,308"/>
+<area shape="rect" id="Node000021" href="$heap_8c.html#a18e1cd07c4b070ddb71e7ee3044e55ab" title=" " alt="" coords="557,341,641,367"/>
+<area shape="poly" id="edge27_Node000019_Node000021" title=" " alt="" coords="450,310,543,336,542,341,449,315"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="get_current_tick" name="get_current_tick">
+<area shape="rect" id="Node000001" title="Get how many ticks have passed. Incremented every time the PIT fiires." alt="" coords="318,31,432,56"/>
+<area shape="rect" id="Node000002" href="$pit_8c.html#a385870dec81816ea348d2479cfa6245a" title="Sleep function, repeatedly checks get_current_tick() to see if enough time has passed." alt="" coords="174,5,260,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,35,260,28,261,22,303,29"/>
+<area shape="rect" id="Node000003" href="$pit_8c.html#a81fd921fa7d97d390d1ed559e3d50dae" title="Sleep function, checks if enough time has passed at every interrupt that fires." alt="" coords="164,55,270,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,57,271,62,270,57,302,52"/>
+<area shape="rect" id="Node000004" href="$song__player_8c.html#a60861af456ac3c67927143bd172dbc45" title=" " alt="" coords="5,55,116,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="148,70,116,70,116,65,148,65"/>
+</map>

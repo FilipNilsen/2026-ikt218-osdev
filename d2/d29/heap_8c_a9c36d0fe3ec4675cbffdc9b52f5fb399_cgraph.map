@@ -1,7 +1,0 @@
-<map id="malloc" name="malloc">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,65,56"/>
-<area shape="rect" id="Node000002" href="$d2/d29/heap_8c.html#a401aaf24b99f6928ef5b161a6ad97c38" title=" " alt="" coords="120,5,189,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,35,104,26,105,31,66,40"/>
-<area shape="rect" id="Node000003" href="$d2/d29/heap_8c.html#a18e1cd07c4b070ddb71e7ee3044e55ab" title=" " alt="" coords="113,55,196,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="66,47,98,53,97,59,65,52"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="check_argument_count" name="check_argument_count">
-<area shape="rect" id="Node000001" title=" " alt="" coords="221,55,377,80"/>
-<area shape="rect" id="Node000002" href="$d5/d2e/command_8c.html#a48bd81771f1d749da03d8d4594541a2e" title=" " alt="" coords="37,5,141,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,53,141,33,142,28,227,48"/>
-<area shape="rect" id="Node000003" href="$d5/d2e/command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="21,55,157,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,70,158,70,158,65,205,65"/>
-<area shape="rect" id="Node000004" href="$d5/d2e/command_8c.html#a27bd41460dd4f32c95c9066c180606cc" title="Sets the username of user." alt="" coords="5,104,173,130"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="227,87,147,106,146,101,225,82"/>
-</map>

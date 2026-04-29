@@ -1,7 +1,0 @@
-<map id="fill_screen" name="fill_screen">
-<area shape="rect" id="Node000001" title="Fills the entire VGA text screen with blank characters." alt="" coords="5,5,85,31"/>
-<area shape="rect" id="Node000002" href="$d4/d78/vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="133,5,357,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,16,117,16,117,21,85,21"/>
-<area shape="rect" id="Node000003" href="$d4/d78/vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="405,5,451,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,16,390,16,390,21,357,21"/>
-</map>

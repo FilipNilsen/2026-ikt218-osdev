@@ -1,0 +1,20 @@
+<map id="print_interrupt_message" name="print_interrupt_message">
+<area shape="rect" id="Node000001" title=" " alt="" coords="443,116,604,142"/>
+<area shape="rect" id="Node000002" href="$interrupts_8c.html#acacd5d3983faec5c7bd614e36d2f1dc5" title=" " alt="" coords="266,5,395,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,108,447,76,394,45,371,34,373,29,397,40,450,72,495,104"/>
+<area shape="rect" id="Node000003" href="$interrupts_8c.html#a2847cb2ec216e48b61743ad9196c6626" title=" " alt="" coords="285,79,376,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="438,115,376,103,377,98,439,110"/>
+<area shape="rect" id="Node000006" href="$interrupts_8c.html#ada3b91e28a1ab658a781c255cfcac9c1" title=" " alt="" coords="285,152,376,178"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="437,148,377,159,376,154,436,142"/>
+<area shape="rect" id="Node000007" href="$interrupts_8c.html#aaa3187357d149be00cc83fe1b8f5dc5b" title=" " alt="" coords="285,225,376,251"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="487,152,356,227,354,223,484,148"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="354,66,346,60,331,57,316,59,308,64,307,70,311,77,306,79,301,70,304,61,314,54,331,52,348,55,358,61"/>
+<area shape="rect" id="Node000004" href="$interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8" title="Sets up the IDT with needed interrupt for system functionality." alt="" coords="159,152,218,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="277,113,267,118,209,154,206,149,265,113,275,108"/>
+<area shape="rect" id="Node000005" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,152,111,178"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="143,168,111,168,111,162,143,162"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="269,168,218,168,218,162,269,162"/>
+<area shape="poly" id="edge8_Node000006_Node000006" title=" " alt="" coords="354,139,346,133,331,131,316,133,308,137,307,143,311,150,306,153,301,143,304,134,314,128,331,125,348,128,358,135"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="289,220,214,181,216,176,292,215"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="354,212,346,206,331,204,316,206,308,210,307,216,311,224,306,226,301,217,304,207,314,201,331,199,348,201,358,208"/>
+</map>

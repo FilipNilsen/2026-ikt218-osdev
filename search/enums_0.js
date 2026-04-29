@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['standard_5fvga_5ftext_5fcolor_0',['standard_vga_text_color',['../df/d8d/vga__text__mode__interface_8h.html#a3481f2c67317bdef529988a5c085b5e5',1,'vga_text_mode_interface.h']]]
+  ['idt_5ftypes_0',['idt_types',['../interrupts_8h.html#aaf375e1b6df2bedca3d90b74596acab5',1,'interrupts.h']]]
 ];

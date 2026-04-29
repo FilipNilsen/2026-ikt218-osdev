@@ -1,0 +1,8 @@
+<map id="get_memory_layout" name="get_memory_layout">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,139,56"/>
+<area shape="rect" id="Node000002" href="$heap_8c.html#ab0ebd728db3e1bad31d7332431361e20" title=" " alt="" coords="187,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,31,171,26,172,31,140,36"/>
+<area shape="rect" id="Node000003" href="$heap_8c.html#a0d1af6692e89507428bbca7ccf4508e7" title=" " alt="" coords="339,31,441,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="139,41,323,41,323,46,139,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,24,324,30,323,35,291,30"/>
+</map>

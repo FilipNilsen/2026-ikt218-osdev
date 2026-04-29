@@ -1,5 +1,0 @@
-<map id="VgaTextModeCursorSyncHardware" name="VgaTextModeCursorSyncHardware">
-<area shape="rect" id="Node000001" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="5,5,230,31"/>
-<area shape="rect" id="Node000002" href="$d4/d78/vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="278,5,324,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,16,263,16,263,21,230,21"/>
-</map>

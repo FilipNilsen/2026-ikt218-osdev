@@ -1,7 +1,0 @@
-<map id="multiboot_tag_vbe" name="multiboot_tag_vbe">
-<area shape="rect" id="Node000001" title=" " alt="" coords="148,135,387,303"/>
-<area shape="rect" id="Node000002" href="$d9/d69/structmultiboot__vbe__info__block.html" title=" " alt="" coords="5,5,255,72"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,70,195,119,191,123,153,73"/>
-<area shape="rect" id="Node000003" href="$d6/d6f/structmultiboot__vbe__mode__info__block.html" title=" " alt="" coords="280,5,530,72"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="383,73,344,123,340,119,378,70"/>
-</map>

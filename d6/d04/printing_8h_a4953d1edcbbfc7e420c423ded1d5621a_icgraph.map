@@ -1,5 +1,0 @@
-<map id="clear_screen" name="clear_screen">
-<area shape="rect" id="Node000001" title="Clears the VGA text screen using the default color." alt="" coords="167,5,262,31"/>
-<area shape="rect" id="Node000002" href="$d5/d2e/command_8c.html#ad3f4f170b9aafb1eaa79e88f67103a94" title="Clears the shell." alt="" coords="5,5,119,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,21,119,21,119,16,151,16"/>
-</map>

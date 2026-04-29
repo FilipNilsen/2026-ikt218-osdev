@@ -1,0 +1,3 @@
+<map id="idt_pointer" name="idt_pointer">
+<area shape="rect" id="Node000001" title="A pointer to the IDT that will be passed to the LIDT instruction." alt="" coords="5,5,110,92"/>
+</map>

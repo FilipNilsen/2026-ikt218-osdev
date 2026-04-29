@@ -1,0 +1,8 @@
+<map id="stop_sound" name="stop_sound">
+<area shape="rect" id="Node000001" title=" " alt="" coords="298,5,386,31"/>
+<area shape="rect" id="Node000002" href="$song__player_8c.html#a60861af456ac3c67927143bd172dbc45" title=" " alt="" coords="5,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,21,116,21,116,16,283,16"/>
+<area shape="rect" id="Node000003" href="$song__player_8c.html#a4f7e7d5c891653748fd0d0b32cb300dc" title="PIT channel 2 drives the PC speaker tone frequency." alt="" coords="164,31,250,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,32,251,38,250,33,282,27"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="148,36,116,30,117,25,149,31"/>
+</map>

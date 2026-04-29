@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['note_0',['Note',['../db/dfe/structNote.html',1,'']]]
+  ['note_0',['Note',['../structNote.html',1,'']]]
 ];

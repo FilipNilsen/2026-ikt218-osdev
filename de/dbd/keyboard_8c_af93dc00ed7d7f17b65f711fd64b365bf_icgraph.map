@@ -1,7 +1,0 @@
-<map id="translate_keycode_to_ascii" name="translate_keycode_to_ascii">
-<area shape="rect" id="Node000001" title="Translates one key event into an ASCII character." alt="" coords="411,5,589,31"/>
-<area shape="rect" id="Node000002" href="$de/dbd/keyboard_8c.html#a8173086cf4ab408b8a2fe7ebeda16e87" title="Processes one raw scancode from the keyboard controller." alt="" coords="182,5,363,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,21,364,21,364,16,395,16"/>
-<area shape="rect" id="Node000003" href="$d8/d22/interrupts_8c.html#abbd5f86bc3e3c52fad79391febcb28bc" title=" " alt="" coords="5,5,134,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,21,134,21,134,16,166,16"/>
-</map>

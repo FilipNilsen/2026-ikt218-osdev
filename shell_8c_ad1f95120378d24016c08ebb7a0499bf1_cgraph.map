@@ -1,0 +1,71 @@
+<map id="shell_handle_char" name="shell_handle_char">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,308,131,334"/>
+<area shape="rect" id="Node000002" href="$shell_8c.html#a5ae2421b8ab61612c521928c4b5de0f6" title=" " alt="" coords="198,105,328,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,306,237,140,241,144,84,309"/>
+<area shape="rect" id="Node000008" href="$shell_8c.html#ae53a7acb94668b48601900802986bb86" title=" " alt="" coords="455,508,573,534"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="90,332,216,409,303,455,396,494,440,507,439,512,394,499,301,460,213,413,88,336"/>
+<area shape="rect" id="Node000013" href="$shell_8c.html#a1dadf2da65cbd79e31c2307cf31aa495" title=" " alt="" coords="179,308,347,334"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="131,318,163,318,163,324,131,324"/>
+<area shape="rect" id="Node000003" href="$stdio_8h.html#aaed07ef5e23dd5193105592f06e5bef9" title=" " alt="" coords="749,156,795,182"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,120,634,148,734,161,733,166,633,153,327,125"/>
+<area shape="rect" id="Node000004" href="$shell_8c.html#add963027cdb151b015a08d32179c8475" title=" " alt="" coords="440,5,589,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="281,103,331,71,394,40,423,30,425,35,396,45,333,75,284,107"/>
+<area shape="rect" id="Node000005" href="$shell_8c.html#ae5dcb6504cc16b4c688e75a49a035f77" title=" " alt="" coords="693,5,851,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="589,16,677,16,677,21,589,21"/>
+<area shape="rect" id="Node000006" href="$include_2libc_2string_8h.html#a008e171a518fe0e0352f31b245e03875" title=" " alt="" coords="952,5,1005,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="851,16,936,16,936,21,851,21"/>
+<area shape="rect" id="Node000007" href="$user_8c.html#a9becccc1c11c8b560cc289c85fa77a25" title=" " alt="" coords="911,131,1046,156"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="839,29,864,40,917,77,958,117,954,121,913,82,861,44,837,34"/>
+<area shape="rect" id="Node000009" href="$shell_8c.html#a187e518d5a686a99f5a7bd18eaecb00e" title=" " alt="" coords="916,459,1041,484"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="573,510,681,496,900,475,900,480,682,501,574,515"/>
+<area shape="rect" id="Node000012" href="$vga__text__mode__interface_8c.html#aa54caf9a43b2057b73d7fd442fbaa3f6" title="Puts together two values from standard_vga_text_color into a single uint8_t." alt="" coords="735,309,809,335"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="573,518,604,511,632,495,646,478,653,460,655,423,657,384,665,365,680,346,698,333,719,325,721,330,700,338,683,349,669,367,663,385,661,423,658,461,651,480,635,499,606,516,574,523"/>
+<area shape="rect" id="Node000010" href="$vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="1094,311,1318,336"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1022,456,1045,445,1120,395,1178,345,1182,349,1123,399,1047,450,1024,460"/>
+<area shape="rect" id="Node000011" href="$vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="1366,311,1413,336"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1319,321,1351,321,1351,326,1319,326"/>
+<area shape="poly" id="edge21_Node000013_Node000003" title=" " alt="" coords="271,306,318,248,353,217,394,192,439,175,486,164,581,154,667,154,733,161,733,166,667,160,581,159,487,169,440,180,396,197,356,221,322,252,275,309"/>
+<area shape="poly" id="edge39_Node000013_Node000012" title=" " alt="" coords="322,332,395,344,514,351,633,344,719,331,720,336,634,349,514,356,395,349,321,337"/>
+<area shape="rect" id="Node000014" href="$string_8c.html#a6c1819f2460f96a82d3be06a279e9bfa" title="Adds a number to a string by using &#39;d&#39; as placeholder." alt="" coords="466,559,563,584"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="270,333,284,375,309,433,346,493,370,521,397,544,422,557,451,565,449,570,420,562,393,548,366,524,342,496,304,435,279,377,265,335"/>
+<area shape="rect" id="Node000020" href="$heap_8c.html#afbedc913aa4651b3c3b4b3aecd9b4711" title="Frees a block previously returned by malloc." alt="" coords="492,55,536,80"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="270,306,318,236,354,191,393,148,436,113,478,85,481,89,439,117,397,152,358,194,323,239,274,309"/>
+<area shape="rect" id="Node000022" href="$printing_8c.html#a6f34b320d469f8ea4009e4e1f02356af" title="Prints a string with specific VGA colors." alt="" coords="731,260,813,286"/>
+<area shape="poly" id="edge22_Node000013_Node000022" title=" " alt="" coords="324,305,395,293,570,277,716,271,716,277,571,283,395,298,325,310"/>
+<area shape="rect" id="Node000024" href="$command_8c.html#a7a9997820f8c324cee6561dd49b8dd71" title="Parses and runs a command." alt="" coords="462,409,566,435"/>
+<area shape="poly" id="edge26_Node000013_Node000024" title=" " alt="" coords="287,332,336,360,396,388,448,405,447,410,394,393,334,364,284,336"/>
+<area shape="rect" id="Node000028" href="$shell_8c.html#ab670747068e5e5c5eab6d736c3c38028" title=" " alt="" coords="448,207,581,232"/>
+<area shape="poly" id="edge30_Node000013_Node000028" title=" " alt="" coords="284,305,334,277,394,249,438,234,440,239,396,254,336,282,287,310"/>
+<area shape="rect" id="Node000029" href="$shell_8c.html#a8d972e33cce9ef6d1f935312df6b7d5f" title=" " alt="" coords="395,459,633,484"/>
+<area shape="poly" id="edge35_Node000013_Node000029" title=" " alt="" coords="276,332,323,388,357,419,396,445,408,451,406,455,394,450,354,423,319,392,272,336"/>
+<area shape="rect" id="Node000030" href="$shell_8c.html#af7429323ee7c94e69218f62db5ce47d1" title=" " alt="" coords="423,308,605,334"/>
+<area shape="poly" id="edge36_Node000013_Node000030" title=" " alt="" coords="348,318,408,318,408,324,348,324"/>
+<area shape="rect" id="Node000015" href="$string_8c.html#a26be53fd83753908febff7d06351de3a" title="Converts a 32&#45;bit signed integer to its decimal string representation." alt="" coords="734,511,810,536"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="563,560,719,531,720,536,564,565"/>
+<area shape="rect" id="Node000016" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="742,560,802,586"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="564,569,727,570,727,575,563,574"/>
+<area shape="rect" id="Node000019" href="$string_8c.html#a12bee89ccd121c793b3e81305a60c211" title="Finds the length of a string." alt="" coords="745,609,799,635"/>
+<area shape="poly" id="edge18_Node000014_Node000019" title=" " alt="" coords="564,578,730,611,729,617,563,584"/>
+<area shape="rect" id="Node000017" href="$heap_8c.html#a401aaf24b99f6928ef5b161a6ad97c38" title=" " alt="" coords="944,585,1013,611"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="802,574,929,589,928,595,802,579"/>
+<area shape="rect" id="Node000018" href="$heap_8c.html#a18e1cd07c4b070ddb71e7ee3044e55ab" title=" " alt="" coords="937,536,1020,562"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="802,567,921,553,921,558,802,572"/>
+<area shape="rect" id="Node000021" href="$heap_8c.html#a633593169d6bae2a826e29ac687b9326" title=" " alt="" coords="698,55,846,80"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="536,65,683,65,683,70,536,70"/>
+<area shape="poly" id="edge25_Node000022_Node000010" title=" " alt="" coords="813,279,911,296,1079,313,1078,318,910,301,812,284"/>
+<area shape="rect" id="Node000023" href="$printing_8c.html#a84aa5d70fb7071886a0c2fc4d5380535" title=" " alt="" coords="929,260,1028,286"/>
+<area shape="poly" id="edge23_Node000022_Node000023" title=" " alt="" coords="813,270,914,270,914,276,813,276"/>
+<area shape="poly" id="edge24_Node000023_Node000010" title=" " alt="" coords="1029,281,1131,304,1130,309,1027,286"/>
+<area shape="rect" id="Node000025" href="$command_8c.html#a5b83f2a7adb63823be746312c4851941" title="Dispatches command to the correct handler." alt="" coords="710,409,834,435"/>
+<area shape="poly" id="edge27_Node000024_Node000025" title=" " alt="" coords="566,420,695,420,695,425,566,425"/>
+<area shape="rect" id="Node000027" href="$command_8c.html#a293123cae1546d5162b72e81825401a5" title="Parses input into arguments (argument_count/argument_count style)." alt="" coords="681,360,863,386"/>
+<area shape="poly" id="edge29_Node000024_Node000027" title=" " alt="" coords="565,410,686,387,687,392,566,415"/>
+<area shape="rect" id="Node000026" href="$string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="948,409,1009,435"/>
+<area shape="poly" id="edge28_Node000025_Node000026" title=" " alt="" coords="834,420,933,420,933,425,834,425"/>
+<area shape="poly" id="edge31_Node000028_Node000003" title=" " alt="" coords="581,204,733,174,734,179,582,209"/>
+<area shape="poly" id="edge33_Node000028_Node000007" title=" " alt="" coords="581,219,712,214,788,206,862,192,902,178,939,161,941,166,904,183,863,197,789,211,713,220,581,224"/>
+<area shape="poly" id="edge34_Node000028_Node000012" title=" " alt="" coords="541,231,604,262,682,296,721,308,719,313,680,301,602,267,539,235"/>
+<area shape="poly" id="edge32_Node000028_Node000022" title=" " alt="" coords="580,230,717,259,716,264,579,236"/>
+<area shape="poly" id="edge38_Node000030_Node000012" title=" " alt="" coords="606,319,720,319,720,325,606,324"/>
+<area shape="poly" id="edge37_Node000030_Node000022" title=" " alt="" coords="587,305,715,281,716,286,588,310"/>
+</map>

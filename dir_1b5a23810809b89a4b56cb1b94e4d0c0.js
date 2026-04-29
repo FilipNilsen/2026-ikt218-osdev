@@ -15,5 +15,5 @@ var dir_1b5a23810809b89a4b56cb1b94e4d0c0 =
     [ "string", "dir_b339b9b223aa5908a4e3eb71e2abfbd5.html", "dir_b339b9b223aa5908a4e3eb71e2abfbd5" ],
     [ "user", "dir_122ce6907009cf57e9b4080dcb16da5c.html", "dir_122ce6907009cf57e9b4080dcb16da5c" ],
     [ "vga_text_mode_interface", "dir_0582ab86ef944f07f614e38374f8d972.html", "dir_0582ab86ef944f07f614e38374f8d972" ],
-    [ "kernel.c", "d9/d26/kernel_8c.html", "d9/d26/kernel_8c" ]
+    [ "kernel.c", "kernel_8c.html", "kernel_8c" ]
 ];

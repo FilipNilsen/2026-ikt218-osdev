@@ -1,0 +1,10 @@
+<map id="pmalloc" name="pmalloc">
+<area shape="rect" id="Node000001" title="Allocates memory and returns a page&#45;aligned pointer." alt="" coords="5,29,72,55"/>
+<area shape="rect" id="Node000002" href="$heap_8c.html#a401aaf24b99f6928ef5b161a6ad97c38" title=" " alt="" coords="234,5,303,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,36,218,21,219,26,72,41"/>
+<area shape="rect" id="Node000003" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="120,55,179,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="73,47,105,55,104,60,72,52"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="178,53,221,35,223,40,181,58"/>
+<area shape="rect" id="Node000004" href="$heap_8c.html#a18e1cd07c4b070ddb71e7ee3044e55ab" title=" " alt="" coords="227,55,310,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="180,65,211,65,211,70,180,70"/>
+</map>

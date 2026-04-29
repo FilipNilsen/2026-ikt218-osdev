@@ -1,9 +1,0 @@
-<map id="run_command" name="run_command">
-<area shape="rect" id="Node000001" title="Parses and runs a command." alt="" coords="5,31,109,56"/>
-<area shape="rect" id="Node000002" href="$d5/d2e/command_8c.html#a5b83f2a7adb63823be746312c4851941" title="Dispatches command to the correct handler." alt="" coords="186,5,309,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,34,170,26,171,31,109,39"/>
-<area shape="rect" id="Node000004" href="$d5/d2e/command_8c.html#a293123cae1546d5162b72e81825401a5" title="Parses input into arguments (argument_count/argument_count style)" alt="" coords="157,55,338,80"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,47,141,51,141,57,109,53"/>
-<area shape="rect" id="Node000003" href="$d1/db0/string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="386,5,447,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,16,370,16,370,21,309,21"/>
-</map>

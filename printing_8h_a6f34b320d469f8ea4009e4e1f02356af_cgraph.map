@@ -1,0 +1,10 @@
+<map id="print_color" name="print_color">
+<area shape="rect" id="Node000001" title="Prints a char array (string) to &quot;screen&quot; by writing it to VGA buffer." alt="" coords="5,31,87,56"/>
+<area shape="rect" id="Node000002" href="$printing_8c.html#a84aa5d70fb7071886a0c2fc4d5380535" title=" " alt="" coords="135,5,233,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,33,119,27,120,33,88,39"/>
+<area shape="rect" id="Node000003" href="$vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="281,31,505,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="87,41,266,41,266,46,87,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,21,267,26,267,31,233,27"/>
+<area shape="rect" id="Node000004" href="$vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="553,31,600,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="506,41,538,41,538,46,506,46"/>
+</map>

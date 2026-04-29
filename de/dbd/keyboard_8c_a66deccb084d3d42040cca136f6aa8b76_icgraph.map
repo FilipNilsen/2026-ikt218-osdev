@@ -1,9 +1,0 @@
-<map id="new_keycode" name="new_keycode">
-<area shape="rect" id="Node000001" title="Creates a keycode struct describing one key press or release event." alt="" coords="591,5,692,31"/>
-<area shape="rect" id="Node000002" href="$de/dbd/keyboard_8c.html#a3577fb410a56f4acd48d76dbd00ecf9b" title="Converts one buffered scancode into a keycode event." alt="" coords="411,5,543,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="576,21,544,21,544,16,576,16"/>
-<area shape="rect" id="Node000003" href="$de/dbd/keyboard_8c.html#a8173086cf4ab408b8a2fe7ebeda16e87" title="Processes one raw scancode from the keyboard controller." alt="" coords="182,5,363,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,21,363,21,363,16,396,16"/>
-<area shape="rect" id="Node000004" href="$d8/d22/interrupts_8c.html#abbd5f86bc3e3c52fad79391febcb28bc" title=" " alt="" coords="5,5,134,31"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="166,21,134,21,134,16,166,16"/>
-</map>

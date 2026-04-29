@@ -1,0 +1,9 @@
+<map id="irq5_handler" name="irq5_handler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="375,31,466,56"/>
+<area shape="rect" id="Node000002" href="$interrupts_8c.html#a484a4aed284b252f1ae5c287b7d746d9" title=" " alt="" coords="159,5,327,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,37,327,33,328,28,360,32"/>
+<area shape="rect" id="Node000003" href="$interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8" title="Sets up the IDT with needed interrupt for system functionality." alt="" coords="213,55,272,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="360,54,273,66,272,61,359,49"/>
+<area shape="rect" id="Node000004" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,55,111,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="197,70,111,70,111,65,197,65"/>
+</map>

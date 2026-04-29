@@ -1,0 +1,9 @@
+<map id="gdt_init" name="gdt_init">
+<area shape="rect" id="Node000001" title="Initializes and loads the kernel GDT." alt="" coords="5,67,69,92"/>
+<area shape="rect" id="Node000002" href="$gdt_8c.html#a7116707ed8dbba893e023a2ae0b19eb4" title="Creates a single GDT entry from base, limit, access byte, and flags." alt="" coords="122,29,240,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,69,113,57,115,62,70,74"/>
+<area shape="rect" id="Node000003" href="$gdt_8c.html#a4e53f01f37e075985898a4b5b31359cd" title="Creates the pointer structure required by lgdt." alt="" coords="117,103,245,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="70,85,113,96,111,101,69,90"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="156,30,151,21,154,11,164,5,181,3,199,5,208,12,205,16,197,10,181,8,166,10,158,14,157,20,161,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="156,103,151,94,154,85,164,78,181,76,199,79,208,85,205,90,197,84,181,81,166,83,158,88,157,94,161,101"/>
+</map>

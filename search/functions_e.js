@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['name_5fcompare_0',['name_compare',['../d7/dee/tinyfs_8c.html#a918290a70cd7b968eeb46f7e01db5b01',1,'tinyfs.c']]],
-  ['name_5fcopy_1',['name_copy',['../d7/dee/tinyfs_8c.html#a36a188a21b7ed2a2629f9d2d5ae8b368',1,'tinyfs.c']]],
-  ['name_5fis_5fvalid_2',['name_is_valid',['../d7/dee/tinyfs_8c.html#afbe06fbdca99660cc5f5233aa3316343',1,'tinyfs.c']]],
-  ['new_5fkeycode_3',['new_keycode',['../de/dbd/keyboard_8c.html#a66deccb084d3d42040cca136f6aa8b76',1,'new_keycode(uint16_t keycode, bool release):&#160;keyboard.c'],['../d6/da0/keyboard_8h.html#a66deccb084d3d42040cca136f6aa8b76',1,'new_keycode(uint16_t keycode, bool release):&#160;keyboard.c']]],
-  ['newvgatextmodeinterface_4',['NewVgaTextModeInterface',['../d4/d78/vga__text__mode__interface_8c.html#a2e4babef387e929889fa8c807d250896',1,'NewVgaTextModeInterface():&#160;vga_text_mode_interface.c'],['../df/d8d/vga__text__mode__interface_8h.html#a2e4babef387e929889fa8c807d250896',1,'NewVgaTextModeInterface():&#160;vga_text_mode_interface.c']]]
+  ['outb_0',['outb',['../ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5',1,'outb(uint16_t port, uint8_t value):&#160;ata.c'],['../interrupts_8c.html#aa37f5841c54156a4b14fc0d6f626b44f',1,'outb(uint16_t port, uint8_t val):&#160;interrupts.c'],['../vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5',1,'outb(uint16_t port, uint8_t value):&#160;vga_text_mode_interface.c']]],
+  ['outw_1',['outw',['../ata_8c.html#ad081f4511cc64f96fdf52abaccf344c1',1,'ata.c']]]
 ];

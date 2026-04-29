@@ -1,7 +1,0 @@
-<map id="multiboot_tag_framebuffer" name="multiboot_tag_framebuffer">
-<area shape="rect" id="Node000001" title=" " alt="" coords="77,297,395,506"/>
-<area shape="rect" id="Node000002" href="$d8/db8/structmultiboot__tag__framebuffer__common.html" title=" " alt="" coords="5,5,245,234"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,233,191,280,186,282,168,235"/>
-<area shape="rect" id="Node000003" href="$d7/d2b/structmultiboot__color.html" title=" " alt="" coords="269,66,427,173"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="330,174,286,283,281,281,325,172"/>
-</map>

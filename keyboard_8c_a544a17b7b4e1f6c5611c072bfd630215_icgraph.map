@@ -1,0 +1,14 @@
+<map id="pop_keycode_buffer" name="pop_keycode_buffer">
+<area shape="rect" id="Node000001" title="Pops the oldest key event from the keycode buffer." alt="" coords="896,29,1032,55"/>
+<area shape="rect" id="Node000002" href="$keyboard_8c.html#a8173086cf4ab408b8a2fe7ebeda16e87" title="Processes one raw scancode from the keyboard controller." alt="" coords="667,29,848,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="880,45,849,45,849,40,880,40"/>
+<area shape="rect" id="Node000003" href="$interrupts_8c.html#abbd5f86bc3e3c52fad79391febcb28bc" title="Called by keyboard_interrupt_handler." alt="" coords="490,29,619,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="651,45,619,45,619,40,651,40"/>
+<area shape="rect" id="Node000004" href="$interrupts_8c.html#aaa875dce2b321ea15bd0397a1339999b" title=" " alt="" coords="266,29,442,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,45,443,45,443,40,475,40"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="382,16,373,10,354,8,337,10,328,15,326,20,331,28,326,30,321,21,324,11,335,5,354,3,374,5,385,12"/>
+<area shape="rect" id="Node000005" href="$interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8" title="Sets up the IDT with needed interrupt for system functionality." alt="" coords="159,29,218,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,45,219,45,219,40,250,40"/>
+<area shape="rect" id="Node000006" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,29,111,55"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="143,45,111,45,111,40,143,40"/>
+</map>

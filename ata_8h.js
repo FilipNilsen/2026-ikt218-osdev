@@ -1,0 +1,26 @@
+var ata_8h =
+[
+    [ "ATA_CMD_CACHE_FLUSH", "ata_8h.html#a23e8deb17b95336898b52cc76d5206af", null ],
+    [ "ATA_CMD_READ_SECTORS", "ata_8h.html#a758719f1c34c94f00f41e5cda9b26564", null ],
+    [ "ATA_CMD_WRITE_SECTORS", "ata_8h.html#adaff7df07f33408f7803a0a328e548e4", null ],
+    [ "ATA_PRIMARY_CONTROL_BASE", "ata_8h.html#a406777cc5319e74d8f5475611346ebb6", null ],
+    [ "ATA_PRIMARY_IO_BASE", "ata_8h.html#a49768cc2b93ec667f9dc42efc1abd316", null ],
+    [ "ATA_REG_DATA", "ata_8h.html#a359c566cefff5e671eb3bae72e0d0948", null ],
+    [ "ATA_REG_DRIVE_SELECT", "ata_8h.html#a56cba43e8b38d82d8d22ff72b2261f64", null ],
+    [ "ATA_REG_LBA_HIGH", "ata_8h.html#a17d1ed69d051e135d18a90909dde24be", null ],
+    [ "ATA_REG_LBA_LOW", "ata_8h.html#aa3f0ce6dafb24de44508cfed0b741460", null ],
+    [ "ATA_REG_LBA_MID", "ata_8h.html#a817cead8e2793820f2b1073123b3244e", null ],
+    [ "ATA_REG_SECTOR_COUNT", "ata_8h.html#af730d0d52331ceac121daaec05e65fbb", null ],
+    [ "ATA_REG_STATUS_COMMAND", "ata_8h.html#a16ae4e3a730557a078db05f229827f36", null ],
+    [ "ATA_SECTOR_SIZE", "ata_8h.html#a75bda0cb89f298ba8f24a8a0214adf22", null ],
+    [ "ATA_STATUS_BSY", "ata_8h.html#ac47487c443858fe05ddcbede4ec91c9e", null ],
+    [ "ATA_STATUS_DF", "ata_8h.html#afe6d7d46470ea58f23426642659504f1", null ],
+    [ "ATA_STATUS_DRQ", "ata_8h.html#acee064a185d03414a401dee09ec6de5d", null ],
+    [ "ATA_STATUS_ERR", "ata_8h.html#affbfc9aaaceefe69d7c2283a030ed2e5", null ],
+    [ "ata_delay_400ns", "ata_8h.html#a515c6e4b51908e37fe4bff1a79412635", null ],
+    [ "ata_poll", "ata_8h.html#a3ee6591c28dcff698587364d70cef51f", null ],
+    [ "ata_program_lba", "ata_8h.html#a3cdce3e56f7424649e6c18e60f634506", null ],
+    [ "ata_read_sector", "ata_8h.html#a28bf1254e2ffcfdfa5a3ab230e918d71", null ],
+    [ "ata_select_drive", "ata_8h.html#abb68d74a0b5e6814b7b86f7d176e98c6", null ],
+    [ "ata_write_sector", "ata_8h.html#a9269a9d234a698467e3a1a12c6cb5527", null ]
+];

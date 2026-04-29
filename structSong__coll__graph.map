@@ -1,0 +1,5 @@
+<map id="Song" name="Song">
+<area shape="rect" id="Node000001" title="Define a struct to represent a song." alt="" coords="16,163,124,229"/>
+<area shape="rect" id="Node000002" href="$structNote.html" title="Define a struct to represent a single musical note." alt="" coords="5,5,134,92"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,92,72,146,67,146,67,92"/>
+</map>

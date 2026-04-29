@@ -1,0 +1,27 @@
+var command_8c =
+[
+    [ "check_argument_count", "command_8c.html#a23af1e2506f2059ed9beccc0c7b06e12", null ],
+    [ "command_cat", "command_8c.html#a48bd81771f1d749da03d8d4594541a2e", null ],
+    [ "command_clear", "command_8c.html#ad3f4f170b9aafb1eaa79e88f67103a94", null ],
+    [ "command_disktest", "command_8c.html#a476f1dbae03962cd0dadc2ec41bddf17", null ],
+    [ "command_echo", "command_8c.html#ac1a1d2f441522d4dcc6115f9d6284cac", null ],
+    [ "command_format", "command_8c.html#a13ed2d8b61f516d5c211b05685a310c2", null ],
+    [ "command_heapinfo", "command_8c.html#af2fe2eafdf47889f4dd3fdda65a6f558", null ],
+    [ "command_help", "command_8c.html#a914fc042948ecb40e1d8e29e033f50d4", null ],
+    [ "command_ls", "command_8c.html#a0d2b819a56eb5e1d230f2b3319911612", null ],
+    [ "command_playsong", "command_8c.html#afe7791ec19d420e0465fbc533ebb382e", null ],
+    [ "command_set_username", "command_8c.html#a27bd41460dd4f32c95c9066c180606cc", null ],
+    [ "command_write_file", "command_8c.html#adbcf4ce21e295dea9b7805e697adec68", null ],
+    [ "display_command_info", "command_8c.html#a3e70cc34fa40e3a78091a723b195ea77", null ],
+    [ "display_help_header", "command_8c.html#ae813413ada6ec1c7212637a3f6f16ac6", null ],
+    [ "display_song_help", "command_8c.html#a3c36856f25ef0ec4115e0a3cd9922576", null ],
+    [ "get_command_colors", "command_8c.html#a45ccf9a5c4d9b4b3a8eb8a46436c5392", null ],
+    [ "handle_command", "command_8c.html#a5b83f2a7adb63823be746312c4851941", null ],
+    [ "join_arguments", "command_8c.html#ab75f27674de8fd501f9e1e52ecbf5a75", null ],
+    [ "parse_command_aguments", "command_8c.html#a293123cae1546d5162b72e81825401a5", null ],
+    [ "run_command", "command_8c.html#a7a9997820f8c324cee6561dd49b8dd71", null ],
+    [ "command_count", "command_8c.html#ae355d17863013da46bf20600ce23fd2f", null ],
+    [ "commands", "command_8c.html#a38b3c25ddd58335401386043634f2ac4", null ],
+    [ "song_count", "command_8c.html#af07e12ff1d1fad5928e88c492ccb9e1a", null ],
+    [ "song_names", "command_8c.html#af1c33156cd8ba787230ab9f86ffeb150", null ]
+];
