@@ -3,7 +3,7 @@
 <area shape="poly" id="edge17_Node000001_Node000001" title=" " alt="" coords="60,130,53,121,57,111,71,105,94,103,118,105,131,112,128,117,117,110,93,108,72,110,61,115,59,120,64,127"/>
 <area shape="rect" id="Node000002" href="$interrupts_8c.html#abbd5f86bc3e3c52fad79391febcb28bc" title="Called by keyboard_interrupt_handler." alt="" coords="230,129,358,155"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,140,214,140,214,145,182,145"/>
-<area shape="rect" id="Node000003" href="$interrupts_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="477,80,516,106"/>
+<area shape="rect" id="Node000003" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="477,80,516,106"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,126,461,98,463,104,351,131"/>
 <area shape="rect" id="Node000004" href="$keyboard_8c.html#a8173086cf4ab408b8a2fe7ebeda16e87" title="Processes one raw scancode from the keyboard controller." alt="" coords="406,129,587,155"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="359,140,390,140,390,145,359,145"/>
@@ -31,6 +31,6 @@
 <area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="783,226,875,248,874,254,782,232"/>
 <area shape="rect" id="Node000015" href="$keyboard_8c.html#a46c6af932bdd089bf2b9ec2a7040e503" title="Converts one lowercase ASCII letter to uppercase." alt="" coords="893,301,974,327"/>
 <area shape="poly" id="edge14_Node000012_Node000015" title=" " alt="" coords="792,226,815,237,831,250,840,263,849,276,863,288,880,297,878,301,860,292,845,279,836,266,827,254,812,242,790,231"/>
-<area shape="rect" id="Node000017" href="$interrupts_8c.html#aa37f5841c54156a4b14fc0d6f626b44f" title=" " alt="" coords="701,252,748,278"/>
+<area shape="rect" id="Node000017" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="701,252,748,278"/>
 <area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="534,221,687,254,686,259,533,226"/>
 </map>

@@ -49,7 +49,7 @@
 <script type="application/ecmascript">
 var viewWidth = 715;
 var viewHeight = 83;
-var sectionId = 'dynsection-38';
+var sectionId = 'dynsection-37';
 </script>
 <script type="application/ecmascript" xlink:href="svg.min.js"/>
 <svg id="graph" class="graph">
@@ -175,7 +175,7 @@ var sectionId = 'dynsection-38';
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title=" ">
+<g id="a_Node000006"><a xlink:href="io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title="Output byte to io port.">
 <polygon fill="white" stroke="#666666" points="706.5,-56.25 671.75,-56.25 671.75,-37 706.5,-37 706.5,-56.25"/>
 <text text-anchor="middle" x="689.12" y="-42.75" font-family="Helvetica,sans-Serif" font-size="10.00">outb</text>
 </a>

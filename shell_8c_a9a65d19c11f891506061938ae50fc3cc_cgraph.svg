@@ -202,7 +202,7 @@ var sectionId = 'dynsection-12';
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title=" ">
+<g id="a_Node000007"><a xlink:href="io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title="Output byte to io port.">
 <polygon fill="white" stroke="#666666" points="712.5,-93.25 677.75,-93.25 677.75,-74 712.5,-74 712.5,-93.25"/>
 <text text-anchor="middle" x="695.12" y="-79.75" font-family="Helvetica,sans-Serif" font-size="10.00">outb</text>
 </a>

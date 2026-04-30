@@ -1,7 +1,7 @@
 <map id="disable_speaker" name="disable_speaker">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,31,121,56"/>
-<area shape="rect" id="Node000002" href="$song__player_8c.html#af2a511d0022df49de8004b1f11017e33" title="Small local helpers for port I/O used by the PC speaker." alt="" coords="173,5,264,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,31,157,25,157,31,122,37"/>
-<area shape="rect" id="Node000003" href="$song__player_8c.html#a8a78719279438542b03cd510491df3e4" title=" " alt="" coords="169,55,268,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,50,153,55,153,60,121,55"/>
+<area shape="rect" id="Node000002" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="173,5,211,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,29,157,22,158,27,122,35"/>
+<area shape="rect" id="Node000003" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="169,55,215,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,52,154,58,153,63,121,57"/>
 </map>

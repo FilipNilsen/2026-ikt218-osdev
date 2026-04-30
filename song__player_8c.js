@@ -9,7 +9,5 @@ var song__player_8c =
     [ "play_song_by_index", "song__player_8c.html#a7359cad33e85278480ede1cbd20a6493", null ],
     [ "play_song_impl", "song__player_8c.html#a60861af456ac3c67927143bd172dbc45", null ],
     [ "play_sound", "song__player_8c.html#a4f7e7d5c891653748fd0d0b32cb300dc", null ],
-    [ "speaker_inb", "song__player_8c.html#af2a511d0022df49de8004b1f11017e33", null ],
-    [ "speaker_outb", "song__player_8c.html#a8a78719279438542b03cd510491df3e4", null ],
     [ "stop_sound", "song__player_8c.html#a7af29ef84e346502d53907ea1057d2c4", null ]
 ];

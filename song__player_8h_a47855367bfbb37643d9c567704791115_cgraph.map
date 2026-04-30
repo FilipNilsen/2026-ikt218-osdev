@@ -1,7 +1,7 @@
 <map id="enable_speaker" name="enable_speaker">
 <area shape="rect" id="Node000001" title="Bits 0 and 1 on port 0x61 must be enabled for audible output." alt="" coords="5,31,118,56"/>
-<area shape="rect" id="Node000002" href="$song__player_8c.html#af2a511d0022df49de8004b1f11017e33" title="Small local helpers for port I/O used by the PC speaker." alt="" coords="170,5,261,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,32,154,25,155,31,119,37"/>
-<area shape="rect" id="Node000003" href="$song__player_8c.html#a8a78719279438542b03cd510491df3e4" title=" " alt="" coords="166,55,265,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,50,150,55,150,60,118,55"/>
+<area shape="rect" id="Node000002" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="170,5,208,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,30,154,22,155,27,119,35"/>
+<area shape="rect" id="Node000003" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="166,55,212,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,52,151,58,150,63,118,57"/>
 </map>

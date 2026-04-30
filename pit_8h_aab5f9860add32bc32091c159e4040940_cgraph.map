@@ -1,6 +1,6 @@
 <map id="pit_irq_handler" name="pit_irq_handler">
 <area shape="rect" id="Node000001" title="IRQ for the PIT, increments pit_ticks." alt="" coords="5,29,111,55"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="35,30,30,21,33,11,42,5,58,3,75,5,83,12,80,16,73,10,58,8,44,10,37,14,36,20,39,28"/>
-<area shape="rect" id="Node000002" href="$pit_8c.html#abba8e650b57cca3467d090f4343ed242" title=" " alt="" coords="159,29,226,55"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="111,40,143,40,143,45,111,45"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="36,30,32,21,35,11,44,5,58,3,74,5,82,12,78,16,71,10,58,8,46,10,39,14,38,20,41,28"/>
+<area shape="rect" id="Node000002" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="159,29,205,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,40,143,40,143,45,111,45"/>
 </map>

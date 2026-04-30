@@ -35,7 +35,7 @@
 <area shape="rect" id="Node000013" href="$vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="884,304,1108,330"/>
 <area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="640,314,868,314,868,320,640,320"/>
 <area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="836,334,869,329,870,335,837,339"/>
-<area shape="rect" id="Node000014" href="$vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="1156,304,1202,330"/>
+<area shape="rect" id="Node000014" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="1156,304,1202,330"/>
 <area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1108,314,1141,314,1141,320,1108,320"/>
 <area shape="rect" id="Node000016" href="$command_8c.html#a5b83f2a7adb63823be746312c4851941" title="Dispatches command to the correct handler." alt="" coords="537,432,660,458"/>
 <area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="392,461,522,449,522,455,393,467"/>

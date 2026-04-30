@@ -2,8 +2,8 @@
 <area shape="rect" id="Node000001" title="Select drive and/or head." alt="" coords="5,31,122,56"/>
 <area shape="rect" id="Node000002" href="$ata_8c.html#a515c6e4b51908e37fe4bff1a79412635" title="Just runs inb() against ATA disk 4 times." alt="" coords="170,5,288,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,32,154,27,155,32,123,37"/>
-<area shape="rect" id="Node000004" href="$ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="206,55,252,80"/>
+<area shape="rect" id="Node000004" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="206,55,252,80"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,49,191,59,190,65,122,55"/>
-<area shape="rect" id="Node000003" href="$ata_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="336,5,374,31"/>
+<area shape="rect" id="Node000003" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="336,5,374,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,16,320,16,320,21,288,21"/>
 </map>

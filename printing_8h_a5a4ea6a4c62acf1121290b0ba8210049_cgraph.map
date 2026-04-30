@@ -9,6 +9,6 @@
 <area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="443,51,520,40,580,31,581,36,520,45,444,57"/>
 <area shape="rect" id="Node000004" href="$vga__text__mode__interface_8c.html#aac1bfcc86775cd04dda468ba83f3f5ff" title="See VgaTextModeInterface.Print()." alt="" coords="611,55,790,80"/>
 <area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="450,65,596,65,596,70,450,70"/>
-<area shape="rect" id="Node000006" href="$vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="678,104,724,130"/>
+<area shape="rect" id="Node000006" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="678,104,724,130"/>
 <area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="472,114,662,114,662,120,472,120"/>
 </map>

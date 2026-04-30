@@ -425,7 +425,7 @@
 <!-- Node17 -->
 <g id="Node000017" class="node">
 <title>Node17</title>
-<g id="a_Node000017"><a xlink:href="ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title=" ">
+<g id="a_Node000017"><a xlink:href="io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title="Output byte to io port.">
 <polygon fill="white" stroke="#666666" points="836.5,-168.25 801.75,-168.25 801.75,-149 836.5,-149 836.5,-168.25"/>
 <text text-anchor="middle" x="819.12" y="-154.75" font-family="Helvetica,sans-Serif" font-size="10.00">outb</text>
 </a>
@@ -443,7 +443,7 @@
 <!-- Node18 -->
 <g id="Node000018" class="node">
 <title>Node18</title>
-<g id="a_Node000018"><a xlink:href="ata_8c.html#ad081f4511cc64f96fdf52abaccf344c1" target="_top" xlink:title=" ">
+<g id="a_Node000018"><a xlink:href="io_8h.html#ad081f4511cc64f96fdf52abaccf344c1" target="_top" xlink:title="Output word to io port.">
 <polygon fill="white" stroke="#666666" points="590,-263.25 553,-263.25 553,-244 590,-244 590,-263.25"/>
 <text text-anchor="middle" x="571.5" y="-249.75" font-family="Helvetica,sans-Serif" font-size="10.00">outw</text>
 </a>
@@ -479,7 +479,7 @@
 <!-- Node14 -->
 <g id="Node000014" class="node">
 <title>Node14</title>
-<g id="a_Node000014"><a xlink:href="ata_8c.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title=" ">
+<g id="a_Node000014"><a xlink:href="io_8h.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title="Read byte from io port.">
 <polygon fill="white" stroke="#666666" points="928.3,-92.25 899.5,-92.25 899.5,-73 928.3,-73 928.3,-92.25"/>
 <text text-anchor="middle" x="913.9" y="-78.75" font-family="Helvetica,sans-Serif" font-size="10.00">inb</text>
 </a>
@@ -614,7 +614,7 @@
 <!-- Node25 -->
 <g id="Node000025" class="node">
 <title>Node25</title>
-<g id="a_Node000025"><a xlink:href="ata_8c.html#ab2f39bde7b2e87793f55352c72d07ebe" target="_top" xlink:title=" ">
+<g id="a_Node000025"><a xlink:href="io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe" target="_top" xlink:title="Read word from io port.">
 <polygon fill="white" stroke="#666666" points="587,-35.25 556,-35.25 556,-16 587,-16 587,-35.25"/>
 <text text-anchor="middle" x="571.5" y="-21.75" font-family="Helvetica,sans-Serif" font-size="10.00">inw</text>
 </a>

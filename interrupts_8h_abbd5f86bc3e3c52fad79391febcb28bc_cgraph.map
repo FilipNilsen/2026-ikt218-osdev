@@ -1,6 +1,6 @@
 <map id="keyboard_callback" name="keyboard_callback">
 <area shape="rect" id="Node000001" title="Called by keyboard_interrupt_handler." alt="" coords="5,129,134,155"/>
-<area shape="rect" id="Node000002" href="$interrupts_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="253,80,292,106"/>
+<area shape="rect" id="Node000002" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="253,80,292,106"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,126,237,98,238,104,126,131"/>
 <area shape="rect" id="Node000003" href="$keyboard_8c.html#a8173086cf4ab408b8a2fe7ebeda16e87" title="Processes one raw scancode from the keyboard controller." alt="" coords="182,129,363,155"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,140,166,140,166,145,134,145"/>
@@ -28,6 +28,6 @@
 <area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="559,226,651,248,649,254,557,232"/>
 <area shape="rect" id="Node000014" href="$keyboard_8c.html#a46c6af932bdd089bf2b9ec2a7040e503" title="Converts one lowercase ASCII letter to uppercase." alt="" coords="669,301,750,327"/>
 <area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="568,226,591,237,606,250,616,263,625,276,639,288,656,297,653,301,636,292,621,279,611,266,602,254,588,242,565,231"/>
-<area shape="rect" id="Node000016" href="$interrupts_8c.html#aa37f5841c54156a4b14fc0d6f626b44f" title=" " alt="" coords="477,252,523,278"/>
+<area shape="rect" id="Node000016" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="477,252,523,278"/>
 <area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="310,221,463,254,462,259,309,226"/>
 </map>

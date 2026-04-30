@@ -319,7 +319,7 @@ var sectionId = 'dynsection-11';
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title="Output byte to io port.">
 <polygon fill="white" stroke="#666666" points="685.5,-363.25 650.75,-363.25 650.75,-344 685.5,-344 685.5,-363.25"/>
 <text text-anchor="middle" x="668.12" y="-349.75" font-family="Helvetica,sans-Serif" font-size="10.00">outb</text>
 </a>
@@ -337,7 +337,7 @@ var sectionId = 'dynsection-11';
 <!-- Node9 -->
 <g id="Node000009" class="node">
 <title>Node9</title>
-<g id="a_Node000009"><a xlink:href="ata_8c.html#ad081f4511cc64f96fdf52abaccf344c1" target="_top" xlink:title=" ">
+<g id="a_Node000009"><a xlink:href="io_8h.html#ad081f4511cc64f96fdf52abaccf344c1" target="_top" xlink:title="Output word to io port.">
 <polygon fill="white" stroke="#666666" points="439,-458.25 402,-458.25 402,-439 439,-439 439,-458.25"/>
 <text text-anchor="middle" x="420.5" y="-444.75" font-family="Helvetica,sans-Serif" font-size="10.00">outw</text>
 </a>
@@ -373,7 +373,7 @@ var sectionId = 'dynsection-11';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="ata_8c.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="io_8h.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title="Read byte from io port.">
 <polygon fill="white" stroke="#666666" points="777.3,-287.25 748.5,-287.25 748.5,-268 777.3,-268 777.3,-287.25"/>
 <text text-anchor="middle" x="762.9" y="-273.75" font-family="Helvetica,sans-Serif" font-size="10.00">inb</text>
 </a>
@@ -508,7 +508,7 @@ var sectionId = 'dynsection-11';
 <!-- Node16 -->
 <g id="Node000016" class="node">
 <title>Node16</title>
-<g id="a_Node000016"><a xlink:href="ata_8c.html#ab2f39bde7b2e87793f55352c72d07ebe" target="_top" xlink:title=" ">
+<g id="a_Node000016"><a xlink:href="io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe" target="_top" xlink:title="Read word from io port.">
 <polygon fill="white" stroke="#666666" points="436,-230.25 405,-230.25 405,-211 436,-211 436,-230.25"/>
 <text text-anchor="middle" x="420.5" y="-216.75" font-family="Helvetica,sans-Serif" font-size="10.00">inw</text>
 </a>

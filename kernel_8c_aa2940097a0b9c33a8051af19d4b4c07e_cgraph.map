@@ -14,32 +14,32 @@
 <area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="60,1192,70,1156,89,1108,118,1056,136,1032,157,1011,182,995,210,985,212,990,185,1000,160,1015,140,1035,122,1059,94,1110,75,1158,65,1193"/>
 <area shape="rect" id="Node000039" href="$vga__text__mode__interface_8c.html#aa54caf9a43b2057b73d7fd442fbaa3f6" title="Puts together two values from standard_vga_text_color into a single uint8_t." alt="" coords="639,1397,714,1423"/>
 <area shape="poly" id="edge60_Node000001_Node000039" title=" " alt="" coords="61,1192,72,1162,92,1123,120,1085,137,1068,157,1055,211,1029,260,1017,284,1018,308,1024,331,1036,355,1055,371,1076,381,1103,388,1136,390,1174,388,1259,380,1351,372,1443,369,1528,372,1565,378,1597,388,1623,403,1643,424,1660,445,1671,465,1677,486,1678,507,1675,529,1668,576,1643,599,1623,619,1599,635,1571,647,1543,663,1485,670,1438,676,1439,668,1486,652,1544,639,1574,623,1602,603,1626,579,1647,531,1673,509,1681,486,1684,464,1682,443,1676,421,1664,399,1647,383,1626,373,1598,366,1566,364,1528,366,1443,374,1351,382,1258,385,1174,382,1137,376,1105,366,1078,351,1059,328,1041,306,1029,283,1023,261,1022,213,1034,160,1059,141,1072,124,1088,96,1126,77,1164,66,1194"/>
-<area shape="rect" id="Node000064" href="$heap_8c.html#a0b8c32cfeebf801eb3aa7c54fc614d3c" title="Initializes the kernel heap at the first aligned address after kernel_end." alt="" coords="189,1069,322,1095"/>
-<area shape="poly" id="edge47_Node000001_Node000064" title=" " alt="" coords="67,1191,103,1148,128,1124,157,1104,174,1096,176,1101,160,1108,132,1128,107,1152,71,1195"/>
-<area shape="rect" id="Node000065" href="$keyboard_8c.html#a9e4d501adc191769969256faa2eece3d" title="Initializes keyboard buffers and modifier state." alt="" coords="207,1119,304,1144"/>
-<area shape="poly" id="edge48_Node000001_Node000065" title=" " alt="" coords="81,1190,116,1171,158,1153,191,1142,193,1148,160,1158,119,1176,83,1195"/>
-<area shape="rect" id="Node000068" href="$paging_8c.html#ac3abd519b92ce6ac308db69e4c4ff04e" title="Initializes a simple identity&#45;mapped paging setup for the kernel." alt="" coords="214,1168,298,1194"/>
-<area shape="poly" id="edge49_Node000001_Node000068" title=" " alt="" coords="111,1197,198,1185,199,1191,111,1202"/>
-<area shape="rect" id="Node000069" href="$pit_8c.html#afb4e76c5cfcf522b4cf2949cc2d5539f" title=" " alt="" coords="226,1217,286,1243"/>
-<area shape="poly" id="edge50_Node000001_Node000069" title=" " alt="" coords="111,1210,211,1222,210,1227,111,1215"/>
-<area shape="rect" id="Node000070" href="$user_8c.html#ad4a4a87d44c5ab5f802107d10ee2f704" title=" " alt="" coords="205,1267,307,1292"/>
-<area shape="poly" id="edge51_Node000001_Node000070" title=" " alt="" coords="84,1217,160,1253,190,1263,189,1268,158,1258,82,1222"/>
-<area shape="rect" id="Node000072" href="$printing_8c.html#a5a4ea6a4c62acf1121290b0ba8210049" title=" " alt="" coords="159,1316,353,1342"/>
-<area shape="poly" id="edge52_Node000001_Node000072" title=" " alt="" coords="71,1218,107,1260,132,1283,160,1303,170,1307,167,1312,157,1307,129,1287,103,1264,67,1221"/>
-<area shape="rect" id="Node000076" href="$stdio_8h.html#aaed07ef5e23dd5193105592f06e5bef9" title=" " alt="" coords="233,1365,279,1391"/>
-<area shape="poly" id="edge54_Node000001_Node000076" title=" " alt="" coords="67,1218,99,1283,126,1321,160,1352,188,1366,218,1373,217,1378,186,1371,157,1356,122,1324,95,1286,62,1221"/>
+<area shape="rect" id="Node000062" href="$heap_8c.html#a0b8c32cfeebf801eb3aa7c54fc614d3c" title="Initializes the kernel heap at the first aligned address after kernel_end." alt="" coords="189,1069,322,1095"/>
+<area shape="poly" id="edge47_Node000001_Node000062" title=" " alt="" coords="67,1191,103,1148,128,1124,157,1104,174,1096,176,1101,160,1108,132,1128,107,1152,71,1195"/>
+<area shape="rect" id="Node000063" href="$keyboard_8c.html#a9e4d501adc191769969256faa2eece3d" title="Initializes keyboard buffers and modifier state." alt="" coords="207,1119,304,1144"/>
+<area shape="poly" id="edge48_Node000001_Node000063" title=" " alt="" coords="81,1190,116,1171,158,1153,191,1142,193,1148,160,1158,119,1176,83,1195"/>
+<area shape="rect" id="Node000066" href="$paging_8c.html#ac3abd519b92ce6ac308db69e4c4ff04e" title="Initializes a simple identity&#45;mapped paging setup for the kernel." alt="" coords="214,1168,298,1194"/>
+<area shape="poly" id="edge49_Node000001_Node000066" title=" " alt="" coords="111,1197,198,1185,199,1191,111,1202"/>
+<area shape="rect" id="Node000067" href="$pit_8c.html#afb4e76c5cfcf522b4cf2949cc2d5539f" title=" " alt="" coords="226,1217,286,1243"/>
+<area shape="poly" id="edge50_Node000001_Node000067" title=" " alt="" coords="111,1210,211,1222,210,1227,111,1215"/>
+<area shape="rect" id="Node000068" href="$user_8c.html#ad4a4a87d44c5ab5f802107d10ee2f704" title=" " alt="" coords="205,1267,307,1292"/>
+<area shape="poly" id="edge51_Node000001_Node000068" title=" " alt="" coords="84,1217,160,1253,190,1263,189,1268,158,1258,82,1222"/>
+<area shape="rect" id="Node000070" href="$printing_8c.html#a5a4ea6a4c62acf1121290b0ba8210049" title=" " alt="" coords="159,1316,353,1342"/>
+<area shape="poly" id="edge52_Node000001_Node000070" title=" " alt="" coords="71,1218,107,1260,132,1283,160,1303,170,1307,167,1312,157,1307,129,1287,103,1264,67,1221"/>
+<area shape="rect" id="Node000074" href="$stdio_8h.html#aaed07ef5e23dd5193105592f06e5bef9" title=" " alt="" coords="233,1365,279,1391"/>
+<area shape="poly" id="edge54_Node000001_Node000074" title=" " alt="" coords="67,1218,99,1283,126,1321,160,1352,188,1366,218,1373,217,1378,186,1371,157,1356,122,1324,95,1286,62,1221"/>
 <area shape="rect" id="Node000035" href="$printing_8c.html#a6f34b320d469f8ea4009e4e1f02356af" title="Prints a string with specific VGA colors." alt="" coords="215,1415,296,1440"/>
 <area shape="poly" id="edge55_Node000001_Node000035" title=" " alt="" coords="65,1219,74,1256,93,1305,121,1357,139,1381,160,1401,179,1413,201,1420,199,1425,177,1417,157,1406,135,1385,116,1360,88,1308,69,1257,59,1220"/>
-<area shape="rect" id="Node000077" href="$shell_8c.html#a9a65d19c11f891506061938ae50fc3cc" title=" " alt="" coords="220,1464,292,1490"/>
-<area shape="poly" id="edge56_Node000001_Node000077" title=" " alt="" coords="63,1219,70,1263,86,1326,99,1360,115,1394,135,1424,160,1451,181,1464,205,1471,204,1476,179,1468,157,1455,131,1428,110,1396,94,1362,81,1328,65,1265,58,1220"/>
-<area shape="rect" id="Node000080" href="$shell_8c.html#af32457beee540bea37889869f89c9f2a" title=" " alt="" coords="188,1513,324,1539"/>
-<area shape="poly" id="edge57_Node000001_Node000080" title=" " alt="" coords="62,1219,66,1271,80,1347,92,1389,109,1430,132,1467,160,1500,175,1510,172,1515,157,1504,128,1471,105,1432,87,1391,75,1349,61,1272,57,1219"/>
-<area shape="rect" id="Node000097" href="$tinyfs_8c.html#ab4e061e4f0953698ef8fc38cd461d99c" title="Tries to load the superblock and stores if it&#39;s successfull in the tinyfs_ready." alt="" coords="218,1563,294,1588"/>
-<area shape="poly" id="edge58_Node000001_Node000097" title=" " alt="" coords="61,1219,63,1279,74,1368,86,1417,104,1466,128,1511,160,1550,180,1563,203,1570,201,1575,178,1567,157,1553,124,1514,99,1468,81,1419,69,1369,57,1280,56,1219"/>
-<area shape="rect" id="Node000107" href="$tinyfs_8c.html#a788605691a95789509911cda53a0c4c1" title="Check tinyfs_ready." alt="" coords="202,1612,310,1638"/>
-<area shape="poly" id="edge59_Node000001_Node000107" title=" " alt="" coords="64,1219,74,1297,94,1412,123,1526,141,1570,161,1599,173,1609,188,1615,186,1620,170,1613,157,1603,136,1572,118,1527,89,1413,69,1298,58,1220"/>
-<area shape="rect" id="Node000108" href="$printing_8c.html#a6dc2be2e7de72a727cebaa33635146f7" title="Write text to specific position." alt="" coords="208,1661,304,1687"/>
-<area shape="poly" id="edge61_Node000001_Node000108" title=" " alt="" coords="63,1219,72,1306,91,1435,104,1503,120,1564,139,1615,161,1648,176,1660,194,1667,192,1672,173,1664,157,1652,134,1617,115,1566,99,1504,86,1436,67,1306,58,1220"/>
+<area shape="rect" id="Node000075" href="$shell_8c.html#a9a65d19c11f891506061938ae50fc3cc" title=" " alt="" coords="220,1464,292,1490"/>
+<area shape="poly" id="edge56_Node000001_Node000075" title=" " alt="" coords="63,1219,70,1263,86,1326,99,1360,115,1394,135,1424,160,1451,181,1464,205,1471,204,1476,179,1468,157,1455,131,1428,110,1396,94,1362,81,1328,65,1265,58,1220"/>
+<area shape="rect" id="Node000078" href="$shell_8c.html#af32457beee540bea37889869f89c9f2a" title=" " alt="" coords="188,1513,324,1539"/>
+<area shape="poly" id="edge57_Node000001_Node000078" title=" " alt="" coords="62,1219,66,1271,80,1347,92,1389,109,1430,132,1467,160,1500,175,1510,172,1515,157,1504,128,1471,105,1432,87,1391,75,1349,61,1272,57,1219"/>
+<area shape="rect" id="Node000095" href="$tinyfs_8c.html#ab4e061e4f0953698ef8fc38cd461d99c" title="Tries to load the superblock and stores if it&#39;s successfull in the tinyfs_ready." alt="" coords="218,1563,294,1588"/>
+<area shape="poly" id="edge58_Node000001_Node000095" title=" " alt="" coords="61,1219,63,1279,74,1368,86,1417,104,1466,128,1511,160,1550,180,1563,203,1570,201,1575,178,1567,157,1553,124,1514,99,1468,81,1419,69,1369,57,1280,56,1219"/>
+<area shape="rect" id="Node000103" href="$tinyfs_8c.html#a788605691a95789509911cda53a0c4c1" title="Check tinyfs_ready." alt="" coords="202,1612,310,1638"/>
+<area shape="poly" id="edge59_Node000001_Node000103" title=" " alt="" coords="64,1219,74,1297,94,1412,123,1526,141,1570,161,1599,173,1609,188,1615,186,1620,170,1613,157,1603,136,1572,118,1527,89,1413,69,1298,58,1220"/>
+<area shape="rect" id="Node000104" href="$printing_8c.html#a6dc2be2e7de72a727cebaa33635146f7" title="Write text to specific position." alt="" coords="208,1661,304,1687"/>
+<area shape="poly" id="edge61_Node000001_Node000104" title=" " alt="" coords="63,1219,72,1306,91,1435,104,1503,120,1564,139,1615,161,1648,176,1660,194,1667,192,1672,173,1664,157,1652,134,1617,115,1566,99,1504,86,1436,67,1306,58,1220"/>
 <area shape="rect" id="Node000003" href="$string_8c.html#a26be53fd83753908febff7d06351de3a" title="Converts a 32&#45;bit signed integer to its decimal string representation." alt="" coords="452,5,527,31"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,77,400,40,435,29,437,34,402,45,294,82"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="305,95,444,110,443,115,305,100"/>
@@ -98,10 +98,10 @@
 <area shape="poly" id="edge40_Node000016_Node000041" title=" " alt="" coords="287,980,323,989,340,998,355,1011,373,1036,385,1061,392,1085,396,1109,393,1157,384,1203,375,1250,371,1297,378,1347,388,1372,403,1398,417,1413,435,1425,432,1430,414,1417,399,1401,383,1374,373,1348,365,1297,369,1249,379,1202,388,1156,390,1110,387,1087,380,1063,368,1039,351,1015,337,1002,321,994,285,985"/>
 <area shape="rect" id="Node000042" href="$interrupts_8c.html#aaa875dce2b321ea15bd0397a1339999b" title=" " alt="" coords="401,1508,577,1534"/>
 <area shape="poly" id="edge43_Node000016_Node000042" title=" " alt="" coords="287,980,323,989,340,998,355,1011,376,1041,390,1071,398,1100,401,1128,397,1184,385,1239,372,1295,366,1351,368,1380,374,1410,386,1440,403,1471,417,1487,434,1498,431,1503,413,1491,399,1474,381,1442,369,1411,363,1381,361,1351,367,1294,380,1238,392,1183,396,1128,393,1101,385,1073,371,1044,351,1015,337,1002,321,994,286,985"/>
-<area shape="rect" id="Node000059" href="$interrupts_8c.html#a4f3f9f4a95d80f861178ee3310c7efd4" title="Tell the CPU to load the IDT." alt="" coords="456,1557,522,1583"/>
-<area shape="poly" id="edge45_Node000016_Node000059" title=" " alt="" coords="286,980,323,989,340,998,355,1011,367,1032,376,1058,384,1123,383,1199,379,1280,374,1362,374,1437,383,1500,391,1525,403,1544,420,1558,442,1565,440,1570,418,1562,399,1548,386,1527,377,1501,369,1438,369,1362,373,1280,378,1198,378,1123,371,1059,362,1034,351,1015,337,1002,321,994,285,985"/>
-<area shape="rect" id="Node000060" href="$interrupts_8c.html#af3dcd40ab20d43c39d9c85774f4d5e7c" title="Needed to make the programmable interrupt controller work." alt="" coords="448,1607,530,1632"/>
-<area shape="poly" id="edge46_Node000016_Node000060" title=" " alt="" coords="286,980,323,988,340,998,355,1011,368,1034,377,1063,385,1133,384,1216,379,1305,373,1394,372,1476,381,1545,390,1572,403,1594,417,1605,435,1613,433,1618,414,1610,399,1597,385,1575,376,1547,367,1477,368,1394,373,1305,379,1216,380,1133,372,1064,363,1036,351,1015,337,1002,321,993,285,985"/>
+<area shape="rect" id="Node000058" href="$interrupts_8c.html#a4f3f9f4a95d80f861178ee3310c7efd4" title="Tell the CPU to load the IDT." alt="" coords="456,1557,522,1583"/>
+<area shape="poly" id="edge45_Node000016_Node000058" title=" " alt="" coords="286,980,323,989,340,998,355,1011,367,1032,376,1058,384,1123,383,1199,379,1280,374,1362,374,1437,383,1500,391,1525,403,1544,420,1558,442,1565,440,1570,418,1562,399,1548,386,1527,377,1501,369,1438,369,1362,373,1280,378,1198,378,1123,371,1059,362,1034,351,1015,337,1002,321,994,285,985"/>
+<area shape="rect" id="Node000059" href="$interrupts_8c.html#af3dcd40ab20d43c39d9c85774f4d5e7c" title="Needed to make the programmable interrupt controller work." alt="" coords="448,1607,530,1632"/>
+<area shape="poly" id="edge46_Node000016_Node000059" title=" " alt="" coords="286,980,323,988,340,998,355,1011,368,1034,377,1063,385,1133,384,1216,379,1305,373,1394,372,1476,381,1545,390,1572,403,1594,417,1605,435,1613,433,1618,414,1610,399,1597,385,1575,376,1547,367,1477,368,1394,373,1305,379,1216,380,1133,372,1064,363,1036,351,1015,337,1002,321,993,285,985"/>
 <area shape="poly" id="edge19_Node000018_Node000018" title=" " alt="" coords="458,525,451,515,455,506,468,500,489,497,512,500,524,506,521,511,510,505,489,503,470,505,459,509,457,515,462,522"/>
 <area shape="poly" id="edge35_Node000033_Node000033" title=" " alt="" coords="458,1289,451,1279,455,1270,468,1264,489,1261,512,1264,524,1270,521,1275,510,1269,489,1267,470,1269,459,1273,457,1279,462,1286"/>
 <area shape="poly" id="edge36_Node000033_Node000039" title=" " alt="" coords="536,1307,579,1322,621,1352,656,1384,652,1388,618,1356,576,1327,534,1312"/>

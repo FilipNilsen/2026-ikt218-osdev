@@ -1,5 +1,5 @@
 <map id="init_pit" name="init_pit">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,5,65,31"/>
-<area shape="rect" id="Node000002" href="$pit_8c.html#abba8e650b57cca3467d090f4343ed242" title=" " alt="" coords="113,5,180,31"/>
+<area shape="rect" id="Node000002" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="113,5,159,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,16,97,16,97,21,65,21"/>
 </map>

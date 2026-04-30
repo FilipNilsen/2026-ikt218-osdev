@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="Node000002" class="node">
 <title>Node2</title>
-<g id="a_Node000002"><a xlink:href="ata_8c.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title=" ">
+<g id="a_Node000002"><a xlink:href="io_8h.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title="Read byte from io port.">
 <polygon fill="white" stroke="#666666" points="153.55,-19.25 124.75,-19.25 124.75,0 153.55,0 153.55,-19.25"/>
 <text text-anchor="middle" x="139.15" y="-5.75" font-family="Helvetica,sans-Serif" font-size="10.00">inb</text>
 </a>

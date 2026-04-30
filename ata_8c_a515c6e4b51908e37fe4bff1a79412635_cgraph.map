@@ -1,5 +1,5 @@
 <map id="ata_delay_400ns" name="ata_delay_400ns">
 <area shape="rect" id="Node000001" title="Just runs inb() against ATA disk 4 times." alt="" coords="5,5,124,31"/>
-<area shape="rect" id="Node000002" href="$ata_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="172,5,210,31"/>
+<area shape="rect" id="Node000002" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="172,5,210,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,16,156,16,156,21,124,21"/>
 </map>

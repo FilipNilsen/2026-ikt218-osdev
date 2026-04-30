@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['inb_0',['inb',['../ata_8c.html#a0223c8898dfec29069879dc51076e28a',1,'inb(uint16_t port):&#160;ata.c'],['../interrupts_8c.html#a0223c8898dfec29069879dc51076e28a',1,'inb(uint16_t port):&#160;interrupts.c']]],
+  ['inb_0',['inb',['../io_8h.html#a0223c8898dfec29069879dc51076e28a',1,'io.h']]],
   ['init_5fidt_1',['init_idt',['../interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8',1,'init_idt():&#160;interrupts.c'],['../interrupts_8h.html#a35fe413107af682030ab7a4b6dff19b8',1,'init_idt():&#160;interrupts.c']]],
   ['init_5fkernel_5fmemory_2',['init_kernel_memory',['../heap_8c.html#a0b8c32cfeebf801eb3aa7c54fc614d3c',1,'init_kernel_memory(uint32_t *kernel_end):&#160;heap.c'],['../heap_8h.html#a0b8c32cfeebf801eb3aa7c54fc614d3c',1,'init_kernel_memory(uint32_t *kernel_end):&#160;heap.c']]],
   ['init_5fkeyboard_3',['init_keyboard',['../keyboard_8c.html#a9e4d501adc191769969256faa2eece3d',1,'init_keyboard(void):&#160;keyboard.c'],['../keyboard_8h.html#a9e4d501adc191769969256faa2eece3d',1,'init_keyboard(void):&#160;keyboard.c']]],
@@ -9,7 +9,7 @@ var searchData=
   ['init_5fusername_6',['init_username',['../user_8c.html#ad4a4a87d44c5ab5f802107d10ee2f704',1,'init_username():&#160;user.c'],['../user_8h.html#a0ab2ee161d938e552d2ac7770b374c0e',1,'init_username(void):&#160;user.c']]],
   ['init_5fvga_5finterface_5ffor_5fprinting_7',['init_vga_interface_for_printing',['../printing_8c.html#a5a4ea6a4c62acf1121290b0ba8210049',1,'init_vga_interface_for_printing():&#160;printing.c'],['../printing_8h.html#a5a4ea6a4c62acf1121290b0ba8210049',1,'init_vga_interface_for_printing():&#160;printing.c']]],
   ['int_5fto_5fstr_8',['int_to_str',['../string_8c.html#a26be53fd83753908febff7d06351de3a',1,'int_to_str(int32_t value, char *buf):&#160;string.c'],['../src_2string_2string_8h.html#a26be53fd83753908febff7d06351de3a',1,'int_to_str(int32_t value, char *buf):&#160;string.c']]],
-  ['inw_9',['inw',['../ata_8c.html#ab2f39bde7b2e87793f55352c72d07ebe',1,'ata.c']]],
+  ['inw_9',['inw',['../io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe',1,'io.h']]],
   ['io_5fwait_10',['io_wait',['../interrupts_8c.html#a488d1b3600792ee3aac5be4b7e0be16b',1,'interrupts.c']]],
   ['irq10_5fhandler_11',['irq10_handler',['../interrupts_8c.html#a2ffec5cbea42aa13dcc6ec8f42422c89',1,'interrupts.c']]],
   ['irq11_5fhandler_12',['irq11_handler',['../interrupts_8c.html#a2c956457899e4142af308501184eda45',1,'interrupts.c']]],

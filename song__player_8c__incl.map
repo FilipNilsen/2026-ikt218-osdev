@@ -1,18 +1,22 @@
 <map id="src/group_29/src/sound/song_player.c" name="src/group_29/src/sound/song_player.c">
-<area shape="rect" id="Node000001" title=" " alt="" coords="63,5,304,31"/>
-<area shape="rect" id="Node000002" href="$song__player_8h.html" title=" " alt="" coords="73,79,174,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,33,145,69,141,65,171,30"/>
-<area shape="rect" id="Node000004" href="$song_8h.html" title=" " alt="" coords="182,153,241,178"/>
-<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="235,29,272,47,289,61,303,78,307,88,307,99,297,118,279,135,256,148,253,143,276,130,293,115,302,98,302,89,298,80,286,65,269,52,232,34"/>
-<area shape="rect" id="Node000006" href="$stddef_8h.html" title=" " alt="" coords="198,79,289,105"/>
-<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="195,30,226,65,221,69,191,33"/>
-<area shape="rect" id="Node000007" href="$pit_8h.html" title=" " alt="" coords="5,153,79,178"/>
-<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="137,34,97,52,78,65,63,81,49,108,45,138,39,137,44,107,58,77,75,61,94,47,134,29"/>
-<area shape="rect" id="Node000003" href="$stdint_8h.html" title=" " alt="" coords="62,226,150,252"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,105,112,211,107,211,119,105"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="140,103,186,141,183,145,137,107"/>
-<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="195,181,138,220,135,215,192,177"/>
-<area shape="rect" id="Node000005" href="$frequencies_8h.html" title=" " alt="" coords="174,226,272,252"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="216,178,221,210,216,211,211,179"/>
-<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="55,177,87,213,83,217,51,180"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,5,280,31"/>
+<area shape="rect" id="Node000002" href="$song__player_8h.html" title=" " alt="" coords="50,79,150,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,33,122,69,118,65,148,30"/>
+<area shape="rect" id="Node000004" href="$song_8h.html" title=" " alt="" coords="25,153,84,178"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="107,34,69,52,52,65,39,80,34,94,34,109,43,138,38,140,29,109,29,93,35,78,49,61,66,47,104,29"/>
+<area shape="rect" id="Node000007" href="$stddef_8h.html" title=" " alt="" coords="174,79,266,105"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="172,30,202,65,198,69,168,33"/>
+<area shape="rect" id="Node000008" href="$pit_8h.html" title=" " alt="" coords="290,79,363,105"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="189,29,285,70,283,75,187,34"/>
+<area shape="rect" id="Node000003" href="$stdint_8h.html" title=" " alt="" coords="138,226,225,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,104,169,211,165,214,104,106"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="95,106,72,141,68,138,90,103"/>
+<area shape="rect" id="Node000006" href="$io_8h.html" title=" " alt="" coords="159,153,224,178"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="117,103,166,141,163,145,114,107"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="77,177,148,216,145,221,75,181"/>
+<area shape="rect" id="Node000005" href="$frequencies_8h.html" title=" " alt="" coords="5,226,104,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="57,179,57,211,52,211,52,179"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="193,179,188,211,183,211,187,178"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="316,107,206,217,202,213,313,103"/>
+<area shape="poly" id="edge12_Node000008_Node000006" title=" " alt="" coords="305,108,229,147,227,143,302,103"/>
 </map>

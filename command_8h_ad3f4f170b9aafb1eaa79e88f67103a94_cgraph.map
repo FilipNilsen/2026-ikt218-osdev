@@ -8,6 +8,6 @@
 <area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="263,49,297,56,297,61,262,55"/>
 <area shape="rect" id="Node000004" href="$vga__text__mode__interface_8c.html#a8c45da99a0cc6cede9fb20fb07173be4" title="Updates the VGA hardware cursor to the current text cell." alt="" coords="437,5,662,31"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,16,422,16,422,21,390,21"/>
-<area shape="rect" id="Node000005" href="$vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="710,5,756,31"/>
+<area shape="rect" id="Node000005" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="710,5,756,31"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="662,16,695,16,695,21,662,21"/>
 </map>

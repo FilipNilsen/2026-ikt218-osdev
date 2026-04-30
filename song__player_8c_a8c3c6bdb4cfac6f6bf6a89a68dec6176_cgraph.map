@@ -20,17 +20,17 @@
 <area shape="poly" id="edge19_Node000005_Node000011" title=" " alt="" coords="782,104,830,96,982,73,983,78,830,101,783,109"/>
 <area shape="rect" id="Node000012" href="$pit_8c.html#a81fd921fa7d97d390d1ed559e3d50dae" title="Sleep function, checks if enough time has passed at every interrupt that fires." alt="" coords="830,204,936,230"/>
 <area shape="poly" id="edge17_Node000005_Node000012" title=" " alt="" coords="746,128,784,158,831,191,838,194,835,199,829,195,781,163,742,132"/>
-<area shape="rect" id="Node000007" href="$song__player_8c.html#af2a511d0022df49de8004b1f11017e33" title="Small local helpers for port I/O used by the PC speaker." alt="" coords="1152,55,1243,80"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1086,29,1141,47,1139,52,1084,34"/>
-<area shape="rect" id="Node000008" href="$song__player_8c.html#a8a78719279438542b03cd510491df3e4" title=" " alt="" coords="1148,104,1247,130"/>
-<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1082,29,1101,40,1116,53,1126,66,1135,78,1149,91,1153,94,1150,98,1146,95,1131,81,1122,69,1112,57,1098,44,1080,34"/>
-<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="1084,101,1139,83,1141,88,1086,106"/>
-<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="1098,114,1132,114,1132,120,1098,120"/>
-<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="927,162,1007,153,1099,140,1135,131,1136,137,1100,145,1008,159,927,167"/>
+<area shape="rect" id="Node000007" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="1152,55,1190,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1079,29,1138,52,1136,57,1077,34"/>
+<area shape="rect" id="Node000008" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="1148,104,1194,130"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1082,29,1101,40,1149,91,1146,95,1098,44,1080,34"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="1077,101,1136,78,1138,83,1079,106"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="1099,114,1132,114,1132,120,1099,120"/>
+<area shape="poly" id="edge13_Node000010_Node000008" title=" " alt="" coords="926,163,1007,155,1099,140,1132,129,1134,134,1100,145,1008,161,927,168"/>
 <area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="925,152,984,132,986,137,927,157"/>
 <area shape="poly" id="edge14_Node000010_Node000011" title=" " alt="" coords="898,152,935,122,983,89,991,85,993,90,986,94,938,126,901,156"/>
-<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="1087,65,1137,65,1137,70,1087,70"/>
-<area shape="poly" id="edge16_Node000011_Node000008" title=" " alt="" coords="1086,78,1141,96,1139,101,1084,84"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="1087,65,1136,65,1136,70,1087,70"/>
+<area shape="poly" id="edge16_Node000011_Node000008" title=" " alt="" coords="1079,78,1134,100,1132,105,1077,83"/>
 <area shape="rect" id="Node000013" href="$pit_8c.html#adf1279bb067ede8b6ec89ab486cbea59" title="Get how many ticks have passed. Incremented every time the PIT fiires." alt="" coords="985,205,1099,231"/>
 <area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="937,215,969,215,969,220,937,220"/>
 </map>

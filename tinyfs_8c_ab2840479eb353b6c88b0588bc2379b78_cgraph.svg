@@ -229,7 +229,7 @@ var sectionId = 'dynsection-25';
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title=" ">
+<g id="a_Node000008"><a xlink:href="io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title="Output byte to io port.">
 <polygon fill="white" stroke="#666666" points="695.25,-223.25 660.5,-223.25 660.5,-204 695.25,-204 695.25,-223.25"/>
 <text text-anchor="middle" x="677.88" y="-209.75" font-family="Helvetica,sans-Serif" font-size="10.00">outb</text>
 </a>
@@ -247,7 +247,7 @@ var sectionId = 'dynsection-25';
 <!-- Node9 -->
 <g id="Node000009" class="node">
 <title>Node9</title>
-<g id="a_Node000009"><a xlink:href="ata_8c.html#ab2f39bde7b2e87793f55352c72d07ebe" target="_top" xlink:title=" ">
+<g id="a_Node000009"><a xlink:href="io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe" target="_top" xlink:title="Read word from io port.">
 <polygon fill="white" stroke="#666666" points="445.75,-147.25 414.75,-147.25 414.75,-128 445.75,-128 445.75,-147.25"/>
 <text text-anchor="middle" x="430.25" y="-133.75" font-family="Helvetica,sans-Serif" font-size="10.00">inw</text>
 </a>
@@ -283,7 +283,7 @@ var sectionId = 'dynsection-25';
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="ata_8c.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="io_8h.html#a0223c8898dfec29069879dc51076e28a" target="_top" xlink:title="Read byte from io port.">
 <polygon fill="white" stroke="#666666" points="787.05,-280.25 758.25,-280.25 758.25,-261 787.05,-261 787.05,-280.25"/>
 <text text-anchor="middle" x="772.65" y="-266.75" font-family="Helvetica,sans-Serif" font-size="10.00">inb</text>
 </a>

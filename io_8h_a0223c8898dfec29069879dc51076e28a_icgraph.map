@@ -1,0 +1,78 @@
+<map id="inb" name="inb">
+<area shape="rect" id="Node000001" title="Read byte from io port." alt="" coords="1259,241,1297,267"/>
+<area shape="rect" id="Node000002" href="$ata_8c.html#a515c6e4b51908e37fe4bff1a79412635" title="Just runs inb() against ATA disk 4 times." alt="" coords="1087,216,1206,242"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1243,250,1205,243,1206,238,1244,245"/>
+<area shape="rect" id="Node000003" href="$ata_8c.html#a3ee6591c28dcff698587364d70cef51f" title="Check if the drive is ready before disk read/write. This uses pooling so it is blocking." alt="" coords="718,167,784,192"/>
+<area shape="poly" id="edge34_Node000001_Node000003" title=" " alt="" coords="1251,233,1231,218,1210,206,1152,186,1092,173,1031,166,971,163,863,167,785,177,785,171,863,162,971,158,1031,161,1093,168,1154,181,1212,201,1234,214,1254,229"/>
+<area shape="rect" id="Node000023" href="$song__player_8c.html#a96bd077bd862f55af2075651b2249465" title=" " alt="" coords="888,267,1004,292"/>
+<area shape="poly" id="edge35_Node000001_Node000023" title=" " alt="" coords="1243,259,1005,278,1004,272,1243,254"/>
+<area shape="rect" id="Node000025" href="$song__player_8c.html#a47855367bfbb37643d9c567704791115" title="Bits 0 and 1 on port 0x61 must be enabled for audible output." alt="" coords="1090,317,1203,343"/>
+<area shape="poly" id="edge37_Node000001_Node000025" title=" " alt="" coords="1247,278,1212,300,1177,319,1174,314,1209,296,1245,273"/>
+<area shape="rect" id="Node000027" href="$interrupts_8c.html#abbd5f86bc3e3c52fad79391febcb28bc" title="Called by keyboard_interrupt_handler." alt="" coords="1082,53,1211,79"/>
+<area shape="poly" id="edge41_Node000001_Node000027" title=" " alt="" coords="1266,227,1245,171,1228,140,1209,112,1191,95,1171,82,1174,77,1194,91,1213,108,1233,137,1249,169,1271,225"/>
+<area shape="rect" id="Node000030" href="$song__player_8c.html#a7af29ef84e346502d53907ea1057d2c4" title=" " alt="" coords="1102,367,1191,392"/>
+<area shape="poly" id="edge46_Node000001_Node000030" title=" " alt="" coords="1267,282,1245,321,1212,358,1192,369,1190,365,1209,353,1241,318,1263,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1074,215,1034,207,895,192,785,184,785,178,896,186,1035,202,1075,210"/>
+<area shape="rect" id="Node000021" href="$ata_8c.html#abb68d74a0b5e6814b7b86f7d176e98c6" title="Select drive and/or head." alt="" coords="888,217,1004,243"/>
+<area shape="poly" id="edge30_Node000002_Node000021" title=" " alt="" coords="1072,232,1005,232,1005,227,1072,227"/>
+<area shape="rect" id="Node000004" href="$ata_8c.html#a28bf1254e2ffcfdfa5a3ab230e918d71" title="Read a disk sector." alt="" coords="529,167,643,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="703,182,644,182,644,177,703,177"/>
+<area shape="rect" id="Node000016" href="$ata_8c.html#a9269a9d234a698467e3a1a12c6cb5527" title="Write to a disk sector." alt="" coords="527,267,645,292"/>
+<area shape="poly" id="edge19_Node000003_Node000016" title=" " alt="" coords="706,201,694,207,645,239,605,268,602,264,642,234,691,203,703,196"/>
+<area shape="rect" id="Node000005" href="$command_8c.html#a476f1dbae03962cd0dadc2ec41bddf17" title=" " alt="" coords="348,216,479,242"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="525,200,462,218,461,213,523,195"/>
+<area shape="rect" id="Node000006" href="$tinyfs_8c.html#a80789118d431f2d302f0d217d2a90ce7" title="Reads the file table into entries." alt="" coords="362,167,465,192"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="513,182,466,182,466,177,513,177"/>
+<area shape="rect" id="Node000009" href="$tinyfs_8c.html#ab2840479eb353b6c88b0588bc2379b78" title="Read a file." alt="" coords="191,117,298,143"/>
+<area shape="poly" id="edge18_Node000004_Node000009" title=" " alt="" coords="559,158,523,130,478,107,427,98,374,100,325,108,285,119,283,114,324,103,374,95,428,93,480,102,526,125,563,154"/>
+<area shape="rect" id="Node000013" href="$tinyfs_8c.html#acac2bb89de556b56a688b0b211259c8d" title="Reads the super block and checks validity." alt="" coords="356,117,471,143"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="523,164,461,146,462,141,525,159"/>
+<area shape="rect" id="Node000007" href="$tinyfs_8c.html#a77b63c791d50fdd4b1662c5386553f2c" title="Print listing of all files." alt="" coords="207,167,283,192"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="346,182,283,182,283,177,346,177"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="352,164,291,146,292,141,353,159"/>
+<area shape="rect" id="Node000011" href="$tinyfs_8c.html#ae26fdd4b4ebf314bcab656ac4616bff7" title="Write to a file." alt="" coords="190,267,300,292"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="358,201,349,206,301,238,263,268,259,264,298,233,347,201,356,197"/>
+<area shape="rect" id="Node000008" href="$command_8c.html#a0d2b819a56eb5e1d230f2b3319911612" title=" " alt="" coords="26,167,121,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="191,182,122,182,122,177,191,177"/>
+<area shape="rect" id="Node000010" href="$command_8c.html#a48bd81771f1d749da03d8d4594541a2e" title=" " alt="" coords="22,117,125,143"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="176,133,126,133,126,127,176,127"/>
+<area shape="rect" id="Node000012" href="$command_8c.html#adbcf4ce21e295dea9b7805e697adec68" title=" " alt="" coords="5,267,142,292"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="174,282,142,282,142,277,174,277"/>
+<area shape="poly" id="edge15_Node000013_Node000007" title=" " alt="" coords="353,151,284,171,283,166,352,145"/>
+<area shape="poly" id="edge16_Node000013_Node000009" title=" " alt="" coords="341,133,299,133,299,127,341,127"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="355,153,350,156,329,176,303,207,258,268,254,264,299,204,325,173,346,152,352,148"/>
+<area shape="rect" id="Node000014" href="$tinyfs_8c.html#ab4e061e4f0953698ef8fc38cd461d99c" title="Tries to load the superblock and stores if it&#39;s successfull in the tinyfs_ready." alt="" coords="207,67,283,92"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="353,115,282,93,284,88,354,110"/>
+<area shape="rect" id="Node000015" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="21,41,126,67"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="191,74,126,65,127,59,191,69"/>
+<area shape="poly" id="edge20_Node000016_Node000005" title=" " alt="" coords="524,264,459,245,460,240,526,259"/>
+<area shape="poly" id="edge29_Node000016_Node000011" title=" " alt="" coords="512,282,300,282,300,277,512,277"/>
+<area shape="rect" id="Node000017" href="$tinyfs_8c.html#a388c099fde85a34a27ea72be7f86b077" title="Save the file table." alt="" coords="360,367,467,392"/>
+<area shape="poly" id="edge21_Node000016_Node000017" title=" " alt="" coords="559,304,523,331,481,358,457,369,455,364,478,353,520,327,556,300"/>
+<area shape="rect" id="Node000018" href="$tinyfs_8c.html#aed65dbc68826e945de45aeb835d9ada5" title="Formats disk." alt="" coords="197,367,293,392"/>
+<area shape="poly" id="edge28_Node000016_Node000018" title=" " alt="" coords="574,307,538,361,511,387,481,407,454,417,426,421,371,420,319,409,277,395,278,390,320,404,371,414,426,416,453,411,478,402,508,383,534,357,569,304"/>
+<area shape="rect" id="Node000020" href="$tinyfs_8c.html#a8e2c7effb98a8ade7ea557c2f4f3bee7" title="Write superblock to disk." alt="" coords="354,317,473,343"/>
+<area shape="poly" id="edge25_Node000016_Node000020" title=" " alt="" coords="526,300,460,319,459,314,524,295"/>
+<area shape="poly" id="edge24_Node000017_Node000011" title=" " alt="" coords="356,362,347,358,298,326,259,295,263,291,301,321,349,353,358,358"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="345,382,293,382,293,377,345,377"/>
+<area shape="rect" id="Node000019" href="$command_8c.html#a13ed2d8b61f516d5c211b05685a310c2" title=" " alt="" coords="12,367,135,392"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="181,382,135,382,135,377,181,377"/>
+<area shape="poly" id="edge27_Node000020_Node000011" title=" " alt="" coords="353,315,289,295,291,290,355,310"/>
+<area shape="poly" id="edge26_Node000020_Node000018" title=" " alt="" coords="353,350,292,369,291,363,352,345"/>
+<area shape="rect" id="Node000022" href="$ata_8c.html#a3cdce3e56f7424649e6c18e60f634506" title="Move HDD head to the correct position on the disk for I/O." alt="" coords="693,217,810,243"/>
+<area shape="poly" id="edge31_Node000021_Node000022" title=" " alt="" coords="872,233,811,233,811,227,872,227"/>
+<area shape="poly" id="edge32_Node000022_Node000004" title=" " alt="" coords="692,215,629,195,631,190,693,210"/>
+<area shape="poly" id="edge33_Node000022_Node000016" title=" " alt="" coords="692,251,633,269,631,263,690,245"/>
+<area shape="rect" id="Node000024" href="$song__player_8c.html#a60861af456ac3c67927143bd172dbc45" title=" " alt="" coords="696,317,806,343"/>
+<area shape="poly" id="edge36_Node000023_Node000024" title=" " alt="" coords="880,299,804,319,803,314,879,294"/>
+<area shape="poly" id="edge38_Node000025_Node000024" title=" " alt="" coords="1075,333,807,333,807,327,1075,327"/>
+<area shape="rect" id="Node000026" href="$song__player_8c.html#a4f7e7d5c891653748fd0d0b32cb300dc" title="PIT channel 2 drives the PC speaker tone frequency." alt="" coords="903,368,989,394"/>
+<area shape="poly" id="edge39_Node000025_Node000026" title=" " alt="" coords="1079,350,990,373,989,367,1077,345"/>
+<area shape="poly" id="edge40_Node000026_Node000024" title=" " alt="" coords="887,368,803,346,804,341,889,363"/>
+<area shape="rect" id="Node000028" href="$interrupts_8c.html#aaa875dce2b321ea15bd0397a1339999b" title=" " alt="" coords="858,29,1034,55"/>
+<area shape="poly" id="edge42_Node000027_Node000028" title=" " alt="" coords="1067,59,1035,55,1035,50,1067,54"/>
+<area shape="poly" id="edge45_Node000028_Node000028" title=" " alt="" coords="980,17,969,10,946,8,926,10,915,15,912,20,918,27,913,30,907,21,911,11,924,5,946,3,970,5,982,12"/>
+<area shape="rect" id="Node000029" href="$interrupts_8c.html#a35fe413107af682030ab7a4b6dff19b8" title="Sets up the IDT with needed interrupt for system functionality." alt="" coords="556,20,616,46"/>
+<area shape="poly" id="edge43_Node000028_Node000029" title=" " alt="" coords="842,42,616,36,616,31,842,37"/>
+<area shape="poly" id="edge44_Node000029_Node000015" title=" " alt="" coords="541,37,127,55,126,49,541,32"/>
+</map>

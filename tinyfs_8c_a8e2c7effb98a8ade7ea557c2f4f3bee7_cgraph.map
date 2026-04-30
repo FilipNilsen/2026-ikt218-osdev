@@ -6,13 +6,13 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,128,337,90,430,56,513,30,514,35,432,61,339,95,259,133"/>
 <area shape="rect" id="Node000006" href="$ata_8c.html#a3cdce3e56f7424649e6c18e60f634506" title="Move HDD head to the correct position on the disk for I/O." alt="" coords="338,105,455,131"/>
 <area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="290,132,322,127,323,132,291,137"/>
-<area shape="rect" id="Node000008" href="$ata_8c.html#ab52bf4ee1747fde943d805c11698c2b5" title=" " alt="" coords="704,105,750,131"/>
+<area shape="rect" id="Node000008" href="$io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" title="Output byte to io port." alt="" coords="704,105,750,131"/>
 <area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="290,142,455,141,583,131,688,120,688,125,584,137,455,146,290,148"/>
-<area shape="rect" id="Node000009" href="$ata_8c.html#ad081f4511cc64f96fdf52abaccf344c1" title=" " alt="" coords="372,207,421,232"/>
+<area shape="rect" id="Node000009" href="$io_8h.html#ad081f4511cc64f96fdf52abaccf344c1" title="Output word to io port." alt="" coords="372,207,421,232"/>
 <area shape="poly" id="edge12_Node000002_Node000009" title=" " alt="" coords="263,154,359,200,357,204,260,159"/>
 <area shape="rect" id="Node000004" href="$ata_8c.html#a515c6e4b51908e37fe4bff1a79412635" title="Just runs inb() against ATA disk 4 times." alt="" coords="668,55,786,80"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="596,25,667,47,666,52,594,30"/>
-<area shape="rect" id="Node000005" href="$ata_8c.html#a0223c8898dfec29069879dc51076e28a" title=" " alt="" coords="834,29,872,55"/>
+<area shape="rect" id="Node000005" href="$io_8h.html#a0223c8898dfec29069879dc51076e28a" title="Read byte from io port." alt="" coords="834,29,872,55"/>
 <area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="595,18,819,37,818,42,595,23"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="786,53,818,46,819,52,787,58"/>
 <area shape="rect" id="Node000007" href="$ata_8c.html#abb68d74a0b5e6814b7b86f7d176e98c6" title="Select drive and/or head." alt="" coords="503,55,620,80"/>

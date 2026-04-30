@@ -101,7 +101,7 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="vga__text__mode__interface_8c.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title=" ">
+<g id="a_Node000005"><a xlink:href="io_8h.html#ab52bf4ee1747fde943d805c11698c2b5" target="_top" xlink:title="Output byte to io port.">
 <polygon fill="white" stroke="#666666" points="618.5,-56.25 583.75,-56.25 583.75,-37 618.5,-37 618.5,-56.25"/>
 <text text-anchor="middle" x="601.12" y="-42.75" font-family="Helvetica,sans-Serif" font-size="10.00">outb</text>
 </a>
