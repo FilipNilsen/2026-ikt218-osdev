@@ -22,8 +22,8 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,76,507,40,545,29,547,34,509,45,387,81"/>
 <area shape="rect" id="Node000004" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="569,55,628,80"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,84,553,69,554,74,390,90"/>
-<area shape="rect" id="Node000007" href="$string_8c.html#a12bee89ccd121c793b3e81305a60c211" title="Finds the length of a string." alt="" coords="572,104,625,130"/>
-<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="390,94,557,110,556,115,390,99"/>
+<area shape="rect" id="Node000007" href="$string_8c.html#a8465f21925e94221c3b92ba73fc7a9b0" title="Finds the length of a string." alt="" coords="563,104,634,130"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="390,94,548,109,547,115,390,99"/>
 <area shape="rect" id="Node000005" href="$heap_8c.html#a401aaf24b99f6928ef5b161a6ad97c38" title=" " alt="" coords="752,80,821,106"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="629,69,737,84,736,89,629,74"/>
 <area shape="rect" id="Node000006" href="$heap_8c.html#a18e1cd07c4b070ddb71e7ee3044e55ab" title=" " alt="" coords="745,31,828,56"/>
@@ -41,8 +41,8 @@
 <area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="392,461,522,449,522,455,393,467"/>
 <area shape="rect" id="Node000018" href="$command_8c.html#a293123cae1546d5162b72e81825401a5" title="Parses input into arguments (argument_count/argument_count style)." alt="" coords="508,481,689,507"/>
 <area shape="poly" id="edge18_Node000015_Node000018" title=" " alt="" coords="393,471,493,481,492,486,392,476"/>
-<area shape="rect" id="Node000017" href="$string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="756,432,817,458"/>
-<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="661,442,740,442,740,448,661,448"/>
+<area shape="rect" id="Node000017" href="$string_8c.html#ab9142d1fb2783f60e436db3b5c817633" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="743,432,830,458"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="661,442,728,442,728,448,661,448"/>
 <area shape="poly" id="edge20_Node000019_Node000010" title=" " alt="" coords="407,251,559,221,560,227,408,256"/>
 <area shape="poly" id="edge21_Node000019_Node000011" title=" " alt="" coords="408,277,543,303,542,309,407,282"/>
 <area shape="rect" id="Node000020" href="$user_8c.html#a9becccc1c11c8b560cc289c85fa77a25" title=" " alt="" coords="531,253,666,279"/>

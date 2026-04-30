@@ -11,7 +11,7 @@
 <!-- Node1 -->
 <g id="Node000001" class="node">
 <title>Node1</title>
-<g id="a_Node000001"><a xlink:title="Check that strlen(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL.">
+<g id="a_Node000001"><a xlink:title="Check that strlength(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL.">
 <polygon fill="#999999" stroke="#666666" points="335.25,-19.25 257,-19.25 257,0 335.25,0 335.25,-19.25"/>
 <text text-anchor="middle" x="296.12" y="-5.75" font-family="Helvetica,sans-Serif" font-size="10.00">name_is_valid</text>
 </a>

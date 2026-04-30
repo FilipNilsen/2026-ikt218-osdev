@@ -1,0 +1,33 @@
+<map id="strlength" name="strlength">
+<area shape="rect" id="Node000001" title="Finds the length of a string." alt="" coords="920,207,991,232"/>
+<area shape="rect" id="Node000002" href="$string_8c.html#a6c1819f2460f96a82d3be06a279e9bfa" title="Adds a number to a string by using &#39;d&#39; as placeholder." alt="" coords="775,132,872,158"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="917,201,847,161,849,156,919,196"/>
+<area shape="rect" id="Node000012" href="$string_8c.html#ac3b56dd8e06e87eb3d014a71d8f57683" title="Copies a null&#45;terminated string into a fixed&#45;size buffer." alt="" coords="780,256,867,282"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="907,241,861,258,859,253,905,236"/>
+<area shape="rect" id="Node000003" href="$command_8c.html#af2fe2eafdf47889f4dd3fdda65a6f558" title="Displays memory info." alt="" coords="575,5,710,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="800,121,767,86,725,52,687,34,690,29,728,48,770,82,804,118"/>
+<area shape="rect" id="Node000004" href="$command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="358,81,495,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="790,126,760,109,726,97,666,86,605,83,495,88,495,82,605,77,667,81,727,92,762,104,792,121"/>
+<area shape="rect" id="Node000005" href="$command_8c.html#a3c36856f25ef0ec4115e0a3cd9922576" title=" " alt="" coords="579,107,706,132"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="759,139,706,131,707,126,759,133"/>
+<area shape="rect" id="Node000006" href="$shell_8c.html#a1dadf2da65cbd79e31c2307cf31aa495" title=" " alt="" coords="558,156,727,182"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="759,156,727,160,727,155,759,151"/>
+<area shape="rect" id="Node000010" href="$tinyfs_8c.html#a77b63c791d50fdd4b1662c5386553f2c" title="Print listing of all files." alt="" coords="604,205,681,231"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="787,168,728,197,682,212,680,207,726,192,785,163"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="563,113,495,105,495,100,564,108"/>
+<area shape="rect" id="Node000007" href="$shell_8c.html#ad1f95120378d24016c08ebb7a0499bf1" title=" " alt="" coords="364,156,489,182"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="543,172,489,172,489,166,543,166"/>
+<area shape="rect" id="Node000008" href="$shell_8c.html#af32457beee540bea37889869f89c9f2a" title=" " alt="" coords="159,169,295,195"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="349,177,296,180,295,175,348,171"/>
+<area shape="rect" id="Node000009" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,207,111,232"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="151,202,112,210,110,205,150,196"/>
+<area shape="rect" id="Node000011" href="$command_8c.html#a0d2b819a56eb5e1d230f2b3319911612" title=" " alt="" coords="379,205,474,231"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="589,221,475,221,475,216,589,216"/>
+<area shape="rect" id="Node000013" href="$user_8c.html#ad4a4a87d44c5ab5f802107d10ee2f704" title=" " alt="" coords="176,231,278,256"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="764,269,278,248,278,243,764,264"/>
+<area shape="rect" id="Node000014" href="$user_8c.html#a21bf555274641e347c0677cec7e7fc10" title=" " alt="" coords="575,307,710,332"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="765,288,692,309,690,303,764,283"/>
+<area shape="poly" id="edge14_Node000013_Node000009" title=" " alt="" coords="160,237,111,230,112,224,160,231"/>
+<area shape="rect" id="Node000015" href="$command_8c.html#a27bd41460dd4f32c95c9066c180606cc" title="Sets the username of user." alt="" coords="343,307,510,332"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="559,322,511,322,511,317,559,317"/>
+</map>

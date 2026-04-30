@@ -6,8 +6,8 @@
 <area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="88,202,211,111,214,115,91,207"/>
 <area shape="rect" id="Node000012" href="$stdio_8h.html#aaed07ef5e23dd5193105592f06e5bef9" title=" " alt="" coords="220,229,266,254"/>
 <area shape="poly" id="edge18_Node000001_Node000012" title=" " alt="" coords="137,224,205,234,205,239,137,229"/>
-<area shape="rect" id="Node000013" href="$string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="213,278,274,304"/>
-<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="103,229,186,264,199,270,197,275,184,269,101,233"/>
+<area shape="rect" id="Node000013" href="$string_8c.html#ab9142d1fb2783f60e436db3b5c817633" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="200,278,286,304"/>
+<area shape="poly" id="edge19_Node000001_Node000013" title=" " alt="" coords="103,229,186,264,197,269,195,274,184,269,101,233"/>
 <area shape="rect" id="Node000003" href="$ata_8c.html#a3ee6591c28dcff698587364d70cef51f" title="Check if the drive is ready before disk read/write. This uses pooling so it is blocking." alt="" coords="540,27,607,53"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,176,528,58,530,63,275,181"/>
 <area shape="rect" id="Node000006" href="$ata_8c.html#a3cdce3e56f7424649e6c18e60f634506" title="Move HDD head to the correct position on the disk for I/O." alt="" coords="350,179,467,205"/>

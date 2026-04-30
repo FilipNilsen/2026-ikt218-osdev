@@ -67,9 +67,9 @@
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="string_8c.html#a12bee89ccd121c793b3e81305a60c211" target="_top" xlink:title="Finds the length of a string.">
-<polygon fill="white" stroke="#666666" points="157.25,-19.25 117.25,-19.25 117.25,0 157.25,0 157.25,-19.25"/>
-<text text-anchor="middle" x="137.25" y="-5.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlen</text>
+<g id="a_Node000006"><a xlink:href="string_8c.html#a8465f21925e94221c3b92ba73fc7a9b0" target="_top" xlink:title="Finds the length of a string.">
+<polygon fill="white" stroke="#666666" points="164,-19.25 110.5,-19.25 110.5,0 164,0 164,-19.25"/>
+<text text-anchor="middle" x="137.25" y="-5.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlength</text>
 </a>
 </g>
 </g>
@@ -77,8 +77,8 @@
 <g id="edge5_Node000001_Node000006" class="edge">
 <title>Node1&#45;&gt;Node6</title>
 <g id="a_edge5_Node000001_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M64.48,-36.51C77.42,-31.67 92.96,-25.84 106.27,-20.86"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="107.26,-24.22 115.4,-17.44 104.8,-17.67 107.26,-24.22"/>
+<path fill="none" stroke="#63b8ff" d="M64.48,-36.51C75.3,-32.46 87.94,-27.73 99.57,-23.37"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="100.77,-26.66 108.9,-19.87 98.31,-20.1 100.77,-26.66"/>
 </a>
 </g>
 </g>

@@ -128,9 +128,9 @@
 <!-- Node8 -->
 <g id="Node000008" class="node">
 <title>Node8</title>
-<g id="a_Node000008"><a xlink:href="include_2libc_2string_8h.html#a008e171a518fe0e0352f31b245e03875" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="467.5,-318.25 427.5,-318.25 427.5,-299 467.5,-299 467.5,-318.25"/>
-<text text-anchor="middle" x="447.5" y="-304.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlen</text>
+<g id="a_Node000008"><a xlink:href="include_2libc_2string_8h.html#a561da19cf8b8900930b80c3fecfed253" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="474.25,-318.25 420.75,-318.25 420.75,-299 474.25,-299 474.25,-318.25"/>
+<text text-anchor="middle" x="447.5" y="-304.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlength</text>
 </a>
 </g>
 </g>
@@ -183,8 +183,8 @@
 <g id="edge42_Node000010_Node000008" class="edge">
 <title>Node10&#45;&gt;Node8</title>
 <g id="a_edge42_Node000010_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M196.61,-261.73C211.6,-270.67 234.94,-283.26 257,-289.62 311.47,-305.33 377.97,-308.52 415.96,-308.92"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="415.72,-312.42 425.73,-308.95 415.74,-305.42 415.72,-312.42"/>
+<path fill="none" stroke="#63b8ff" d="M196.61,-261.73C211.6,-270.67 234.94,-283.26 257,-289.62 308.28,-304.42 370.23,-308.11 409.01,-308.82"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="408.95,-312.32 418.99,-308.93 409.03,-305.32 408.95,-312.32"/>
 </a>
 </g>
 </g>
@@ -317,7 +317,7 @@
 <!-- Node28 -->
 <g id="Node000028" class="node">
 <title>Node28</title>
-<g id="a_Node000028"><a xlink:href="tinyfs_8c.html#afbe06fbdca99660cc5f5233aa3316343" target="_top" xlink:title="Check that strlen(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL.">
+<g id="a_Node000028"><a xlink:href="tinyfs_8c.html#afbe06fbdca99660cc5f5233aa3316343" target="_top" xlink:title="Check that strlength(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL.">
 <polygon fill="white" stroke="#666666" points="351.38,-280.25 273.12,-280.25 273.12,-261 351.38,-261 351.38,-280.25"/>
 <text text-anchor="middle" x="312.25" y="-266.75" font-family="Helvetica,sans-Serif" font-size="10.00">name_is_valid</text>
 </a>
@@ -642,8 +642,8 @@
 <g id="edge36_Node000028_Node000008" class="edge">
 <title>Node28&#45;&gt;Node8</title>
 <g id="a_edge36_Node000028_Node000008"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M348.61,-280.71C369.62,-286.7 396,-294.22 416.08,-299.95"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="415.05,-303.3 425.63,-302.67 416.97,-296.56 415.05,-303.3"/>
+<path fill="none" stroke="#63b8ff" d="M348.61,-280.71C367.34,-286.05 390.34,-292.61 409.33,-298.03"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="408.25,-301.36 418.83,-300.73 410.17,-294.62 408.25,-301.36"/>
 </a>
 </g>
 </g>

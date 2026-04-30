@@ -265,9 +265,9 @@ var sectionId = 'dynsection-20';
 <!-- Node7 -->
 <g id="Node000007" class="node">
 <title>Node7</title>
-<g id="a_Node000007"><a xlink:href="string_8c.html#a12bee89ccd121c793b3e81305a60c211" target="_top" xlink:title="Finds the length of a string.">
-<polygon fill="white" stroke="#666666" points="465,-320.25 425,-320.25 425,-301 465,-301 465,-320.25"/>
-<text text-anchor="middle" x="445" y="-306.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlen</text>
+<g id="a_Node000007"><a xlink:href="string_8c.html#a8465f21925e94221c3b92ba73fc7a9b0" target="_top" xlink:title="Finds the length of a string.">
+<polygon fill="white" stroke="#666666" points="471.75,-320.25 418.25,-320.25 418.25,-301 471.75,-301 471.75,-320.25"/>
+<text text-anchor="middle" x="445" y="-306.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlength</text>
 </a>
 </g>
 </g>
@@ -275,8 +275,8 @@ var sectionId = 'dynsection-20';
 <g id="edge6_Node000002_Node000007" class="edge">
 <title>Node2&#45;&gt;Node7</title>
 <g id="a_edge6_Node000002_Node000007"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M288.62,-326.05C324.65,-322.47 379.48,-317.03 413.45,-313.66"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="413.42,-317.18 423.03,-312.71 412.73,-310.21 413.42,-317.18"/>
+<path fill="none" stroke="#63b8ff" d="M288.62,-326.05C322.33,-322.7 372.48,-317.73 406.63,-314.34"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="406.87,-317.83 416.48,-313.36 406.18,-310.86 406.87,-317.83"/>
 </a>
 </g>
 </g>
@@ -436,9 +436,9 @@ var sectionId = 'dynsection-20';
 <!-- Node17 -->
 <g id="Node000017" class="node">
 <title>Node17</title>
-<g id="a_Node000017"><a xlink:href="string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" target="_top" xlink:title="Compares two null&#45;terminated strings lexicographically.">
-<polygon fill="white" stroke="#666666" points="608.88,-74.25 562.88,-74.25 562.88,-55 608.88,-55 608.88,-74.25"/>
-<text text-anchor="middle" x="585.88" y="-60.75" font-family="Helvetica,sans-Serif" font-size="10.00">strcmp</text>
+<g id="a_Node000017"><a xlink:href="string_8c.html#ab9142d1fb2783f60e436db3b5c817633" target="_top" xlink:title="Compares two null&#45;terminated strings lexicographically.">
+<polygon fill="white" stroke="#666666" points="618.25,-74.25 553.5,-74.25 553.5,-55 618.25,-55 618.25,-74.25"/>
+<text text-anchor="middle" x="585.88" y="-60.75" font-family="Helvetica,sans-Serif" font-size="10.00">strcompare</text>
 </a>
 </g>
 </g>
@@ -446,8 +446,8 @@ var sectionId = 'dynsection-20';
 <g id="edge17_Node000016_Node000017" class="edge">
 <title>Node16&#45;&gt;Node17</title>
 <g id="a_edge17_Node000016_Node000017"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M491.47,-64.62C510.98,-64.62 533.36,-64.62 551.32,-64.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="551.17,-68.13 561.17,-64.63 551.17,-61.13 551.17,-68.13"/>
+<path fill="none" stroke="#63b8ff" d="M491.47,-64.62C507.77,-64.62 526.07,-64.62 542.13,-64.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="541.85,-68.13 551.85,-64.63 541.85,-61.13 541.85,-68.13"/>
 </a>
 </g>
 </g>

@@ -175,9 +175,9 @@ var sectionId = 'dynsection-10';
 <!-- Node6 -->
 <g id="Node000006" class="node">
 <title>Node6</title>
-<g id="a_Node000006"><a xlink:href="include_2libc_2string_8h.html#a008e171a518fe0e0352f31b245e03875" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="749.75,-472.25 709.75,-472.25 709.75,-453 749.75,-453 749.75,-472.25"/>
-<text text-anchor="middle" x="729.75" y="-458.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlen</text>
+<g id="a_Node000006"><a xlink:href="include_2libc_2string_8h.html#a561da19cf8b8900930b80c3fecfed253" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="756.5,-472.25 703,-472.25 703,-453 756.5,-453 756.5,-472.25"/>
+<text text-anchor="middle" x="729.75" y="-458.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlength</text>
 </a>
 </g>
 </g>
@@ -185,8 +185,8 @@ var sectionId = 'dynsection-10';
 <g id="edge5_Node000005_Node000006" class="edge">
 <title>Node5&#45;&gt;Node6</title>
 <g id="a_edge5_Node000005_Node000006"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M634.62,-462.62C656.19,-462.62 679.76,-462.62 697.91,-462.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="697.75,-466.13 707.75,-462.63 697.75,-459.13 697.75,-466.13"/>
+<path fill="none" stroke="#63b8ff" d="M634.62,-462.62C653.76,-462.62 674.48,-462.62 691.59,-462.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="691.28,-466.13 701.28,-462.63 691.28,-459.13 691.28,-466.13"/>
 </a>
 </g>
 </g>
@@ -463,9 +463,9 @@ var sectionId = 'dynsection-10';
 <!-- Node19 -->
 <g id="Node000019" class="node">
 <title>Node19</title>
-<g id="a_Node000019"><a xlink:href="string_8c.html#a12bee89ccd121c793b3e81305a60c211" target="_top" xlink:title="Finds the length of a string.">
-<polygon fill="white" stroke="#666666" points="595,-19.25 555,-19.25 555,0 595,0 595,-19.25"/>
-<text text-anchor="middle" x="575" y="-5.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlen</text>
+<g id="a_Node000019"><a xlink:href="string_8c.html#a8465f21925e94221c3b92ba73fc7a9b0" target="_top" xlink:title="Finds the length of a string.">
+<polygon fill="white" stroke="#666666" points="601.75,-19.25 548.25,-19.25 548.25,0 601.75,0 601.75,-19.25"/>
+<text text-anchor="middle" x="575" y="-5.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlength</text>
 </a>
 </g>
 </g>
@@ -473,8 +473,8 @@ var sectionId = 'dynsection-10';
 <g id="edge18_Node000014_Node000019" class="edge">
 <title>Node14&#45;&gt;Node19</title>
 <g id="a_edge18_Node000014_Node000019"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M418.62,-40.48C454.65,-33.32 509.48,-22.44 543.45,-15.69"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="543.92,-19.17 553.05,-13.78 542.56,-12.3 543.92,-19.17"/>
+<path fill="none" stroke="#63b8ff" d="M418.62,-40.48C452.47,-33.76 502.92,-23.74 537.08,-16.96"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="537.37,-20.47 546.5,-15.09 536.01,-13.6 537.37,-20.47"/>
 </a>
 </g>
 </g>
@@ -607,9 +607,9 @@ var sectionId = 'dynsection-10';
 <!-- Node26 -->
 <g id="Node000026" class="node">
 <title>Node26</title>
-<g id="a_Node000026"><a xlink:href="string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" target="_top" xlink:title="Compares two null&#45;terminated strings lexicographically.">
-<polygon fill="white" stroke="#666666" points="752.75,-169.25 706.75,-169.25 706.75,-150 752.75,-150 752.75,-169.25"/>
-<text text-anchor="middle" x="729.75" y="-155.75" font-family="Helvetica,sans-Serif" font-size="10.00">strcmp</text>
+<g id="a_Node000026"><a xlink:href="string_8c.html#ab9142d1fb2783f60e436db3b5c817633" target="_top" xlink:title="Compares two null&#45;terminated strings lexicographically.">
+<polygon fill="white" stroke="#666666" points="762.12,-169.25 697.38,-169.25 697.38,-150 762.12,-150 762.12,-169.25"/>
+<text text-anchor="middle" x="729.75" y="-155.75" font-family="Helvetica,sans-Serif" font-size="10.00">strcompare</text>
 </a>
 </g>
 </g>
@@ -617,8 +617,8 @@ var sectionId = 'dynsection-10';
 <g id="edge28_Node000025_Node000026" class="edge">
 <title>Node25&#45;&gt;Node26</title>
 <g id="a_edge28_Node000025_Node000026"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M621.42,-159.62C645.16,-159.62 673.71,-159.62 695.4,-159.62"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="695.15,-163.13 705.15,-159.63 695.15,-156.13 695.15,-163.13"/>
+<path fill="none" stroke="#63b8ff" d="M621.42,-159.62C641.85,-159.62 665.85,-159.62 685.97,-159.62"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="685.79,-163.13 695.79,-159.63 685.79,-156.13 685.79,-163.13"/>
 </a>
 </g>
 </g>

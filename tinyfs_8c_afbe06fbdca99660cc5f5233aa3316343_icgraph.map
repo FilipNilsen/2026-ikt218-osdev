@@ -1,5 +1,5 @@
 <map id="name_is_valid" name="name_is_valid">
-<area shape="rect" id="Node000001" title="Check that strlen(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL." alt="" coords="348,5,452,31"/>
+<area shape="rect" id="Node000001" title="Check that strlength(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL." alt="" coords="348,5,452,31"/>
 <area shape="rect" id="Node000002" href="$tinyfs_8c.html#ae26fdd4b4ebf314bcab656ac4616bff7" title="Write to a file." alt="" coords="190,5,300,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,21,300,21,300,16,333,16"/>
 <area shape="rect" id="Node000003" href="$command_8c.html#adbcf4ce21e295dea9b7805e697adec68" title=" " alt="" coords="5,5,142,31"/>

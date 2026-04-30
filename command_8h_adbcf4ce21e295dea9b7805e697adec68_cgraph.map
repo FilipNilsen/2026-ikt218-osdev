@@ -12,13 +12,13 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,38,332,28,333,34,267,43"/>
 <area shape="rect" id="Node000005" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="392,55,451,80"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="292,102,376,78,378,83,293,107"/>
-<area shape="rect" id="Node000008" href="$include_2libc_2string_8h.html#a008e171a518fe0e0352f31b245e03875" title=" " alt="" coords="575,305,629,331"/>
+<area shape="rect" id="Node000008" href="$include_2libc_2string_8h.html#a561da19cf8b8900930b80c3fecfed253" title=" " alt="" coords="566,305,638,331"/>
 <area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="300,108,345,106,396,109,448,119,497,141,533,173,562,213,582,254,595,289,590,291,577,256,557,216,529,177,494,146,447,124,395,114,345,111,300,113"/>
 <area shape="rect" id="Node000006" href="$heap_8c.html#a401aaf24b99f6928ef5b161a6ad97c38" title=" " alt="" coords="567,31,637,56"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="452,61,552,47,552,53,452,66"/>
 <area shape="rect" id="Node000007" href="$heap_8c.html#a18e1cd07c4b070ddb71e7ee3044e55ab" title=" " alt="" coords="560,80,644,106"/>
 <area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="452,69,545,82,544,88,452,74"/>
-<area shape="poly" id="edge42_Node000010_Node000008" title=" " alt="" coords="266,378,303,358,347,341,404,328,462,320,560,315,560,320,462,326,405,333,349,346,305,363,269,383"/>
+<area shape="poly" id="edge42_Node000010_Node000008" title=" " alt="" coords="266,378,303,358,347,341,401,329,455,321,551,315,551,321,456,326,402,334,349,346,305,363,269,383"/>
 <area shape="rect" id="Node000011" href="$ata_8c.html#a9269a9d234a698467e3a1a12c6cb5527" title="Write to a disk sector." alt="" coords="543,457,661,483"/>
 <area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="301,402,496,442,533,451,531,456,495,447,300,407"/>
 <area shape="rect" id="Node000019" href="$tinyfs_8c.html#a3e999fd746cecdbdd3a63f7812b674cf" title="Fills a buffer with NULL." alt="" coords="378,655,466,680"/>
@@ -33,7 +33,7 @@
 <area shape="poly" id="edge32_Node000010_Node000026" title=" " alt="" coords="288,405,302,416,314,433,321,450,326,482,331,513,337,528,350,543,352,545,349,549,346,547,333,531,325,514,321,483,316,451,310,436,298,420,285,410"/>
 <area shape="rect" id="Node000027" href="$tinyfs_8c.html#a36a188a21b7ed2a2629f9d2d5ae8b368" title="Copies source to destination so that destination is TINYFS_NAME_LENGTH." alt="" coords="378,205,465,231"/>
 <area shape="poly" id="edge34_Node000010_Node000027" title=" " alt="" coords="249,380,283,314,311,274,346,240,362,231,365,235,350,244,315,278,288,316,254,382"/>
-<area shape="rect" id="Node000028" href="$tinyfs_8c.html#afbe06fbdca99660cc5f5233aa3316343" title="Check that strlen(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL." alt="" coords="370,356,474,382"/>
+<area shape="rect" id="Node000028" href="$tinyfs_8c.html#afbe06fbdca99660cc5f5233aa3316343" title="Check that strlength(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL." alt="" coords="370,356,474,382"/>
 <area shape="poly" id="edge35_Node000010_Node000028" title=" " alt="" coords="300,384,354,376,354,381,301,389"/>
 <area shape="rect" id="Node000029" href="$tinyfs_8c.html#a388c099fde85a34a27ea72be7f86b077" title="Save the file table." alt="" coords="368,457,475,483"/>
 <area shape="poly" id="edge37_Node000010_Node000029" title=" " alt="" coords="278,405,377,448,375,453,276,410"/>
@@ -69,7 +69,7 @@
 <area shape="rect" id="Node000025" href="$io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe" title="Read word from io port." alt="" coords="747,683,788,708"/>
 <area shape="poly" id="edge30_Node000024_Node000025" title=" " alt="" coords="629,617,734,675,732,680,626,622"/>
 <area shape="poly" id="edge33_Node000026_Node000024" title=" " alt="" coords="480,578,530,589,529,594,479,583"/>
-<area shape="poly" id="edge36_Node000028_Node000008" title=" " alt="" coords="469,353,559,327,561,332,471,358"/>
+<area shape="poly" id="edge36_Node000028_Node000008" title=" " alt="" coords="469,353,550,330,552,335,471,358"/>
 <area shape="poly" id="edge38_Node000029_Node000011" title=" " alt="" coords="476,468,528,468,528,473,476,473"/>
 <area shape="poly" id="edge40_Node000030_Node000011" title=" " alt="" coords="471,503,537,485,538,490,472,509"/>
 </map>

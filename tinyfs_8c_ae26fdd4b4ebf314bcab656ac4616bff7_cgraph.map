@@ -14,10 +14,10 @@
 <area shape="poly" id="edge23_Node000001_Node000017" title=" " alt="" coords="86,314,163,277,175,272,177,277,165,282,88,319"/>
 <area shape="rect" id="Node000018" href="$tinyfs_8c.html#a36a188a21b7ed2a2629f9d2d5ae8b368" title="Copies source to destination so that destination is TINYFS_NAME_LENGTH." alt="" coords="185,440,272,466"/>
 <area shape="poly" id="edge25_Node000001_Node000018" title=" " alt="" coords="74,342,112,383,137,406,165,427,173,431,170,436,162,431,134,410,108,387,70,345"/>
-<area shape="rect" id="Node000019" href="$tinyfs_8c.html#afbe06fbdca99660cc5f5233aa3316343" title="Check that strlen(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL." alt="" coords="177,541,281,567"/>
+<area shape="rect" id="Node000019" href="$tinyfs_8c.html#afbe06fbdca99660cc5f5233aa3316343" title="Check that strlength(name) fits inside TINYFS_NAME_LENGTH and that it&#39;s not NULL or starts with NULL." alt="" coords="177,541,281,567"/>
 <area shape="poly" id="edge26_Node000001_Node000019" title=" " alt="" coords="68,343,80,377,100,424,129,475,166,520,180,531,176,535,162,524,124,478,96,426,75,379,63,344"/>
-<area shape="rect" id="Node000020" href="$include_2libc_2string_8h.html#a008e171a518fe0e0352f31b245e03875" title=" " alt="" coords="374,516,427,542"/>
-<area shape="poly" id="edge33_Node000001_Node000020" title=" " alt="" coords="69,342,82,371,103,407,130,445,165,476,213,500,265,515,316,523,359,526,359,532,315,529,264,520,211,505,162,480,126,448,98,410,77,373,64,344"/>
+<area shape="rect" id="Node000020" href="$include_2libc_2string_8h.html#a561da19cf8b8900930b80c3fecfed253" title=" " alt="" coords="365,516,436,542"/>
+<area shape="poly" id="edge33_Node000001_Node000020" title=" " alt="" coords="69,342,82,371,103,407,130,445,165,476,210,499,259,514,308,522,350,526,350,531,307,528,258,519,208,504,162,480,126,448,98,410,77,373,64,344"/>
 <area shape="rect" id="Node000021" href="$tinyfs_8c.html#a388c099fde85a34a27ea72be7f86b077" title="Save the file table." alt="" coords="175,95,282,120"/>
 <area shape="poly" id="edge28_Node000001_Node000021" title=" " alt="" coords="62,316,73,280,93,230,122,177,141,152,162,130,165,127,169,131,165,133,145,155,127,180,98,232,78,282,68,318"/>
 <area shape="rect" id="Node000022" href="$tinyfs_8c.html#a8e2c7effb98a8ade7ea557c2f4f3bee7" title="Write superblock to disk." alt="" coords="169,144,288,170"/>
@@ -52,7 +52,7 @@
 <area shape="rect" id="Node000016" href="$io_8h.html#ab2f39bde7b2e87793f55352c72d07ebe" title="Read word from io port." alt="" coords="545,309,587,335"/>
 <area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="428,244,533,302,530,306,425,249"/>
 <area shape="poly" id="edge24_Node000017_Node000015" title=" " alt="" coords="287,245,327,240,328,245,287,251"/>
-<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="281,544,358,532,359,538,282,549"/>
+<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="281,544,349,534,350,539,282,549"/>
 <area shape="poly" id="edge29_Node000021_Node000002" title=" " alt="" coords="283,105,326,105,326,110,283,110"/>
 <area shape="poly" id="edge31_Node000022_Node000002" title=" " alt="" coords="276,141,338,123,339,128,277,146"/>
 </map>

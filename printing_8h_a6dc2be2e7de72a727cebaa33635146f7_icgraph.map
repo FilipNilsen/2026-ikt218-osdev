@@ -1,7 +1,5 @@
 <map id="write_text_at" name="write_text_at">
-<area shape="rect" id="Node000001" title="Writes text at a specific location in the &quot;terminal&quot;." alt="" coords="194,31,289,56"/>
-<area shape="rect" id="Node000002" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="23,5,128,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,37,128,29,129,24,178,31"/>
-<area shape="rect" id="Node000003" href="$heap_8c.html#a8af2aede2167f6e7a71604c3545910a6" title="Prints the kernel end, heap start, and heap end addresses to VGA." alt="" coords="5,55,146,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,55,146,60,146,55,178,50"/>
+<area shape="rect" id="Node000001" title="Writes text at a specific location in the &quot;terminal&quot;." alt="" coords="194,5,289,31"/>
+<area shape="rect" id="Node000002" href="$heap_8c.html#a8af2aede2167f6e7a71604c3545910a6" title="Prints the kernel end, heap start, and heap end addresses to VGA." alt="" coords="5,5,146,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,21,146,21,146,16,178,16"/>
 </map>

@@ -74,9 +74,9 @@
 <!-- Node13 -->
 <g id="Node000013" class="node">
 <title>Node13</title>
-<g id="a_Node000013"><a xlink:href="string_8c.html#a3ea408adfb4c8bab4a00adf0d9af1ae5" target="_top" xlink:title="Compares two null&#45;terminated strings lexicographically.">
-<polygon fill="white" stroke="#666666" points="201.5,-21.25 155.5,-21.25 155.5,-2 201.5,-2 201.5,-21.25"/>
-<text text-anchor="middle" x="178.5" y="-7.75" font-family="Helvetica,sans-Serif" font-size="10.00">strcmp</text>
+<g id="a_Node000013"><a xlink:href="string_8c.html#ab9142d1fb2783f60e436db3b5c817633" target="_top" xlink:title="Compares two null&#45;terminated strings lexicographically.">
+<polygon fill="white" stroke="#666666" points="210.87,-21.25 146.12,-21.25 146.12,-2 210.87,-2 210.87,-21.25"/>
+<text text-anchor="middle" x="178.5" y="-7.75" font-family="Helvetica,sans-Serif" font-size="10.00">strcompare</text>
 </a>
 </g>
 </g>
@@ -84,8 +84,8 @@
 <g id="edge19_Node000001_Node000013" class="edge">
 <title>Node1&#45;&gt;Node13</title>
 <g id="a_edge19_Node000001_Node000013"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M72.73,-56.62C89.68,-49.12 113.5,-38.63 134.5,-29.62 137.85,-28.19 141.35,-26.7 144.84,-25.23"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="145.89,-28.58 153.76,-21.48 143.18,-22.13 145.89,-28.58"/>
+<path fill="none" stroke="#63b8ff" d="M72.73,-56.62C89.68,-49.12 113.5,-38.63 134.5,-29.62 137.26,-28.44 140.13,-27.22 143.01,-26"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="144.11,-29.34 151.97,-22.23 141.39,-22.88 144.11,-29.34"/>
 </a>
 </g>
 </g>

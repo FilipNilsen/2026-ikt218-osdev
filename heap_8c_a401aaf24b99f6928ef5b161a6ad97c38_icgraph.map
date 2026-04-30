@@ -1,42 +1,41 @@
 <map id="align_up" name="align_up">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1008,283,1078,308"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1008,257,1078,283"/>
 <area shape="rect" id="Node000002" href="$heap_8c.html#a0b8c32cfeebf801eb3aa7c54fc614d3c" title="Initializes the kernel heap at the first aligned address after kernel_end." alt="" coords="160,5,294,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1030,269,1002,200,980,159,954,118,923,81,887,50,845,29,823,23,800,21,610,21,294,21,294,16,610,16,800,16,824,18,847,24,890,45,927,77,958,115,985,157,1007,198,1035,267"/>
-<area shape="rect" id="Node000004" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="901,283,960,308"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="993,298,961,298,961,293,993,293"/>
-<area shape="rect" id="Node000016" href="$heap_8c.html#a14a1a8560e28deb3eb70cad2265bebfa" title="Allocates memory and returns a page&#45;aligned pointer." alt="" coords="765,381,832,407"/>
-<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="996,317,833,384,831,379,994,312"/>
-<area shape="rect" id="Node000003" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,81,111,107"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,40,89,83,87,78,181,35"/>
-<area shape="poly" id="edge18_Node000004_Node000003" title=" " alt="" coords="910,272,864,216,833,183,796,150,755,119,710,94,663,78,613,71,410,71,246,78,111,91,111,85,246,73,410,66,613,66,664,72,713,90,758,115,799,146,836,179,868,212,914,269"/>
-<area shape="rect" id="Node000005" href="$string_8c.html#a6c1819f2460f96a82d3be06a279e9bfa" title="Adds a number to a string by using &#39;d&#39; as placeholder." alt="" coords="750,233,847,259"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="886,282,834,262,836,257,887,277"/>
-<area shape="rect" id="Node000014" href="$command_8c.html#ab75f27674de8fd501f9e1e52ecbf5a75" title=" " alt="" coords="744,283,853,308"/>
-<area shape="poly" id="edge16_Node000004_Node000014" title=" " alt="" coords="885,298,853,298,853,293,885,293"/>
-<area shape="poly" id="edge19_Node000004_Node000016" title=" " alt="" coords="911,321,885,347,854,372,833,384,830,380,852,368,882,343,907,318"/>
-<area shape="rect" id="Node000017" href="$tinyfs_8c.html#ab2840479eb353b6c88b0588bc2379b78" title="Read a file." alt="" coords="745,332,852,358"/>
-<area shape="poly" id="edge20_Node000004_Node000017" title=" " alt="" coords="887,314,836,334,834,329,886,309"/>
-<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="778,222,743,182,720,162,695,147,646,131,579,119,414,104,244,98,111,96,111,91,244,92,415,99,580,114,647,126,697,142,723,158,746,178,782,219"/>
-<area shape="rect" id="Node000006" href="$command_8c.html#af2fe2eafdf47889f4dd3fdda65a6f558" title="Displays memory info." alt="" coords="544,157,679,183"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="752,229,695,205,647,186,649,181,697,200,754,224"/>
-<area shape="rect" id="Node000007" href="$command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="343,220,479,246"/>
-<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="734,247,480,238,480,233,734,241"/>
-<area shape="rect" id="Node000008" href="$command_8c.html#a3c36856f25ef0ec4115e0a3cd9922576" title=" " alt="" coords="548,259,675,284"/>
-<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="735,257,676,265,675,260,734,252"/>
-<area shape="rect" id="Node000009" href="$shell_8c.html#a1dadf2da65cbd79e31c2307cf31aa495" title=" " alt="" coords="527,308,696,334"/>
-<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="754,268,745,273,721,286,697,299,667,310,665,305,695,294,719,282,742,268,751,263"/>
-<area shape="rect" id="Node000012" href="$tinyfs_8c.html#a77b63c791d50fdd4b1662c5386553f2c" title="Print listing of all files." alt="" coords="573,357,650,383"/>
-<area shape="poly" id="edge14_Node000005_Node000012" title=" " alt="" coords="749,270,746,272,730,291,723,310,715,329,697,348,675,361,651,368,649,363,673,356,694,344,710,326,718,308,726,288,742,268,745,265"/>
-<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="532,259,479,249,480,243,533,254"/>
-<area shape="rect" id="Node000010" href="$shell_8c.html#ad1f95120378d24016c08ebb7a0499bf1" title=" " alt="" coords="348,295,474,320"/>
-<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="512,317,474,314,474,309,512,312"/>
-<area shape="rect" id="Node000011" href="$shell_8c.html#af32457beee540bea37889869f89c9f2a" title=" " alt="" coords="159,220,295,246"/>
-<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="362,291,260,249,262,244,364,286"/>
-<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="196,212,74,110,77,106,200,208"/>
-<area shape="rect" id="Node000013" href="$command_8c.html#a0d2b819a56eb5e1d230f2b3319911612" title=" " alt="" coords="364,357,459,383"/>
-<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="558,373,459,373,459,368,558,368"/>
-<area shape="rect" id="Node000015" href="$command_8c.html#adbcf4ce21e295dea9b7805e697adec68" title=" " alt="" coords="543,407,680,432"/>
-<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="749,319,746,321,730,340,723,359,715,379,697,398,678,408,676,404,694,393,710,376,718,357,726,338,742,318,745,315"/>
-<area shape="rect" id="Node000018" href="$command_8c.html#a48bd81771f1d749da03d8d4594541a2e" title=" " alt="" coords="560,456,663,482"/>
-<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="749,368,746,371,730,390,723,409,715,428,697,447,665,463,663,458,694,443,710,425,718,407,726,387,742,367,745,364"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1029,244,998,182,976,145,949,108,918,74,883,46,843,28,799,21,610,21,294,21,294,16,610,16,800,16,845,23,885,42,922,70,953,104,980,142,1003,179,1033,242"/>
+<area shape="rect" id="Node000004" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="901,257,960,283"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="993,273,961,273,961,268,993,268"/>
+<area shape="rect" id="Node000016" href="$heap_8c.html#a14a1a8560e28deb3eb70cad2265bebfa" title="Allocates memory and returns a page&#45;aligned pointer." alt="" coords="765,356,832,382"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="996,292,833,358,831,353,994,287"/>
+<area shape="rect" id="Node000003" href="$kernel_8c.html#aa2940097a0b9c33a8051af19d4b4c07e" title=" " alt="" coords="5,56,111,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="168,38,104,58,102,53,166,33"/>
+<area shape="poly" id="edge17_Node000004_Node000003" title=" " alt="" coords="907,247,860,197,791,139,750,113,707,91,661,77,613,71,410,72,111,72,111,66,410,66,613,66,662,72,709,86,753,108,794,135,864,193,911,244"/>
+<area shape="rect" id="Node000005" href="$string_8c.html#a6c1819f2460f96a82d3be06a279e9bfa" title="Adds a number to a string by using &#39;d&#39; as placeholder." alt="" coords="750,208,847,234"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="886,256,834,237,836,232,887,251"/>
+<area shape="rect" id="Node000014" href="$command_8c.html#ab75f27674de8fd501f9e1e52ecbf5a75" title=" " alt="" coords="744,257,853,283"/>
+<area shape="poly" id="edge15_Node000004_Node000014" title=" " alt="" coords="885,273,853,273,853,268,885,268"/>
+<area shape="poly" id="edge18_Node000004_Node000016" title=" " alt="" coords="911,296,885,322,854,347,833,359,830,354,852,343,882,318,907,292"/>
+<area shape="rect" id="Node000017" href="$tinyfs_8c.html#ab2840479eb353b6c88b0588bc2379b78" title="Read a file." alt="" coords="745,307,852,332"/>
+<area shape="poly" id="edge19_Node000004_Node000017" title=" " alt="" coords="887,289,836,309,834,304,886,284"/>
+<area shape="rect" id="Node000006" href="$command_8c.html#af2fe2eafdf47889f4dd3fdda65a6f558" title="Displays memory info." alt="" coords="544,107,679,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="767,201,694,154,652,135,654,131,697,149,770,196"/>
+<area shape="rect" id="Node000007" href="$command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="343,169,479,195"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="736,206,695,198,582,187,480,184,480,179,582,182,696,193,737,201"/>
+<area shape="rect" id="Node000008" href="$command_8c.html#a3c36856f25ef0ec4115e0a3cd9922576" title=" " alt="" coords="548,208,675,234"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="734,224,676,224,676,218,734,218"/>
+<area shape="rect" id="Node000009" href="$shell_8c.html#a1dadf2da65cbd79e31c2307cf31aa495" title=" " alt="" coords="527,257,696,283"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="735,240,664,259,662,254,734,235"/>
+<area shape="rect" id="Node000012" href="$tinyfs_8c.html#a77b63c791d50fdd4b1662c5386553f2c" title="Print listing of all files." alt="" coords="573,307,650,332"/>
+<area shape="poly" id="edge13_Node000005_Node000012" title=" " alt="" coords="751,243,745,247,731,260,722,272,713,285,697,298,674,309,651,316,649,311,672,304,694,293,709,281,718,269,727,256,742,243,748,239"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="532,208,479,198,480,193,533,203"/>
+<area shape="rect" id="Node000010" href="$shell_8c.html#ad1f95120378d24016c08ebb7a0499bf1" title=" " alt="" coords="348,244,474,270"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="512,266,474,264,474,258,512,261"/>
+<area shape="rect" id="Node000011" href="$shell_8c.html#af32457beee540bea37889869f89c9f2a" title=" " alt="" coords="159,169,295,195"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="362,240,260,198,262,193,364,235"/>
+<area shape="poly" id="edge12_Node000011_Node000003" title=" " alt="" coords="192,162,78,84,81,80,195,158"/>
+<area shape="rect" id="Node000013" href="$command_8c.html#a0d2b819a56eb5e1d230f2b3319911612" title=" " alt="" coords="364,307,459,332"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="558,322,459,322,459,317,558,317"/>
+<area shape="rect" id="Node000015" href="$command_8c.html#adbcf4ce21e295dea9b7805e697adec68" title=" " alt="" coords="543,356,680,382"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="751,293,745,296,731,309,722,322,713,334,697,347,674,358,672,353,694,343,709,331,718,319,727,306,742,292,748,288"/>
+<area shape="rect" id="Node000018" href="$command_8c.html#a48bd81771f1d749da03d8d4594541a2e" title=" " alt="" coords="560,405,663,431"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="751,342,745,346,731,358,722,371,713,384,697,396,665,410,663,406,694,392,709,380,718,368,727,355,742,341,748,338"/>
 </map>

@@ -107,7 +107,7 @@ Functions</h2></td></tr>
 <tr class="memitem:a918290a70cd7b968eeb46f7e01db5b01" id="r_a918290a70cd7b968eeb46f7e01db5b01"><td class="memItemLeft">static <a class="el" href="stdint_8h.html#aa343fa3b3d06292b959ffdd4c4703b06">int16_t</a>&#160;</td><td class="memItemRight"><a class="el" href="#a918290a70cd7b968eeb46f7e01db5b01">name_compare</a> (const char left[], const char right[])</td></tr>
 <tr class="memdesc:a918290a70cd7b968eeb46f7e01db5b01"><td class="mdescLeft">&#160;</td><td class="mdescRight">Compares two strings.  <br /></td></tr>
 <tr class="memitem:afbe06fbdca99660cc5f5233aa3316343" id="r_afbe06fbdca99660cc5f5233aa3316343"><td class="memItemLeft">static <a class="el" href="stdbool_8h.html#abb452686968e48b67397da5f97445f5b">bool</a>&#160;</td><td class="memItemRight"><a class="el" href="#afbe06fbdca99660cc5f5233aa3316343">name_is_valid</a> (const char name[])</td></tr>
-<tr class="memdesc:afbe06fbdca99660cc5f5233aa3316343"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check that strlen(name) fits inside TINYFS_NAME_LENGTH and that it's not NULL or starts with NULL.  <br /></td></tr>
+<tr class="memdesc:afbe06fbdca99660cc5f5233aa3316343"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check that strlength(name) fits inside TINYFS_NAME_LENGTH and that it's not NULL or starts with NULL.  <br /></td></tr>
 <tr class="memitem:a36a188a21b7ed2a2629f9d2d5ae8b368" id="r_a36a188a21b7ed2a2629f9d2d5ae8b368"><td class="memItemLeft">static void&#160;</td><td class="memItemRight"><a class="el" href="#a36a188a21b7ed2a2629f9d2d5ae8b368">name_copy</a> (char destination[<a class="el" href="tinyfs_8h.html#ad36101dc808aa9db873c49040dae0e8d">TINYFS_NAME_LENGTH</a>], const char source[])</td></tr>
 <tr class="memdesc:a36a188a21b7ed2a2629f9d2d5ae8b368"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copies source to destination so that destination is TINYFS_NAME_LENGTH.  <br /></td></tr>
 <tr class="memitem:a8d231e3f6b4048e217067f21e7380f59" id="r_a8d231e3f6b4048e217067f21e7380f59"><td class="memItemLeft">static <a class="el" href="stdint_8h.html#a09374b99ea70da90cc4f23c9bf9c3160">uint32_t</a>&#160;</td><td class="memItemRight"><a class="el" href="#a8d231e3f6b4048e217067f21e7380f59">sectors_for_size</a> (<a class="el" href="stdint_8h.html#a09374b99ea70da90cc4f23c9bf9c3160">uint32_t</a> size_bytes)</td></tr>
@@ -486,14 +486,14 @@ Here is the caller graph for this function:</div>
 </table>
 </div><div class="memdoc">
 
-<p>Check that strlen(name) fits inside TINYFS_NAME_LENGTH and that it's not NULL or starts with NULL. </p>
+<p>Check that strlength(name) fits inside TINYFS_NAME_LENGTH and that it's not NULL or starts with NULL. </p>
 <dl class="section return"><dt>Returns</dt><dd>true if the check passes </dd></dl>
 
 <p class="definition">Definition at line <a class="el" href="tinyfs_8c_source.html#l00042">42</a> of file <a class="el" href="tinyfs_8c_source.html">tinyfs.c</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><iframe scrolling="no" loading="lazy" frameborder="0" src="tinyfs_8c_afbe06fbdca99660cc5f5233aa3316343_cgraph.svg" width="216" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" loading="lazy" frameborder="0" src="tinyfs_8c_afbe06fbdca99660cc5f5233aa3316343_cgraph.svg" width="235" height="36"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>

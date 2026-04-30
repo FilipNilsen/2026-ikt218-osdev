@@ -1,7 +1,7 @@
 <map id="get_shell_prompt_width" name="get_shell_prompt_width">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,31,164,56"/>
-<area shape="rect" id="Node000002" href="$include_2libc_2string_8h.html#a008e171a518fe0e0352f31b245e03875" title=" " alt="" coords="253,5,306,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,31,237,21,237,26,164,36"/>
+<area shape="rect" id="Node000002" href="$include_2libc_2string_8h.html#a561da19cf8b8900930b80c3fecfed253" title=" " alt="" coords="244,5,315,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,31,228,22,229,27,164,36"/>
 <area shape="rect" id="Node000003" href="$user_8c.html#a9becccc1c11c8b560cc289c85fa77a25" title=" " alt="" coords="212,55,347,80"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,51,197,55,196,60,164,56"/>
 </map>

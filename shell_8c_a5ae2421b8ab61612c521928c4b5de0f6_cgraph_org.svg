@@ -74,9 +74,9 @@
 <!-- Node5 -->
 <g id="Node000005" class="node">
 <title>Node5</title>
-<g id="a_Node000005"><a xlink:href="include_2libc_2string_8h.html#a008e171a518fe0e0352f31b245e03875" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="#666666" points="506.5,-56.25 466.5,-56.25 466.5,-37 506.5,-37 506.5,-56.25"/>
-<text text-anchor="middle" x="486.5" y="-42.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlen</text>
+<g id="a_Node000005"><a xlink:href="include_2libc_2string_8h.html#a561da19cf8b8900930b80c3fecfed253" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="#666666" points="513.25,-56.25 459.75,-56.25 459.75,-37 513.25,-37 513.25,-56.25"/>
+<text text-anchor="middle" x="486.5" y="-42.75" font-family="Helvetica,sans-Serif" font-size="10.00">strlength</text>
 </a>
 </g>
 </g>
@@ -84,8 +84,8 @@
 <g id="edge4_Node000004_Node000005" class="edge">
 <title>Node4&#45;&gt;Node5</title>
 <g id="a_edge4_Node000004_Node000005"><a xlink:title=" ">
-<path fill="none" stroke="#63b8ff" d="M400,-35.35C418.75,-37.83 438.77,-40.46 454.71,-42.57"/>
-<polygon fill="#63b8ff" stroke="#63b8ff" points="454.15,-46.02 464.52,-43.86 455.07,-39.08 454.15,-46.02"/>
+<path fill="none" stroke="#63b8ff" d="M400,-35.35C416.35,-37.51 433.67,-39.79 448.41,-41.74"/>
+<polygon fill="#63b8ff" stroke="#63b8ff" points="447.74,-45.18 458.11,-43.01 448.65,-38.24 447.74,-45.18"/>
 </a>
 </g>
 </g>

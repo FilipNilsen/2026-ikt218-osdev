@@ -1,13 +1,13 @@
-<map id="strcmp" name="strcmp">
-<area shape="rect" id="Node000001" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="1068,80,1130,106"/>
+<map id="strcompare" name="strcompare">
+<area shape="rect" id="Node000001" title="Compares two null&#45;terminated strings lexicographically." alt="" coords="1068,80,1155,106"/>
 <area shape="rect" id="Node000002" href="$command_8c.html#a476f1dbae03962cd0dadc2ec41bddf17" title=" " alt="" coords="886,5,1018,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1066,73,1019,45,994,34,997,29,1022,40,1069,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1075,74,1019,45,993,34,995,29,1021,40,1077,69"/>
 <area shape="rect" id="Node000003" href="$command_8c.html#a914fc042948ecb40e1d8e29e033f50d4" title="Displays all commands." alt="" coords="898,55,1007,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1052,88,1007,80,1008,74,1053,82"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1052,86,1007,79,1008,74,1053,81"/>
 <area shape="rect" id="Node000004" href="$command_8c.html#afe7791ec19d420e0465fbc533ebb382e" title="Plays a song." alt="" coords="884,104,1020,130"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1053,103,1021,108,1020,103,1052,98"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1053,104,1021,109,1020,104,1053,99"/>
 <area shape="rect" id="Node000005" href="$command_8c.html#a5b83f2a7adb63823be746312c4851941" title="Dispatches command to the correct handler." alt="" coords="890,153,1014,179"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1068,117,1022,145,996,155,994,150,1019,140,1066,112"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1077,116,1021,145,995,155,993,150,1019,140,1074,111"/>
 <area shape="rect" id="Node000006" href="$command_8c.html#a7a9997820f8c324cee6561dd49b8dd71" title="Parses and runs a command." alt="" coords="733,153,836,179"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="875,169,836,169,836,164,875,164"/>
 <area shape="rect" id="Node000007" href="$shell_8c.html#a1dadf2da65cbd79e31c2307cf31aa495" title=" " alt="" coords="516,153,685,179"/>

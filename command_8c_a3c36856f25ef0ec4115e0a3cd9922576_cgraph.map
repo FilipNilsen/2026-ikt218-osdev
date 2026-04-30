@@ -14,8 +14,8 @@
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,77,373,40,394,32,396,37,375,45,285,82"/>
 <area shape="rect" id="Node000004" href="$heap_8c.html#a9c36d0fe3ec4675cbffdc9b52f5fb399" title="Allocates at least size bytes from the kernel heap." alt="" coords="418,55,477,80"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="302,84,402,71,403,76,303,89"/>
-<area shape="rect" id="Node000007" href="$string_8c.html#a12bee89ccd121c793b3e81305a60c211" title="Finds the length of a string." alt="" coords="421,104,474,130"/>
-<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="303,96,406,109,405,114,302,101"/>
+<area shape="rect" id="Node000007" href="$string_8c.html#a8465f21925e94221c3b92ba73fc7a9b0" title="Finds the length of a string." alt="" coords="412,104,483,130"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="303,96,397,108,397,113,302,101"/>
 <area shape="rect" id="Node000005" href="$heap_8c.html#a401aaf24b99f6928ef5b161a6ad97c38" title=" " alt="" coords="647,31,716,56"/>
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="478,62,631,46,632,51,478,67"/>
 <area shape="rect" id="Node000006" href="$heap_8c.html#a18e1cd07c4b070ddb71e7ee3044e55ab" title=" " alt="" coords="640,80,723,106"/>
