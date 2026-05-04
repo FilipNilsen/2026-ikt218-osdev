@@ -12,10 +12,10 @@ jobs:
     - name: Check modified files
       run: |
         echo "Fetching origin/${{ github.base_ref }}"
-        git fetch origin uiaict/2026-ikt218-osdev
+        git fetch uiaict 2026-ikt218-osdev
     
         echo "Checking for changes outside 'build/' and 'src/' directories"
-        OUTSIDE_CHANGE=$(git diff --name-only origin/uiaict/2026-ikt218-osdev | grep -vE '^(build/|src/)' | tr -d '[:space:]')
+        OUTSIDE_CHANGE=$(git diff --name-only uiaict/2026-ikt218-osdev | grep -vE '^(build/|src/)' | tr -d '[:space:]')
 
     
         if [ ! -z "$OUTSIDE_CHANGE" ]; then
@@ -32,10 +32,10 @@ jobs:
     - name: Check group_name folder modifications
       run: |
         echo "Fetching origin/${{ github.base_ref }}"
-        git fetch origin uiaict/2026-ikt218-osdev
+        git fetch uiaict 2026-ikt218-osdev
     
         echo "Listing changed files from origin/${{ github.base_ref }}"
-        CHANGED_FILES_LIST=$(git diff --name-only origin/uiaict/2026-ikt218-osdev)
+        CHANGED_FILES_LIST=$(git diff --name-only uiaict/2026-ikt218-osdev)
         
         echo "List of changed files:"
         echo "$CHANGED_FILES_LIST"
@@ -57,10 +57,10 @@ jobs:
         echo "Checking for newly created files in 'src/' and 'build/' directories"
     
         # Fetch the base branch
-        git fetch origin uiaict/2026-ikt218-osdev
+        git fetch uiaict 2026-ikt218-osdev
     
         # List only newly created files, excluding directories
-        NEW_FILES=$(git diff --name-only --diff-filter=A origin/uiaict/2026-ikt218-osdev | grep -E '^(build/|src/)[^/]+$' | tr -d '[:space:]') 
+        NEW_FILES=$(git diff --name-only --diff-filter=A uiaict/2026-ikt218-osdev | grep -E '^(build/|src/)[^/]+$' | tr -d '[:space:]') 
     
         echo "List of new files:"
         echo "$NEW_FILES"
