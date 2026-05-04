@@ -12,11 +12,11 @@ jobs:
 
     - name: Check modified files
       run: |
-        echo "Fetching origin/${{ github.base_ref }}"
-        git fetch origin ${{ github.base_ref }}
+        echo "Fetching ${{ github.base_ref }}"
+        git fetch ${{ github.base_ref }}
     
         echo "Checking for changes outside 'build/' and 'src/' directories"
-        OUTSIDE_CHANGE=$(git diff --name-only origin/${{ github.base_ref }} | grep -vE '^(build/|src/)' | tr -d '[:space:]')
+        OUTSIDE_CHANGE=$(git diff --name-only ${{ github.base_ref }} | grep -vE '^(build/|src/)' | tr -d '[:space:]')
 
     
         if [ ! -z "$OUTSIDE_CHANGE" ]; then
@@ -33,10 +33,10 @@ jobs:
     - name: Check group_name folder modifications
       run: |
         echo "Fetching origin/${{ github.base_ref }}"
-        git fetch origin ${{ github.base_ref }}
+        git fetch ${{ github.base_ref }}
     
         echo "Listing changed files from origin/${{ github.base_ref }}"
-        CHANGED_FILES_LIST=$(git diff --name-only origin/${{ github.base_ref }})
+        CHANGED_FILES_LIST=$(git diff --name-only ${{ github.base_ref }})
         
         echo "List of changed files:"
         echo "$CHANGED_FILES_LIST"
@@ -58,10 +58,10 @@ jobs:
         echo "Checking for newly created files in 'src/' and 'build/' directories"
     
         # Fetch the base branch
-        git fetch origin ${{ github.base_ref }}
+        git fetch ${{ github.base_ref }}
     
         # List only newly created files, excluding directories
-        NEW_FILES=$(git diff --name-only --diff-filter=A origin/${{ github.base_ref }} | grep -E '^(build/|src/)[^/]+$' | tr -d '[:space:]') 
+        NEW_FILES=$(git diff --name-only --diff-filter=A ${{ github.base_ref }} | grep -E '^(build/|src/)[^/]+$' | tr -d '[:space:]') 
     
         echo "List of new files:"
         echo "$NEW_FILES"
